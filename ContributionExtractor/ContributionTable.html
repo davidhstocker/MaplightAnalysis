@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Simple D3 Transition</title>
+		<style>
+			.anchorBottom {
+				vertical-align: bottom;
+			}
+			.sapUiBody {  
+				background-color: transparent !important;  
+				background-image: none !important;  
+			}  
+		</style>
+		<!-- Do we still need D3? -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
+		
+		<script src="contribdata.js"></script>
+		<!-- Load UI5, select blue crystal theme and the "commons" and "table" control libraries -->
+		<script id='sap-ui-bootstrap' type='text/javascript'
+		   src='https://openui5.hana.ondemand.com/1.44.12/resources/sap-ui-core.js'
+		   data-sap-ui-theme='sap_bluecrystal'
+		   data-sap-ui-libs='sap.ui.commons,sap.ui.table'></script>		
+    </head>
+	<body class='sapUiBody'>
+		<div id='content'></div>
+		<div id='content2'></div>
+		<script>
+			var detailData = detailDataAll[0];
+
+			var tableIDIndex = 0
+			//
+			
+			detailHeader = masterData[tableIDIndex].interestGroup;	
+			errorText = "";	
+			
+			//Some variables, for determining how much real estate that we have to work with
+			//We are using the master/detail UI pattern, so we'll use masterX and detailX naming conventions
+			var screenWidth = $( window ).width();
+			var screenHeight = $( window ).height();
+			var row2Height = screenHeight - 150;  
+			var baseColMasterWidth = 400;
+			var colMasterWidth = '' + baseColMasterWidth + 'px';
+			var baseColDetailWidth = screenWidth - baseColMasterWidth - 60;
+			var dynamicVisibleRowCount = Math.floor((row2Height - (29+25))/28);
+			var masterDVRC = dynamicVisibleRowCount;
+			
+			detailDVRC = dynamicVisibleRowCount;
+
+			//Don't let colDetailWidth be less than 400 pixels.  Force side scrolling if needed
+			if (baseColDetailWidth < 400){
+				baseColDetailWidth = 400;
+				screenWidth = 800;
+				alert('Window width is less than 800px.  At least 400px is required to display the graph.  Forcing horizontal scrolling in page.');
+			}
+			var colDetailWidth = '' + baseColMasterWidth + 'px';
+			
+			//Don't let row2Height be less than 0.  Force vertical scrolling if needed
+			if (row2Height < 85){
+				row2Height = 290;
+				screenHeight = 690;
+				alert('Window height is less than 260px, so there is no room to show at least one data row.  Forcing vertical scrolling in page.');
+			}
+			
+			//If dynamicVisibleRowCount happens to be greater than masterData.length, then truncate it
+			//	Otherwise, we'll get empty rows and they look stupid
+			if (masterDVRC > masterData.length){
+				masterDVRC = masterData.length
+			}
+			
+			//Same with the detail table
+			if (detailDVRC > detailData.length){
+				detailDVRC = detailData.length
+			}
+
+		
+			
+			/////////////////////
+			// Tables
+			/////////////////////			
+			
+			
+			//Master
+			var tableMaster = new sap.ui.table.Table({
+				title: "Interest Groups",
+				visibleRowCount: masterDVRC,
+				firstVisibleRow: 1,
+				selectionMode: sap.ui.table.SelectionMode.Single,
+				selectionBehavior: sap.ui.table.SelectionBehavior.Row,
+				fixedColumnCount: 2,
+				rowSelectionChange: function(e) {
+				  var idx = e.getParameter('rowIndex');
+				  if (tableMaster.isIndexSelected(idx)) {
+					var cxt = tableMaster.getContextByIndex(idx);
+					var path = cxt.sPath;
+					var obj = tableMaster.getModel().getProperty(path);
+					detailHeader = obj.interestGroup;
+					detailData = detailDataAll[obj.id];     
+					redrawDetailTable();  
+				  }
+				}
+			});
+
+			tableMaster.addColumn(new sap.ui.table.Column({
+				label: new sap.ui.commons.Label({text: "Amount"}),
+				template: new sap.ui.commons.TextView().bindProperty("text", "amount"),
+				sortProperty: "amount",
+				filterProperty: "amount",
+				width: "92px"
+			}));
+			
+			//Define the columns and the control templates to be used
+			tableMasterKeyWidth = baseColMasterWidth - 120;  //Dynamically set the label column width, based on available screen width.
+			tableMaster.addColumn(new sap.ui.table.Column({
+				label: new sap.ui.commons.Label({text: "Interest Group"}),
+				template: new sap.ui.commons.TextView().bindProperty("text", "interestGroup"),
+				sortProperty: "interestGroup",
+				filterProperty: "interestGroup",
+				width: "" + tableMasterKeyWidth + "px"
+			}));
+
+
+			//Create a model, bind the table rows and sort the table
+			var modelMaster = new sap.ui.model.json.JSONModel();
+			modelMaster.setData({modelData: masterData});
+			tableMaster.setModel(modelMaster);
+			tableMaster.bindRows("/modelData");
+			tableMaster.sort(tableMaster.getColumns()[0], "Descending");
+			
+								
+			//The Detail Table
+			tableDetailKeyWidth = baseColDetailWidth - 120;  //Dynamically set the label column width, based on available screen width.
+			tableDetail = new sap.ui.table.Table({
+				visibleRowCount: detailDVRC,
+				firstVisibleRow: 1,
+				selectionMode: sap.ui.table.SelectionMode.Single,
+				selectionBehavior: sap.ui.table.SelectionBehavior.Row,
+				fixedColumnCount: 3
+			});
+
+			tableDetail.addColumn(new sap.ui.table.Column({
+				label: new sap.ui.commons.Label({text: "Amount"}),
+				template: new sap.ui.commons.TextView().bindProperty("text", "amount"),
+				sortProperty: "amount",
+				filterProperty: "amount",
+				width: "92px"
+			}));
+			//Define the columns and the control templates to be used
+			tableDetail.addColumn(new sap.ui.table.Column({
+				label: new sap.ui.commons.Label({text: "Contributor"}),
+				template: new sap.ui.commons.TextView().bindProperty("text", "contributor"),
+				sortProperty: "contributor",
+				filterProperty: "contributor",
+				width: "" + tableDetailKeyWidth + "px"
+			}));
+			/*
+			tableDetail.addColumn(new sap.ui.table.Column({
+				label: new sap.ui.commons.Label({text: "Date"}),
+				template: new sap.ui.commons.TextView().bindProperty("text", "date"),
+				sortProperty: "date",
+				filterProperty: "date",
+				width: "75px"
+			}));
+			*/
+
+			modelDetail = new sap.ui.model.json.JSONModel();
+			modelDetail.setData({modelData: detailData});
+			tableDetail.setModel(modelDetail);
+			tableDetail.bindRows("/modelData");
+			tableDetail.sort(tableDetail.getColumns()[0], "Descending");
+			
+
+			/////////////////////
+			// Matrix
+			/////////////////////
+			
+			// create a UI5 MatrixLayout with 3 columns and 3 rows
+			var oLayout = new sap.ui.commons.layout.MatrixLayout({
+				id : 'containerMatrix',
+				layoutFixed : true,
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				columns : 5,
+				width : '' + screenWidth + 'px',
+				widths : ['20px', colMasterWidth, '20px', "auto", '20px']
+			});
+			oLayout.addDelegate({
+            	onAfterRendering: function () {
+					//redrawChart();  //obsolete function call, but lets's leave the callback in, just in case we want to use it later
+				}
+			});
+
+
+			// HeaderRow
+			////////////
+			var rowHeader = new sap.ui.commons.layout.MatrixLayoutRow({
+				id : 'Row_Header',
+				height: '75px' });
+			oLayout.addRow(rowHeader);
+
+			// Left Margin Padding
+			var paddingLMH = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Padding_LeftMarginHeader',
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 1 });
+			rowHeader.addCell(paddingLMH);
+			
+			//Top Row, Text Label Cell
+			var labelCell = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Cell_Label',
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 4 });
+
+			var labelCellTextView = new sap.ui.commons.TextView({
+				text : 'Contributions to ' + headerText_Recipient +', ' + headerText_Party + ', ' + headerText_District + '\n',
+				design : sap.ui.commons.TextViewDesign.H1 });
+
+			labelCell.addContent(labelCellTextView);
+			rowHeader.addCell(labelCell);
+			
+			// Content Row
+			///////////////
+			var rowContent = new sap.ui.commons.layout.MatrixLayoutRow({
+				id : 'Row_Content',
+				height: '' + row2Height + 'px' });
+			oLayout.addRow(rowContent);
+
+			// Master table cell, where the master list goes
+			
+			// Left Margin Padding
+			var paddingLMB = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Padding_LeftMarginBody',
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 1 });
+			rowContent.addCell(paddingLMB);
+			
+			var masterCell = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Cell_Master',
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 1 });
+			masterCell.addContent(tableMaster);
+			rowContent.addCell(masterCell);
+			
+			var paddingCMB = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Padding_CenterMarginBody',
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 1 });
+			rowContent.addCell(paddingCMB);
+			
+			//Detail table cell
+			var detailCell = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Cell_Detail',
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 1 });
+			detailCell.addContent(tableDetail);
+			rowContent.addCell(detailCell);
+
+			var paddingRMB = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Padding_RightMarginBody',
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 1 });
+			rowContent.addCell(paddingRMB);			
+			
+			///////////////////
+			//Footer Row
+			///////////////////
+			var rowFooter = new sap.ui.commons.layout.MatrixLayoutRow({
+				id : 'Row_Footer',
+				height: '75px' });
+			oLayout.addRow(rowFooter);	
+
+			// Left Margin Padding
+			var paddingLMF = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'Padding_LeftMarginFooter',
+				vAlign: sap.ui.commons.layout.VAlign.Top,
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 1 });
+			rowFooter.addCell(paddingLMF);
+						
+			var footerLabelCell = new sap.ui.commons.layout.MatrixLayoutCell({
+				id : 'FCell_Label',
+				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
+				colSpan : 4 });
+
+			var footerLabelCellTextView = new sap.ui.commons.TextView({
+				text : 'Did you know that the average member of Congress spends 30 hours per week begging for money from donors?',
+				design : sap.ui.commons.TextViewDesign.H2 });
+
+			footerLabelCell.addContent(footerLabelCellTextView);
+			rowFooter.addCell(footerLabelCell);		
+			
+			
+		
+			// Matrix built
+			redrawDetailTable();
+
+			// attach it to some element in the page
+			oLayout.placeAt('content2');
+			
+			
+			//Table Redraw
+			function redrawDetailTable() {
+				modelDetail.setData({modelData: detailData});
+				modelDetail.refresh();
+				detailDVRC = dynamicVisibleRowCount;
+				
+				if (detailDVRC > detailData.length){
+					detailDVRC = detailData.length
+				}
+				tableDetail.setVisibleRowCount(detailDVRC);
+				tableDetail.sort(tableDetail.getColumns()[0]);
+				tableDetail.setTitle(detailHeader);
+				
+				var test = tableDetail.getColumns();
+				tableDetail.sort(tableDetail.getColumns()[0], "Descending");
+			}
+			
+			function filterDetailTable(filterValue){
+				tableDetail.filter(getColumns()[0], filterValue);
+			}
+			
+			// A $( document ).ready() block.
+			$( document ).ready(function() {
+				//alert( "ready!" );
+			});
+		</script>
+	</body>
+</html>
