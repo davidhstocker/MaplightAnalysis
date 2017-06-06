@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>Simple D3 Transition</title>
 		<style>
 			.anchorBottom {
 				vertical-align: bottom;
@@ -188,7 +187,9 @@
 				}
 			});
 
-
+			var textHeaderInfo = 'Contributions to ' + headerText_Recipient +', ' + headerText_Party + ', ' + headerText_District + ' (' + headerText_StartYear + ' to ' + headerText_EndYear + ')';
+			document.title = textHeaderInfo;
+			
 			// HeaderRow
 			////////////
 			var rowHeader = new sap.ui.commons.layout.MatrixLayoutRow({
@@ -211,7 +212,7 @@
 				colSpan : 4 });
 
 			var labelCellTextView = new sap.ui.commons.TextView({
-				text : 'Contributions to ' + headerText_Recipient +', ' + headerText_Party + ', ' + headerText_District + '\n',
+				text : textHeaderInfo,
 				design : sap.ui.commons.TextViewDesign.H1 });
 
 			labelCell.addContent(labelCellTextView);

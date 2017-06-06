@@ -1,15356 +1,15358 @@
 headerText_Recipient = "Thomas MacArthur";
 headerText_Party = "Republican";
 headerText_District = "NJ House 3";
+headerText_StartYear = "2015";
+headerText_EndYear = "2016";
 masterData = {
     "0": {
-        "amount": 1665272,
         "id": 0,
-        "interestGroup": "(All)"
+        "interestGroup": "(All)",
+        "amount": 1665272
     },
     "1": {
-        "amount": 26000,
         "id": 1,
-        "interestGroup": "Defense electronic contractors"
+        "interestGroup": "Defense electronic contractors",
+        "amount": 26000
     },
     "2": {
-        "amount": 36200,
         "id": 2,
-        "interestGroup": "Republican/Conservative"
+        "interestGroup": "Republican/Conservative",
+        "amount": 36200
     },
     "3": {
-        "amount": 2000,
         "id": 3,
-        "interestGroup": "Mining unions"
+        "interestGroup": "Mining unions",
+        "amount": 2000
     },
     "4": {
-        "amount": 3000,
         "id": 4,
-        "interestGroup": "Medical Devices & Supplies"
+        "interestGroup": "Medical Devices & Supplies",
+        "amount": 3000
     },
     "5": {
-        "amount": 32000,
         "id": 5,
-        "interestGroup": "Life insurance"
+        "interestGroup": "Life insurance",
+        "amount": 32000
     },
     "6": {
-        "amount": 31950,
         "id": 6,
-        "interestGroup": "Insurance companies, brokers & agents"
+        "interestGroup": "Insurance companies, brokers & agents",
+        "amount": 31950
     },
     "7": {
-        "amount": 25533,
         "id": 7,
-        "interestGroup": "Republican Candidate Committees"
+        "interestGroup": "Republican Candidate Committees",
+        "amount": 25533
     },
     "8": {
-        "amount": 62882,
         "id": 8,
-        "interestGroup": "Attorneys & law firms"
+        "interestGroup": "Attorneys & law firms",
+        "amount": 62882
     },
     "9": {
-        "amount": 23600,
         "id": 9,
-        "interestGroup": "Other physician specialists"
+        "interestGroup": "Other physician specialists",
+        "amount": 23600
     },
     "10": {
-        "amount": 131,
         "id": 10,
-        "interestGroup": "Gay & lesbian rights & issues"
+        "interestGroup": "Gay & lesbian rights & issues",
+        "amount": 131
     },
     "11": {
-        "amount": 8500,
         "id": 11,
-        "interestGroup": "Nursing homes"
+        "interestGroup": "Nursing homes",
+        "amount": 8500
     },
     "12": {
-        "amount": 2000,
         "id": 12,
-        "interestGroup": "Vending Machine Sales & Services"
+        "interestGroup": "Vending Machine Sales & Services",
+        "amount": 2000
     },
     "13": {
-        "amount": 8500,
         "id": 13,
-        "interestGroup": "Electrical contractors"
+        "interestGroup": "Electrical contractors",
+        "amount": 8500
     },
     "14": {
-        "amount": 115084,
         "id": 14,
-        "interestGroup": "Republican leadership PAC"
+        "interestGroup": "Republican leadership PAC",
+        "amount": 115084
     },
     "15": {
-        "amount": 15900,
         "id": 15,
-        "interestGroup": "Natural Gas transmission & distribution"
+        "interestGroup": "Natural Gas transmission & distribution",
+        "amount": 15900
     },
     "16": {
-        "amount": 5950,
         "id": 16,
-        "interestGroup": "Property & casualty insurance"
+        "interestGroup": "Property & casualty insurance",
+        "amount": 5950
     },
     "17": {
-        "amount": 9000,
         "id": 17,
-        "interestGroup": "HMOs"
+        "interestGroup": "HMOs",
+        "amount": 9000
     },
     "18": {
-        "amount": 53250,
         "id": 18,
-        "interestGroup": "Defense aerospace contractors"
+        "interestGroup": "Defense aerospace contractors",
+        "amount": 53250
     },
     "19": {
-        "amount": 2000,
         "id": 19,
-        "interestGroup": "Defense shipbuilders"
+        "interestGroup": "Defense shipbuilders",
+        "amount": 2000
     },
     "20": {
-        "amount": 8050,
         "id": 20,
-        "interestGroup": "Home care services"
+        "interestGroup": "Home care services",
+        "amount": 8050
     },
     "21": {
-        "amount": 14900,
         "id": 21,
-        "interestGroup": "Engineering, architecture & construction mgmt svcs"
+        "interestGroup": "Engineering, architecture & construction mgmt svcs",
+        "amount": 14900
     },
     "22": {
-        "amount": 17700,
         "id": 22,
-        "interestGroup": "Electric Power utilities"
+        "interestGroup": "Electric Power utilities",
+        "amount": 17700
     },
     "23": {
-        "amount": 24000,
         "id": 23,
-        "interestGroup": "Pharmaceutical manufacturing"
+        "interestGroup": "Pharmaceutical manufacturing",
+        "amount": 24000
     },
     "24": {
-        "amount": 1500,
         "id": 24,
-        "interestGroup": "Sea freight & passenger services"
+        "interestGroup": "Sea freight & passenger services",
+        "amount": 1500
     },
     "25": {
-        "amount": 9000,
         "id": 25,
-        "interestGroup": "Commercial banks & bank holding companies"
+        "interestGroup": "Commercial banks & bank holding companies",
+        "amount": 9000
     },
     "26": {
-        "amount": 5500,
         "id": 26,
-        "interestGroup": "Transportation unions"
+        "interestGroup": "Transportation unions",
+        "amount": 5500
     },
     "27": {
-        "amount": 8000,
         "id": 27,
-        "interestGroup": "Telephone utilities"
+        "interestGroup": "Telephone utilities",
+        "amount": 8000
     },
     "28": {
-        "amount": 32500,
         "id": 28,
-        "interestGroup": "Lobbyists & Public Relations"
+        "interestGroup": "Lobbyists & Public Relations",
+        "amount": 32500
     },
     "29": {
-        "amount": 33825,
         "id": 29,
-        "interestGroup": "Security brokers & investment companies"
+        "interestGroup": "Security brokers & investment companies",
+        "amount": 33825
     },
     "30": {
-        "amount": 6400,
         "id": 30,
-        "interestGroup": "Hospitals"
+        "interestGroup": "Hospitals",
+        "amount": 6400
     },
     "31": {
-        "amount": 7500,
         "id": 31,
-        "interestGroup": "Liquor wholesalers"
+        "interestGroup": "Liquor wholesalers",
+        "amount": 7500
     },
     "32": {
-        "amount": 2000,
         "id": 32,
-        "interestGroup": "Cotton"
+        "interestGroup": "Cotton",
+        "amount": 2000
     },
     "33": {
-        "amount": 4000,
         "id": 33,
-        "interestGroup": "IBEW (Intl Brotherhood of Electrical Workers)"
+        "interestGroup": "IBEW (Intl Brotherhood of Electrical Workers)",
+        "amount": 4000
     },
     "34": {
-        "amount": 3500,
         "id": 34,
-        "interestGroup": "Federal employees unions"
+        "interestGroup": "Federal employees unions",
+        "amount": 3500
     },
     "35": {
-        "amount": 5500,
         "id": 35,
-        "interestGroup": "Food wholesalers"
+        "interestGroup": "Food wholesalers",
+        "amount": 5500
     },
     "36": {
-        "amount": 3000,
         "id": 36,
-        "interestGroup": "Pharmaceutical wholesale"
+        "interestGroup": "Pharmaceutical wholesale",
+        "amount": 3000
     },
     "37": {
-        "amount": 18000,
         "id": 37,
-        "interestGroup": "Air transport unions"
+        "interestGroup": "Air transport unions",
+        "amount": 18000
     },
     "38": {
-        "amount": 7750,
         "id": 38,
-        "interestGroup": "Real estate agents"
+        "interestGroup": "Real estate agents",
+        "amount": 7750
     },
     "39": {
-        "amount": 2500,
         "id": 39,
-        "interestGroup": "Consumer electronics & computer stores"
+        "interestGroup": "Consumer electronics & computer stores",
+        "amount": 2500
     },
     "40": {
-        "amount": 12500,
         "id": 40,
-        "interestGroup": "US Postal Service unions & associations"
+        "interestGroup": "US Postal Service unions & associations",
+        "amount": 12500
     },
     "41": {
-        "amount": 2000,
         "id": 41,
-        "interestGroup": "Book, newspaper & periodical publishing"
+        "interestGroup": "Book, newspaper & periodical publishing",
+        "amount": 2000
     },
     "42": {
-        "amount": 23350,
         "id": 42,
-        "interestGroup": "Accountants"
+        "interestGroup": "Accountants",
+        "amount": 23350
     },
     "43": {
-        "amount": 2000,
         "id": 43,
-        "interestGroup": "Health care products"
+        "interestGroup": "Health care products",
+        "amount": 2000
     },
     "44": {
-        "amount": 25480,
         "id": 44,
-        "interestGroup": "Restaurants & drinking establishments"
+        "interestGroup": "Restaurants & drinking establishments",
+        "amount": 25480
     },
     "45": {
-        "amount": 3000,
         "id": 45,
-        "interestGroup": "Water Utilities"
+        "interestGroup": "Water Utilities",
+        "amount": 3000
     },
     "46": {
-        "amount": 14300,
         "id": 46,
-        "interestGroup": "Gas & Electric Utilities"
+        "interestGroup": "Gas & Electric Utilities",
+        "amount": 14300
     },
     "47": {
-        "amount": 13500,
         "id": 47,
-        "interestGroup": "Cable distributors & service providers"
+        "interestGroup": "Cable distributors & service providers",
+        "amount": 13500
     },
     "48": {
-        "amount": 69000,
         "id": 48,
-        "interestGroup": "Building trades unions"
+        "interestGroup": "Building trades unions",
+        "amount": 69000
     },
     "49": {
-        "amount": 13550,
         "id": 49,
-        "interestGroup": "Auto dealers, new & used"
+        "interestGroup": "Auto dealers, new & used",
+        "amount": 13550
     },
     "50": {
-        "amount": 10400,
         "id": 50,
-        "interestGroup": "Accident & health insurance"
+        "interestGroup": "Accident & health insurance",
+        "amount": 10400
     },
     "51": {
-        "amount": 10000,
         "id": 51,
-        "interestGroup": "Teamsters union"
+        "interestGroup": "Teamsters union",
+        "amount": 10000
     },
     "52": {
-        "amount": 1000,
         "id": 52,
-        "interestGroup": "Credit agencies & finance companies"
+        "interestGroup": "Credit agencies & finance companies",
+        "amount": 1000
     },
     "53": {
-        "amount": 6000,
         "id": 53,
-        "interestGroup": "Real Estate developers & subdividers"
+        "interestGroup": "Real Estate developers & subdividers",
+        "amount": 6000
     },
     "54": {
-        "amount": 3500,
         "id": 54,
-        "interestGroup": "Casinos, racetracks & gambling"
+        "interestGroup": "Casinos, racetracks & gambling",
+        "amount": 3500
     },
     "55": {
-        "amount": 1000,
         "id": 55,
-        "interestGroup": ""
+        "interestGroup": "",
+        "amount": 1000
     },
     "56": {
-        "amount": 8000,
         "id": 56,
-        "interestGroup": "Vegetables, fruits and tree nut"
+        "interestGroup": "Vegetables, fruits and tree nut",
+        "amount": 8000
     },
     "57": {
-        "amount": 11000,
         "id": 57,
-        "interestGroup": "Sugar cane & sugar beets"
+        "interestGroup": "Sugar cane & sugar beets",
+        "amount": 11000
     },
     "58": {
-        "amount": 8500,
         "id": 58,
-        "interestGroup": "Hotels & motels"
+        "interestGroup": "Hotels & motels",
+        "amount": 8500
     },
     "59": {
-        "amount": 5000,
         "id": 59,
-        "interestGroup": "Retail trade"
+        "interestGroup": "Retail trade",
+        "amount": 5000
     },
     "60": {
-        "amount": 4500,
         "id": 60,
-        "interestGroup": "Independent oil & gas producers"
+        "interestGroup": "Independent oil & gas producers",
+        "amount": 4500
     },
     "61": {
-        "amount": 2500,
         "id": 61,
-        "interestGroup": "Paints, Solvents & Coatings"
+        "interestGroup": "Paints, Solvents & Coatings",
+        "amount": 2500
     },
     "62": {
-        "amount": 5000,
         "id": 62,
-        "interestGroup": "Plumbing, heating & air conditioning"
+        "interestGroup": "Plumbing, heating & air conditioning",
+        "amount": 5000
     },
     "63": {
-        "amount": 26900,
         "id": 63,
-        "interestGroup": "Fishing"
+        "interestGroup": "Fishing",
+        "amount": 26900
     },
     "64": {
-        "amount": 7700,
         "id": 64,
-        "interestGroup": "Republican officials, candidates & former members"
+        "interestGroup": "Republican officials, candidates & former members",
+        "amount": 7700
     },
     "65": {
-        "amount": 1000,
         "id": 65,
-        "interestGroup": "Department, variety & convenience stores"
+        "interestGroup": "Department, variety & convenience stores",
+        "amount": 1000
     },
     "66": {
-        "amount": 3000,
         "id": 66,
-        "interestGroup": "Student loan companies"
+        "interestGroup": "Student loan companies",
+        "amount": 3000
     },
     "67": {
-        "amount": 8700,
         "id": 67,
-        "interestGroup": "Pleasure boats"
+        "interestGroup": "Pleasure boats",
+        "amount": 8700
     },
     "68": {
-        "amount": 12500,
         "id": 68,
-        "interestGroup": "Pro-Israel"
+        "interestGroup": "Pro-Israel",
+        "amount": 12500
     },
     "69": {
-        "amount": 2500,
         "id": 69,
-        "interestGroup": "Hardware & building materials stores"
+        "interestGroup": "Hardware & building materials stores",
+        "amount": 2500
     },
     "70": {
-        "amount": 6000,
         "id": 70,
-        "interestGroup": "Anti-Castro"
+        "interestGroup": "Anti-Castro",
+        "amount": 6000
     },
     "71": {
-        "amount": 1000,
         "id": 71,
-        "interestGroup": "Police & firefighters unions & associations"
+        "interestGroup": "Police & firefighters unions & associations",
+        "amount": 1000
     },
     "72": {
-        "amount": 2800,
         "id": 72,
-        "interestGroup": "Food and kindred products manufacturing"
+        "interestGroup": "Food and kindred products manufacturing",
+        "amount": 2800
     },
     "73": {
-        "amount": 15300,
         "id": 73,
-        "interestGroup": "Private Equity & Investment Firms"
+        "interestGroup": "Private Equity & Investment Firms",
+        "amount": 15300
     },
     "74": {
-        "amount": 8250,
         "id": 74,
-        "interestGroup": "Residential construction"
+        "interestGroup": "Residential construction",
+        "amount": 8250
     },
     "75": {
-        "amount": 2000,
         "id": 75,
-        "interestGroup": "Beverages (non-alcoholic)"
+        "interestGroup": "Beverages (non-alcoholic)",
+        "amount": 2000
     },
     "76": {
-        "amount": 1998,
         "id": 76,
-        "interestGroup": "Industrial/commercial equipment & materials"
+        "interestGroup": "Industrial/commercial equipment & materials",
+        "amount": 1998
     },
     "77": {
-        "amount": 1500,
         "id": 77,
-        "interestGroup": "Management consultants & services"
+        "interestGroup": "Management consultants & services",
+        "amount": 1500
     },
     "78": {
-        "amount": 1000,
         "id": 78,
-        "interestGroup": "Credit unions"
+        "interestGroup": "Credit unions",
+        "amount": 1000
     },
     "79": {
-        "amount": 1000,
         "id": 79,
-        "interestGroup": "Forestry & Forest Products"
+        "interestGroup": "Forestry & Forest Products",
+        "amount": 1000
     },
     "80": {
-        "amount": 1000,
         "id": 80,
-        "interestGroup": "Alternate energy production & services"
+        "interestGroup": "Alternate energy production & services",
+        "amount": 1000
     },
     "81": {
-        "amount": 1000,
         "id": 81,
-        "interestGroup": "Agricultural services & related industries"
+        "interestGroup": "Agricultural services & related industries",
+        "amount": 1000
     },
     "82": {
-        "amount": 23753,
         "id": 82,
-        "interestGroup": "Insurance"
+        "interestGroup": "Insurance",
+        "amount": 23753
     },
     "83": {
-        "amount": 2500,
         "id": 83,
-        "interestGroup": "Major (multinational) oil & gas producers"
+        "interestGroup": "Major (multinational) oil & gas producers",
+        "amount": 2500
     },
     "84": {
-        "amount": 1000,
         "id": 84,
-        "interestGroup": "Railroads"
+        "interestGroup": "Railroads",
+        "amount": 1000
     },
     "85": {
-        "amount": 5000,
         "id": 85,
-        "interestGroup": "Teachers unions"
+        "interestGroup": "Teachers unions",
+        "amount": 5000
     },
     "86": {
-        "amount": 1000,
         "id": 86,
-        "interestGroup": "Environmental policy"
+        "interestGroup": "Environmental policy",
+        "amount": 1000
     },
     "87": {
-        "amount": 1000,
         "id": 87,
-        "interestGroup": "Oil & Gas"
+        "interestGroup": "Oil & Gas",
+        "amount": 1000
     },
     "88": {
-        "amount": 2000,
         "id": 88,
-        "interestGroup": "Airlines"
+        "interestGroup": "Airlines",
+        "amount": 2000
     },
     "89": {
-        "amount": 8700,
         "id": 89,
-        "interestGroup": "Corporate lawyers & law firms"
+        "interestGroup": "Corporate lawyers & law firms",
+        "amount": 8700
     },
     "90": {
-        "amount": 8500,
         "id": 90,
-        "interestGroup": "Dentists"
+        "interestGroup": "Dentists",
+        "amount": 8500
     },
     "91": {
-        "amount": 5250,
         "id": 91,
-        "interestGroup": "Physicians"
+        "interestGroup": "Physicians",
+        "amount": 5250
     },
     "92": {
-        "amount": 9700,
         "id": 92,
-        "interestGroup": "Building operators and managers"
+        "interestGroup": "Building operators and managers",
+        "amount": 9700
     },
     "93": {
-        "amount": 2500,
         "id": 93,
-        "interestGroup": "Animal Rights"
+        "interestGroup": "Animal Rights",
+        "amount": 2500
     },
     "94": {
-        "amount": 500,
         "id": 94,
-        "interestGroup": "Drug stores"
+        "interestGroup": "Drug stores",
+        "amount": 500
     },
     "95": {
-        "amount": 5000,
         "id": 95,
-        "interestGroup": "Republican Party Committees"
+        "interestGroup": "Republican Party Committees",
+        "amount": 5000
     },
     "96": {
-        "amount": 500,
         "id": 96,
-        "interestGroup": "Medical laboratories"
+        "interestGroup": "Medical laboratories",
+        "amount": 500
     },
     "97": {
-        "amount": 1000,
         "id": 97,
-        "interestGroup": "Hunting & wildlife"
+        "interestGroup": "Hunting & wildlife",
+        "amount": 1000
     },
     "98": {
-        "amount": 1000,
         "id": 98,
-        "interestGroup": "Nuclear energy"
+        "interestGroup": "Nuclear energy",
+        "amount": 1000
     },
     "99": {
-        "amount": 5000,
         "id": 99,
-        "interestGroup": "Investment banking"
+        "interestGroup": "Investment banking",
+        "amount": 5000
     },
     "100": {
-        "amount": 5000,
         "id": 100,
-        "interestGroup": "General business associations"
+        "interestGroup": "General business associations",
+        "amount": 5000
     },
     "101": {
-        "amount": 2000,
         "id": 101,
-        "interestGroup": "Non-profit foundations"
+        "interestGroup": "Non-profit foundations",
+        "amount": 2000
     },
     "102": {
-        "amount": 1000,
         "id": 102,
-        "interestGroup": "Small business associations"
+        "interestGroup": "Small business associations",
+        "amount": 1000
     },
     "103": {
-        "amount": 1000,
         "id": 103,
-        "interestGroup": "Rural electric cooperatives"
+        "interestGroup": "Rural electric cooperatives",
+        "amount": 1000
     },
     "104": {
-        "amount": 1000,
         "id": 104,
-        "interestGroup": "Space vehicles & components"
+        "interestGroup": "Space vehicles & components",
+        "amount": 1000
     },
     "105": {
-        "amount": 1000,
         "id": 105,
-        "interestGroup": "General aviation (private pilots)"
+        "interestGroup": "General aviation (private pilots)",
+        "amount": 1000
     },
     "106": {
-        "amount": 1000,
         "id": 106,
-        "interestGroup": "Construction equipment"
+        "interestGroup": "Construction equipment",
+        "amount": 1000
     },
     "107": {
-        "amount": 319210,
         "id": 107,
-        "interestGroup": "Employer listed but category unknown"
+        "interestGroup": "Employer listed but category unknown",
+        "amount": 319210
     },
     "108": {
-        "amount": 3700,
         "id": 108,
-        "interestGroup": "Indian Gaming"
+        "interestGroup": "Indian Gaming",
+        "amount": 3700
     },
     "109": {
-        "amount": 1000,
         "id": 109,
-        "interestGroup": "Stone, clay, glass & concrete products"
+        "interestGroup": "Stone, clay, glass & concrete products",
+        "amount": 1000
     },
     "110": {
-        "amount": 17100,
         "id": 110,
-        "interestGroup": "Real estate"
+        "interestGroup": "Real estate",
+        "amount": 17100
     },
     "111": {
-        "amount": 47970,
         "id": 111,
-        "interestGroup": "Retired"
+        "interestGroup": "Retired",
+        "amount": 47970
     },
     "112": {
-        "amount": 11700,
         "id": 112,
-        "interestGroup": "Power plant construction & equipment"
+        "interestGroup": "Power plant construction & equipment",
+        "amount": 11700
     },
     "113": {
-        "amount": 9225,
         "id": 113,
-        "interestGroup": "No employer listed or discovered"
+        "interestGroup": "No employer listed or discovered",
+        "amount": 9225
     },
     "114": {
-        "amount": 8750,
         "id": 114,
-        "interestGroup": "Homemakers, students & other non-income earners"
+        "interestGroup": "Homemakers, students & other non-income earners",
+        "amount": 8750
     },
     "115": {
-        "amount": 5400,
         "id": 115,
-        "interestGroup": "Hedge Funds"
+        "interestGroup": "Hedge Funds",
+        "amount": 5400
     },
     "116": {
-        "amount": 1000,
         "id": 116,
-        "interestGroup": "Travel agents"
+        "interestGroup": "Travel agents",
+        "amount": 1000
     },
     "117": {
-        "amount": 500,
         "id": 117,
-        "interestGroup": "Health care services"
+        "interestGroup": "Health care services",
+        "amount": 500
     },
     "118": {
-        "amount": 2500,
         "id": 118,
-        "interestGroup": "Defense-related services"
+        "interestGroup": "Defense-related services",
+        "amount": 2500
     },
     "119": {
-        "amount": 1000,
         "id": 119,
-        "interestGroup": "Apparel & accessory stores"
+        "interestGroup": "Apparel & accessory stores",
+        "amount": 1000
     },
     "120": {
-        "amount": 4500,
         "id": 120,
-        "interestGroup": "Engineers - type unknown"
+        "interestGroup": "Engineers - type unknown",
+        "amount": 4500
     },
     "121": {
-        "amount": 2000,
         "id": 121,
-        "interestGroup": "Computer software"
+        "interestGroup": "Computer software",
+        "amount": 2000
     },
     "122": {
-        "amount": 500,
         "id": 122,
-        "interestGroup": "Other single-issue or ideological groups"
+        "interestGroup": "Other single-issue or ideological groups",
+        "amount": 500
     },
     "123": {
-        "amount": 8000,
         "id": 123,
-        "interestGroup": "Fish Processing"
+        "interestGroup": "Fish Processing",
+        "amount": 8000
     },
     "124": {
-        "amount": 30200,
         "id": 124,
-        "interestGroup": "Construction, unclassified"
+        "interestGroup": "Construction, unclassified",
+        "amount": 30200
     },
     "125": {
-        "amount": 1650,
         "id": 125,
-        "interestGroup": "Schools & colleges"
+        "interestGroup": "Schools & colleges",
+        "amount": 1650
     },
     "126": {
-        "amount": 15900,
         "id": 126,
-        "interestGroup": "Finance, Insurance & Real Estate"
+        "interestGroup": "Finance, Insurance & Real Estate",
+        "amount": 15900
     },
     "127": {
-        "amount": 3200,
         "id": 127,
-        "interestGroup": "Commercial printing & typesetting"
+        "interestGroup": "Commercial printing & typesetting",
+        "amount": 3200
     },
     "128": {
-        "amount": 250,
         "id": 128,
-        "interestGroup": "Architectural services"
+        "interestGroup": "Architectural services",
+        "amount": 250
     },
     "129": {
-        "amount": 350,
         "id": 129,
-        "interestGroup": "Banks & lending institutions"
+        "interestGroup": "Banks & lending institutions",
+        "amount": 350
     },
     "130": {
-        "amount": 1600,
         "id": 130,
-        "interestGroup": "Civil servant/public employee"
+        "interestGroup": "Civil servant/public employee",
+        "amount": 1600
     },
     "131": {
-        "amount": 6900,
         "id": 131,
-        "interestGroup": "Paper packaging materials"
+        "interestGroup": "Paper packaging materials",
+        "amount": 6900
     },
     "132": {
-        "amount": 1000,
         "id": 132,
-        "interestGroup": "Special trade contractors"
+        "interestGroup": "Special trade contractors",
+        "amount": 1000
     },
     "133": {
-        "amount": 4500,
         "id": 133,
-        "interestGroup": "Mortgage bankers and brokers"
+        "interestGroup": "Mortgage bankers and brokers",
+        "amount": 4500
     },
     "134": {
-        "amount": 4650,
         "id": 134,
-        "interestGroup": "Health, Education & Human Resources"
+        "interestGroup": "Health, Education & Human Resources",
+        "amount": 4650
     },
     "135": {
-        "amount": 250,
         "id": 135,
-        "interestGroup": "Title insurance & title abstract offices"
+        "interestGroup": "Title insurance & title abstract offices",
+        "amount": 250
     },
     "136": {
-        "amount": 1650,
         "id": 136,
-        "interestGroup": "Freight & delivery services"
+        "interestGroup": "Freight & delivery services",
+        "amount": 1650
     },
     "137": {
-        "amount": 981,
         "id": 137,
-        "interestGroup": "Laundries & dry cleaners"
+        "interestGroup": "Laundries & dry cleaners",
+        "amount": 981
     },
     "138": {
-        "amount": 2950,
         "id": 138,
-        "interestGroup": "Food stores"
+        "interestGroup": "Food stores",
+        "amount": 2950
     },
     "139": {
-        "amount": 250,
         "id": 139,
-        "interestGroup": "Crop production & basic processing"
+        "interestGroup": "Crop production & basic processing",
+        "amount": 250
     },
     "140": {
-        "amount": 2700,
         "id": 140,
-        "interestGroup": "Trucking companies & services"
+        "interestGroup": "Trucking companies & services",
+        "amount": 2700
     },
     "141": {
-        "amount": 500,
         "id": 141,
-        "interestGroup": "Heavy industrial manufacturing"
+        "interestGroup": "Heavy industrial manufacturing",
+        "amount": 500
     },
     "142": {
-        "amount": 300,
         "id": 142,
-        "interestGroup": "Environmental services, equipment & consulting"
+        "interestGroup": "Environmental services, equipment & consulting",
+        "amount": 300
     },
     "143": {
-        "amount": 3000,
         "id": 143,
-        "interestGroup": "Financial services & consulting"
+        "interestGroup": "Financial services & consulting",
+        "amount": 3000
     },
     "144": {
-        "amount": 2700,
         "id": 144,
-        "interestGroup": "Petroleum refining & marketing"
+        "interestGroup": "Petroleum refining & marketing",
+        "amount": 2700
     },
     "145": {
-        "amount": 500,
         "id": 145,
-        "interestGroup": "Public works, industrial & commercial construction"
+        "interestGroup": "Public works, industrial & commercial construction",
+        "amount": 500
     },
     "146": {
-        "amount": 500,
         "id": 146,
-        "interestGroup": "Defense"
+        "interestGroup": "Defense",
+        "amount": 500
     }
 };
 detailDataAll = {
     "0": [
         {
-            "amount": 2000,
             "date": "11/10/2015",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "6/9/2016",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/23/2016",
-            "contributor": "United Mine Workers Of America"
+            "contributor": "United Mine Workers Of America",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "3/28/2016",
-            "contributor": "Cr Bard Inc"
+            "contributor": "Cr Bard Inc",
+            "amount": 1500
         },
         {
-            "amount": 1500,
             "date": "7/16/2015",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Indep Insurance Agents & Brokers/america"
+            "contributor": "Indep Insurance Agents & Brokers/america",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/31/2016",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/29/2015",
-            "contributor": "Pepper Hamilton Llp"
+            "contributor": "Pepper Hamilton Llp",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/24/2015",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 2000
         },
         {
-            "amount": 131,
             "date": "8/22/2016",
-            "contributor": "American Unity Fund"
+            "contributor": "American Unity Fund",
+            "amount": 131
         },
         {
-            "amount": 1000,
             "date": "11/2/2015",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/24/2015",
-            "contributor": "National Automatic Merchandising Assn"
+            "contributor": "National Automatic Merchandising Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/30/2015",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "3/31/2016",
-            "contributor": "Making America Prosperous"
+            "contributor": "Making America Prosperous",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "9/10/2015",
-            "contributor": "Interstate Natural Gas Assn Of America"
+            "contributor": "Interstate Natural Gas Assn Of America",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Liberty Mutual Insurance"
+            "contributor": "Liberty Mutual Insurance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/4/2016",
-            "contributor": "Anthem Inc"
+            "contributor": "Anthem Inc",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "2/2/2016",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/30/2015",
-            "contributor": "Huntington Ingalls Industries"
+            "contributor": "Huntington Ingalls Industries",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/21/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "10/26/2016",
-            "contributor": "American Council Of Life Insurers"
+            "contributor": "American Council Of Life Insurers",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "7/8/2016",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "9/16/2016",
-            "contributor": "Bayada Home Health Care"
+            "contributor": "Bayada Home Health Care",
+            "amount": 5000
         },
         {
-            "amount": 500,
             "date": "3/24/2016",
-            "contributor": "American Council Of Engineering Cos"
+            "contributor": "American Council Of Engineering Cos",
+            "amount": 500
         },
         {
-            "amount": 5000,
             "date": "6/7/2016",
-            "contributor": "Prosperity Action"
+            "contributor": "Prosperity Action",
+            "amount": 5000
         },
         {
-            "amount": 2000,
             "date": "1/13/2016",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Northwestern Mutual Life Insurance"
+            "contributor": "Northwestern Mutual Life Insurance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/17/2016",
-            "contributor": "Daiichi Sankyo Inc"
+            "contributor": "Daiichi Sankyo Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/21/2016",
-            "contributor": "American Waterways Operators"
+            "contributor": "American Waterways Operators",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/9/2015",
-            "contributor": "Edison Electric Institute"
+            "contributor": "Edison Electric Institute",
+            "amount": 1000
         },
         {
-            "amount": 3000,
             "date": "8/22/2016",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/21/2015",
-            "contributor": "Verizon Communications"
+            "contributor": "Verizon Communications",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/3/2016",
-            "contributor": "Winning Strategies Washington"
+            "contributor": "Winning Strategies Washington",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "11/2/2015",
-            "contributor": "More Conservatives Pac"
+            "contributor": "More Conservatives Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "5/22/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/31/2015",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/5/2016",
-            "contributor": "American Hospital Assn"
+            "contributor": "American Hospital Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/20/2016",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "First In Freedom Pac"
+            "contributor": "First In Freedom Pac",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "8/22/2016",
-            "contributor": "Farmers Group"
+            "contributor": "Farmers Group",
+            "amount": 4000
         },
         {
-            "amount": 2500,
             "date": "4/14/2016",
-            "contributor": "National Beer Wholesalers Assn"
+            "contributor": "National Beer Wholesalers Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "7/14/2016",
-            "contributor": "National Cotton Council"
+            "contributor": "National Cotton Council",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "11/6/2015",
-            "contributor": "Intl Brotherhood Of Electrical Workers"
+            "contributor": "Intl Brotherhood Of Electrical Workers",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/16/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "10/31/2016",
-            "contributor": "National Active & Retired Federal Employees Assn"
+            "contributor": "National Active & Retired Federal Employees Assn",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "9/12/2016",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "2/11/2016",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 1500
         },
         {
-            "amount": 350,
             "date": "10/8/2015",
-            "contributor": "Bayada Home Health Care"
+            "contributor": "Bayada Home Health Care",
+            "amount": 350
         },
         {
-            "amount": 1000,
             "date": "5/7/2015",
-            "contributor": "Wakefern Food"
+            "contributor": "Wakefern Food",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "2/13/2015",
-            "contributor": "Express Scripts"
+            "contributor": "Express Scripts",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/16/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/10/2015",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "12/14/2015",
-            "contributor": "Best Buy"
+            "contributor": "Best Buy",
+            "amount": 2500
         },
         {
-            "amount": 4000,
             "date": "8/17/2016",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 4000
         },
         {
-            "amount": 2000,
             "date": "2/23/2016",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "10/12/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/22/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/10/2016",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/6/2016",
-            "contributor": "National Assn Of Letter Carriers"
+            "contributor": "National Assn Of Letter Carriers",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "Relx Inc"
+            "contributor": "Relx Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/4/2015",
-            "contributor": "Deloitte Llp"
+            "contributor": "Deloitte Llp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/5/2015",
-            "contributor": "Johnson & Johnson"
+            "contributor": "Johnson & Johnson",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "4/11/2016",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/30/2015",
-            "contributor": "Mednax Inc"
+            "contributor": "Mednax Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/10/2016",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/6/2016",
-            "contributor": "Aqua America"
+            "contributor": "Aqua America",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/23/2016",
-            "contributor": "American Council Of Engineering Cos"
+            "contributor": "American Council Of Engineering Cos",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "8/7/2015",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "12/7/2015",
-            "contributor": "Akin, Gump Et Al"
+            "contributor": "Akin, Gump Et Al",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "10/23/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 2000
         },
         {
-            "amount": 1500,
             "date": "5/26/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1500
         },
         {
-            "amount": 5000,
             "date": "6/30/2015",
-            "contributor": "Operating Engineers Local 825"
+            "contributor": "Operating Engineers Local 825",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "3/18/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "10/6/2016",
-            "contributor": "National Auto Dealers Assn"
+            "contributor": "National Auto Dealers Assn",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/18/2015",
-            "contributor": "National Rural Letter Carriers Assn"
+            "contributor": "National Rural Letter Carriers Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/10/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "2/8/2016",
-            "contributor": "Kevin Mccarthy For Congress"
+            "contributor": "Kevin Mccarthy For Congress",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "3/7/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/10/2015",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "12/8/2015",
-            "contributor": "New York Life Insurance"
+            "contributor": "New York Life Insurance",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/14/2015",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/26/2016",
-            "contributor": "Air Line Pilots Assn"
+            "contributor": "Air Line Pilots Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Verizon Communications"
+            "contributor": "Verizon Communications",
+            "amount": 1000
         },
         {
-            "amount": 4500,
             "date": "6/3/2015",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 4500
         },
         {
-            "amount": 5000,
             "date": "1/16/2015",
-            "contributor": "American Assn Of Orthopaedic Surgeons"
+            "contributor": "American Assn Of Orthopaedic Surgeons",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "11/2/2016",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/27/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/11/2016",
-            "contributor": "Deloitte Llp"
+            "contributor": "Deloitte Llp",
+            "amount": 1000
         },
         {
-            "amount": 4250,
             "date": "9/21/2016",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 4250
         },
         {
-            "amount": 1000,
             "date": "7/13/2016",
-            "contributor": "Plains Cotton Growers"
+            "contributor": "Plains Cotton Growers",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "10/17/2016",
-            "contributor": "Securities Industry & Financial Mkt Assn"
+            "contributor": "Securities Industry & Financial Mkt Assn",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "9/2/2016",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "6/29/2016",
-            "contributor": "Pharmaceutical Care Management Assn"
+            "contributor": "Pharmaceutical Care Management Assn",
+            "amount": 500
         },
         {
-            "amount": 5000,
             "date": "2/26/2015",
-            "contributor": "Freedom Project"
+            "contributor": "Freedom Project",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "4/10/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/4/2016",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "2/8/2016",
-            "contributor": "Kevin Mccarthy For Congress"
+            "contributor": "Kevin Mccarthy For Congress",
+            "amount": 2000
         },
         {
-            "amount": 2700,
             "date": "4/15/2015",
-            "contributor": "Teamsters Union"
+            "contributor": "Teamsters Union",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "2/2/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/19/2015",
-            "contributor": "John S Fund"
+            "contributor": "John S Fund",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Novo Nordisk"
+            "contributor": "Novo Nordisk",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "Pat Meehan For Congress"
+            "contributor": "Pat Meehan For Congress",
+            "amount": 1000
         },
         {
-            "amount": 1700,
             "date": "10/28/2016",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1700
         },
         {
-            "amount": 2500,
             "date": "4/28/2016",
-            "contributor": "Pepper Hamilton Llp"
+            "contributor": "Pepper Hamilton Llp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "8/31/2016",
-            "contributor": "Cit Group"
+            "contributor": "Cit Group",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/26/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/25/2016",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "6/1/2015",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "9/23/2016",
-            "contributor": "National Multi Housing Council"
+            "contributor": "National Multi Housing Council",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "12/21/2015",
-            "contributor": "Boyd Gaming"
+            "contributor": "Boyd Gaming",
+            "amount": 2500
         },
         {
-            "amount": 3500,
             "date": "10/11/2016",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 3500
         },
         {
-            "amount": 3000,
             "date": "9/12/2016",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "2/18/2016",
-            "contributor": "American Gaming Assn"
+            "contributor": "American Gaming Assn",
+            "amount": 1000
         },
         {
-            "amount": 4250,
             "date": "8/25/2016",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 4250
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "National Assn Of Home Builders"
+            "contributor": "National Assn Of Home Builders",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "5/21/2015",
-            "contributor": "Ocean Spray Cranberries"
+            "contributor": "Ocean Spray Cranberries",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "5/8/2015",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "4/13/2015",
-            "contributor": "Michigan Sugar"
+            "contributor": "Michigan Sugar",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "11/4/2016",
-            "contributor": "Asian American Hotel Owners Assn"
+            "contributor": "Asian American Hotel Owners Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "International Council Of Shopping Cntrs"
+            "contributor": "International Council Of Shopping Cntrs",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/14/2015",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/15/2016",
-            "contributor": "Gary Palmer For Congress"
+            "contributor": "Gary Palmer For Congress",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/16/2015",
-            "contributor": "Devon Energy"
+            "contributor": "Devon Energy",
+            "amount": 1500
         },
         {
-            "amount": 2500,
             "date": "7/21/2015",
-            "contributor": "National Beer Wholesalers Assn"
+            "contributor": "National Beer Wholesalers Assn",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "3/4/2015",
-            "contributor": "Operating Engineers Union"
+            "contributor": "Operating Engineers Union",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/1/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "3/21/2016",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 1500
         },
         {
-            "amount": 2500,
             "date": "6/15/2015",
-            "contributor": "Ppg Industries"
+            "contributor": "Ppg Industries",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/17/2015",
-            "contributor": "Williams Companies"
+            "contributor": "Williams Companies",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/26/2015",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/3/2016",
-            "contributor": "American Postal Workers Union"
+            "contributor": "American Postal Workers Union",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "2/24/2015",
-            "contributor": "Painters & Allied Trades Union"
+            "contributor": "Painters & Allied Trades Union",
+            "amount": 5000
         },
         {
-            "amount": 4000,
             "date": "6/14/2016",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "7/22/2015",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "11/2/2016",
-            "contributor": "Sheet Metal/ac Contractors Assn"
+            "contributor": "Sheet Metal/ac Contractors Assn",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "3/10/2015",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "Americans For Republican Leadership"
+            "contributor": "Americans For Republican Leadership",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "6/6/2016",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "12/18/2015",
-            "contributor": "Wal-mart Stores"
+            "contributor": "Wal-mart Stores",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/9/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/23/2016",
-            "contributor": "Navient Corp"
+            "contributor": "Navient Corp",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/8/2015",
-            "contributor": "American Postal Workers Union"
+            "contributor": "American Postal Workers Union",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/3/2015",
-            "contributor": "Navient Corp"
+            "contributor": "Navient Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/3/2016",
-            "contributor": "Cheniere Energy"
+            "contributor": "Cheniere Energy",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/3/2015",
-            "contributor": "National Marine Manufacturers Assn"
+            "contributor": "National Marine Manufacturers Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/2/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 750,
             "date": "7/21/2015",
-            "contributor": "American Principles"
+            "contributor": "American Principles",
+            "amount": 750
         },
         {
-            "amount": 2500,
             "date": "5/26/2016",
-            "contributor": "Home Depot"
+            "contributor": "Home Depot",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "7/1/2015",
-            "contributor": "Badlands Pac"
+            "contributor": "Badlands Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/17/2015",
-            "contributor": "Northrop Grumman"
+            "contributor": "Northrop Grumman",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "1/27/2015",
-            "contributor": "Us-cuba Democracy Pac"
+            "contributor": "Us-cuba Democracy Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/24/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/7/2016",
-            "contributor": "Erie Insurance"
+            "contributor": "Erie Insurance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/15/2016",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "International Assn Of Fire Fighters"
+            "contributor": "International Assn Of Fire Fighters",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "9/21/2016",
-            "contributor": "John Bolton Pac"
+            "contributor": "John Bolton Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/25/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/28/2015",
-            "contributor": "Painters & Allied Trades Union"
+            "contributor": "Painters & Allied Trades Union",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "9/16/2016",
-            "contributor": "Northrop Grumman"
+            "contributor": "Northrop Grumman",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "5/31/2016",
-            "contributor": "Ocean Spray Cranberries"
+            "contributor": "Ocean Spray Cranberries",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "9/21/2016",
-            "contributor": "National Beer Wholesalers Assn"
+            "contributor": "National Beer Wholesalers Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/14/2015",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/18/2016",
-            "contributor": "Campbell Soup"
+            "contributor": "Campbell Soup",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "8/25/2015",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/9/2015",
-            "contributor": "Liberty Project"
+            "contributor": "Liberty Project",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/23/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "9/30/2016",
-            "contributor": "Carpenters & Joiners Union"
+            "contributor": "Carpenters & Joiners Union",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/10/2015",
-            "contributor": "Jeff Pac"
+            "contributor": "Jeff Pac",
+            "amount": 1000
         },
         {
-            "amount": 233,
             "date": "6/7/2016",
-            "contributor": "Cathy Mcmorris Rodgers For Congress"
+            "contributor": "Cathy Mcmorris Rodgers For Congress",
+            "amount": 233
         },
         {
-            "amount": 2500,
             "date": "5/9/2016",
-            "contributor": "American Investment Council"
+            "contributor": "American Investment Council",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "2/24/2016",
-            "contributor": "General Dynamics"
+            "contributor": "General Dynamics",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "National Assn Of Postal Supervisors"
+            "contributor": "National Assn Of Postal Supervisors",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "8/30/2016",
-            "contributor": "Wendy&#039;s Co"
+            "contributor": "Wendy&#039;s Co",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "7/16/2015",
-            "contributor": "Operating Engineers Local 825"
+            "contributor": "Operating Engineers Local 825",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "5/28/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Pac Of Cherry Hill, Nj"
+            "contributor": "Pac Of Cherry Hill, Nj",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/22/2016",
-            "contributor": "American Congress Of Obstetricians & Gynecologists"
+            "contributor": "American Congress Of Obstetricians & Gynecologists",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/16/2015",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/13/2015",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "5/5/2016",
-            "contributor": "Operating Engineers Local 825"
+            "contributor": "Operating Engineers Local 825",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "4/1/2016",
-            "contributor": "Day & Zimmermann"
+            "contributor": "Day & Zimmermann",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/28/2015",
-            "contributor": "Huntington Ingalls Industries"
+            "contributor": "Huntington Ingalls Industries",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/16/2015",
-            "contributor": "National Assn Of Home Builders"
+            "contributor": "National Assn Of Home Builders",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "3/27/2015",
-            "contributor": "Council Of Insurance Agents & Brokers"
+            "contributor": "Council Of Insurance Agents & Brokers",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "9/12/2016",
-            "contributor": "Coca-cola Co"
+            "contributor": "Coca-cola Co",
+            "amount": 2000
         },
         {
-            "amount": 2700,
             "date": "5/20/2016",
-            "contributor": "Winston & Strawn"
+            "contributor": "Winston & Strawn",
+            "amount": 2700
         },
         {
-            "amount": 78,
             "date": "2/3/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 78
         },
         {
-            "amount": 2500,
             "date": "7/15/2015",
-            "contributor": "National Auto Dealers Assn"
+            "contributor": "National Auto Dealers Assn",
+            "amount": 2500
         },
         {
-            "amount": 2300,
             "date": "7/30/2015",
-            "contributor": "Teamsters Union"
+            "contributor": "Teamsters Union",
+            "amount": 2300
         },
         {
-            "amount": 1000,
             "date": "6/27/2016",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/17/2015",
-            "contributor": "Pharmaceutical Research & Manufacturers Of America"
+            "contributor": "Pharmaceutical Research & Manufacturers Of America",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "Mcdonald&#039;s Corp"
+            "contributor": "Mcdonald&#039;s Corp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/9/2016",
-            "contributor": "Allied Pilots Assn"
+            "contributor": "Allied Pilots Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/23/2015",
-            "contributor": "Indep Insurance Agents & Brokers/america"
+            "contributor": "Indep Insurance Agents & Brokers/america",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "4/11/2016",
-            "contributor": "Bristol-myers Squibb"
+            "contributor": "Bristol-myers Squibb",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/23/2016",
-            "contributor": "Massachusetts Mutual Life Insurance"
+            "contributor": "Massachusetts Mutual Life Insurance",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "10/21/2016",
-            "contributor": "Accenture"
+            "contributor": "Accenture",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "American Council Of Life Insurers"
+            "contributor": "American Council Of Life Insurers",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/8/2016",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 2000
         },
         {
-            "amount": 5000,
             "date": "6/4/2015",
-            "contributor": "More Conservatives Pac"
+            "contributor": "More Conservatives Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "5/15/2015",
-            "contributor": "Hudson For Congress"
+            "contributor": "Hudson For Congress",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/21/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/14/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/29/2016",
-            "contributor": "Firstenergy Corp"
+            "contributor": "Firstenergy Corp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "2/12/2016",
-            "contributor": "Credit Union National Assn"
+            "contributor": "Credit Union National Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "4/8/2015",
-            "contributor": "Leadership Matters For America"
+            "contributor": "Leadership Matters For America",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/3/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "Koch Industries"
+            "contributor": "Koch Industries",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "1/21/2016",
-            "contributor": "Northrop Grumman"
+            "contributor": "Northrop Grumman",
+            "amount": 2500
         },
         {
-            "amount": 1917,
             "date": "2/12/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 1917
         },
         {
-            "amount": 2500,
             "date": "9/13/2016",
-            "contributor": "Council Of Insurance Agents & Brokers"
+            "contributor": "Council Of Insurance Agents & Brokers",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/18/2015",
-            "contributor": "Chubb Ina"
+            "contributor": "Chubb Ina",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/10/2015",
-            "contributor": "American Wind Energy Assn"
+            "contributor": "American Wind Energy Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "National Postal Mail Handlers Union"
+            "contributor": "National Postal Mail Handlers Union",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/26/2016",
-            "contributor": "Crop Insurance Professionals Assn"
+            "contributor": "Crop Insurance Professionals Assn",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "8/25/2016",
-            "contributor": "Textron Inc"
+            "contributor": "Textron Inc",
+            "amount": 5000
         },
         {
-            "amount": 3,
             "date": "2/3/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 3
         },
         {
-            "amount": 2500,
             "date": "6/29/2015",
-            "contributor": "Cmr Pac"
+            "contributor": "Cmr Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "2/2/2016",
-            "contributor": "Navient Corp"
+            "contributor": "Navient Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/7/2016",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/6/2015",
-            "contributor": "Building Leadership & Inspiring New Enterprise"
+            "contributor": "Building Leadership & Inspiring New Enterprise",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "9/19/2016",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/18/2015",
-            "contributor": "Congressional House Republicans In Service Pac"
+            "contributor": "Congressional House Republicans In Service Pac",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/28/2016",
-            "contributor": "Starr Insurance Holdings"
+            "contributor": "Starr Insurance Holdings",
+            "amount": 5000
         },
         {
-            "amount": 500,
             "date": "2/23/2016",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "10/19/2016",
-            "contributor": "Amgen Inc"
+            "contributor": "Amgen Inc",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "3/24/2015",
-            "contributor": "Exxon Mobil"
+            "contributor": "Exxon Mobil",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "8/18/2016",
-            "contributor": "Council Of Insurance Agents & Brokers"
+            "contributor": "Council Of Insurance Agents & Brokers",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "3/25/2016",
-            "contributor": "Merck & Co"
+            "contributor": "Merck & Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/14/2016",
-            "contributor": "Novo Nordisk"
+            "contributor": "Novo Nordisk",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/30/2016",
-            "contributor": "Cmr Pac"
+            "contributor": "Cmr Pac",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "9/28/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/2/2015",
-            "contributor": "Blessings Of Liberty Pac"
+            "contributor": "Blessings Of Liberty Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Csx Corp"
+            "contributor": "Csx Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "National Assn Of Prof Insurance Agents"
+            "contributor": "National Assn Of Prof Insurance Agents",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/25/2015",
-            "contributor": "Support To Ensure Victory Everywhere Pac"
+            "contributor": "Support To Ensure Victory Everywhere Pac",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "6/20/2016",
-            "contributor": "National Marine Manufacturers Assn"
+            "contributor": "National Marine Manufacturers Assn",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "8/1/2016",
-            "contributor": "Sierra Nevada Corp"
+            "contributor": "Sierra Nevada Corp",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "3/21/2016",
-            "contributor": "Newfield Exploration Co"
+            "contributor": "Newfield Exploration Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/2/2015",
-            "contributor": "Supporting United States Of America&#039;s Next Leaders"
+            "contributor": "Supporting United States Of America&#039;s Next Leaders",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "9/22/2015",
-            "contributor": "Air Line Pilots Assn"
+            "contributor": "Air Line Pilots Assn",
+            "amount": 4000
         },
         {
-            "amount": 5000,
             "date": "8/29/2016",
-            "contributor": "National Education Assn"
+            "contributor": "National Education Assn",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "9/22/2015",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/29/2016",
-            "contributor": "Johnson & Johnson"
+            "contributor": "Johnson & Johnson",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/11/2015",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "10/12/2016",
-            "contributor": "Teamsters Union"
+            "contributor": "Teamsters Union",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "6/26/2015",
-            "contributor": "New York Life Insurance"
+            "contributor": "New York Life Insurance",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "6/19/2015",
-            "contributor": "Duke Energy"
+            "contributor": "Duke Energy",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "5/23/2016",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/22/2016",
-            "contributor": "Center For Coastal Conservation"
+            "contributor": "Center For Coastal Conservation",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/1/2015",
-            "contributor": "Cheniere Energy"
+            "contributor": "Cheniere Energy",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/3/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/3/2015",
-            "contributor": "Cole Pac"
+            "contributor": "Cole Pac",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "5/8/2015",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 2000
         },
         {
-            "amount": 4000,
             "date": "12/8/2015",
-            "contributor": "Trust Pac"
+            "contributor": "Trust Pac",
+            "amount": 4000
         },
         {
-            "amount": 2000,
             "date": "5/18/2016",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "11/2/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/23/2015",
-            "contributor": "American Petroleum Institute"
+            "contributor": "American Petroleum Institute",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/2/2015",
-            "contributor": "New Pac"
+            "contributor": "New Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "7/8/2016",
-            "contributor": "Continental Airlines"
+            "contributor": "Continental Airlines",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "4/6/2016",
-            "contributor": "Cozen O&#039;connor"
+            "contributor": "Cozen O&#039;connor",
+            "amount": 2700
         },
         {
-            "amount": 4000,
             "date": "8/12/2016",
-            "contributor": "Laborers Union"
+            "contributor": "Laborers Union",
+            "amount": 4000
         },
         {
-            "amount": 5000,
             "date": "9/12/2016",
-            "contributor": "American Dental Assn"
+            "contributor": "American Dental Assn",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "7/2/2015",
-            "contributor": "Operating Engineers Union"
+            "contributor": "Operating Engineers Union",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/3/2015",
-            "contributor": "Freedom & Security Pac"
+            "contributor": "Freedom & Security Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/1/2015",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/18/2016",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/25/2016",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/3/2015",
-            "contributor": "Jet Pac"
+            "contributor": "Jet Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/11/2015",
-            "contributor": "What A Country! Pac"
+            "contributor": "What A Country! Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/17/2015",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "9/20/2016",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "5/22/2015",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "4/8/2016",
-            "contributor": "Prosperity Action"
+            "contributor": "Prosperity Action",
+            "amount": 5000
         },
         {
-            "amount": 500,
             "date": "4/17/2015",
-            "contributor": "Endo Health Solutions"
+            "contributor": "Endo Health Solutions",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "2/2/2016",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "9/21/2016",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 1500
         },
         {
-            "amount": 3000,
             "date": "10/7/2016",
-            "contributor": "American Medical Assn"
+            "contributor": "American Medical Assn",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "11/16/2015",
-            "contributor": "Aecom Us"
+            "contributor": "Aecom Us",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/28/2016",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "7/21/2015",
-            "contributor": "Society For Relief Of Distressed Pilots"
+            "contributor": "Society For Relief Of Distressed Pilots",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "6/10/2016",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 2500,
             "date": "10/8/2015",
-            "contributor": "National Assn Of Home Builders"
+            "contributor": "National Assn Of Home Builders",
+            "amount": 2500
         },
         {
-            "amount": 2700,
             "date": "5/8/2015",
-            "contributor": "Right To Rise Pac"
+            "contributor": "Right To Rise Pac",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/3/2016",
-            "contributor": "Relx Inc"
+            "contributor": "Relx Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/7/2016",
-            "contributor": "American Dental Assn"
+            "contributor": "American Dental Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "10/15/2015",
-            "contributor": "Firstenergy Corp"
+            "contributor": "Firstenergy Corp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/18/2016",
-            "contributor": "Pfizer Inc"
+            "contributor": "Pfizer Inc",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/22/2016",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/22/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/23/2015",
-            "contributor": "Scalise For Congress"
+            "contributor": "Scalise For Congress",
+            "amount": 2000
         },
         {
-            "amount": 5000,
             "date": "6/4/2015",
-            "contributor": "Majority Cmte Pac"
+            "contributor": "Majority Cmte Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "2/4/2016",
-            "contributor": "Wyndham Worldwide"
+            "contributor": "Wyndham Worldwide",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/15/2015",
-            "contributor": "Sheet Metal/ac Contractors Assn"
+            "contributor": "Sheet Metal/ac Contractors Assn",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "9/27/2016",
-            "contributor": "American College Of Radiology"
+            "contributor": "American College Of Radiology",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/9/2015",
-            "contributor": "Cole Pac"
+            "contributor": "Cole Pac",
+            "amount": 1000
         },
         {
-            "amount": 3334,
             "date": "9/19/2016",
-            "contributor": "Freedom Project"
+            "contributor": "Freedom Project",
+            "amount": 3334
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "What A Country! Pac"
+            "contributor": "What A Country! Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/15/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/17/2015",
-            "contributor": "Road To Freedom Pac"
+            "contributor": "Road To Freedom Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/31/2015",
-            "contributor": "Wakefern Food"
+            "contributor": "Wakefern Food",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/19/2015",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/16/2016",
-            "contributor": "Keystone Alliance"
+            "contributor": "Keystone Alliance",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/20/2016",
-            "contributor": "Bae Systems"
+            "contributor": "Bae Systems",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "11/17/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/11/2015",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "8/3/2016",
-            "contributor": "National Apartment Assn"
+            "contributor": "National Apartment Assn",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Dent Pac"
+            "contributor": "Dent Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/9/2016",
-            "contributor": "Amgen Inc"
+            "contributor": "Amgen Inc",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "National Fisheries Institute"
+            "contributor": "National Fisheries Institute",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/12/2015",
-            "contributor": "American Sugar Cane League"
+            "contributor": "American Sugar Cane League",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/3/2015",
-            "contributor": "Freedom Project"
+            "contributor": "Freedom Project",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/19/2015",
-            "contributor": "National Assn Of Health Underwriters"
+            "contributor": "National Assn Of Health Underwriters",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Scott Pac"
+            "contributor": "Scott Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "12/4/2015",
-            "contributor": "American Hotel & Lodging Assn"
+            "contributor": "American Hotel & Lodging Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/31/2016",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "3/27/2015",
-            "contributor": "Majority Cmte Pac"
+            "contributor": "Majority Cmte Pac",
+            "amount": 5000
         },
         {
-            "amount": 4000,
             "date": "10/11/2016",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 4000
         },
         {
-            "amount": 5000,
             "date": "12/17/2015",
-            "contributor": "Citizens For Prosperity In America Today"
+            "contributor": "Citizens For Prosperity In America Today",
+            "amount": 5000
         },
         {
-            "amount": 2000,
             "date": "11/4/2016",
-            "contributor": "American Institute Of Cpas"
+            "contributor": "American Institute Of Cpas",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/24/2015",
-            "contributor": "Trust Pac"
+            "contributor": "Trust Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/23/2016",
-            "contributor": "Firstenergy Corp"
+            "contributor": "Firstenergy Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/6/2015",
-            "contributor": "Sugar Cane Growers Co-op Of Florida"
+            "contributor": "Sugar Cane Growers Co-op Of Florida",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/23/2015",
-            "contributor": "National Assn Of Letter Carriers"
+            "contributor": "National Assn Of Letter Carriers",
+            "amount": 1500
         },
         {
-            "amount": 750,
             "date": "5/3/2016",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 750
         },
         {
-            "amount": 1000,
             "date": "2/25/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "8/18/2016",
-            "contributor": "Aecom Us"
+            "contributor": "Aecom Us",
+            "amount": 1500
         },
         {
-            "amount": 5000,
             "date": "6/12/2015",
-            "contributor": "Jobs, Economy & Budget Fund"
+            "contributor": "Jobs, Economy & Budget Fund",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "6/13/2016",
-            "contributor": "Painters & Allied Trades Union"
+            "contributor": "Painters & Allied Trades Union",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "9/7/2016",
-            "contributor": "Ernst & Young"
+            "contributor": "Ernst & Young",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "2/25/2016",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/8/2016",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/26/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/31/2015",
-            "contributor": "Cozen O&#039;connor"
+            "contributor": "Cozen O&#039;connor",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "American College Of Emergency Physicians"
+            "contributor": "American College Of Emergency Physicians",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/2/2015",
-            "contributor": "American Hospital Assn"
+            "contributor": "American Hospital Assn",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "7/24/2015",
-            "contributor": "Us-cuba Democracy Pac"
+            "contributor": "Us-cuba Democracy Pac",
+            "amount": 4000
         },
         {
-            "amount": 1500,
             "date": "9/12/2016",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "4/23/2015",
-            "contributor": "Humane Society Legislative Fund"
+            "contributor": "Humane Society Legislative Fund",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/17/2015",
-            "contributor": "Rite Aid Corp"
+            "contributor": "Rite Aid Corp",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "9/10/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "6/25/2015",
-            "contributor": "American Dental Assn"
+            "contributor": "American Dental Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Dent Pac"
+            "contributor": "Dent Pac",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "5/26/2016",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 2000
         },
         {
-            "amount": 1500,
             "date": "10/28/2015",
-            "contributor": "Humane Society Legislative Fund"
+            "contributor": "Humane Society Legislative Fund",
+            "amount": 1500
         },
         {
-            "amount": 1750,
             "date": "5/2/2015",
-            "contributor": "Free Markets Pac"
+            "contributor": "Free Markets Pac",
+            "amount": 1750
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "National Treasury Employees Union"
+            "contributor": "National Treasury Employees Union",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Blessings Of Liberty Pac"
+            "contributor": "Blessings Of Liberty Pac",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/24/2015",
-            "contributor": "Entergy Corp"
+            "contributor": "Entergy Corp",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "1/18/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/8/2015",
-            "contributor": "Macandrews & Forbes"
+            "contributor": "Macandrews & Forbes",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/15/2015",
-            "contributor": "Keystone Alliance"
+            "contributor": "Keystone Alliance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/23/2016",
-            "contributor": "American Osteopathic Assn"
+            "contributor": "American Osteopathic Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/1/2016",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "6/4/2015",
-            "contributor": "National Republican Congressional Cmte"
+            "contributor": "National Republican Congressional Cmte",
+            "amount": 5000
         },
         {
-            "amount": 250,
             "date": "2/24/2015",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 250
         },
         {
-            "amount": 2500,
             "date": "6/1/2016",
-            "contributor": "Akin, Gump Et Al"
+            "contributor": "Akin, Gump Et Al",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "11/28/2016",
-            "contributor": "Ocean Spray Cranberries"
+            "contributor": "Ocean Spray Cranberries",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "11/1/2016",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "5/20/2015",
-            "contributor": "General Dynamics"
+            "contributor": "General Dynamics",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "8/11/2016",
-            "contributor": "United Pilots Pac"
+            "contributor": "United Pilots Pac",
+            "amount": 2500
         },
         {
-            "amount": 300,
             "date": "12/13/2015",
-            "contributor": "Mchenry For Congress"
+            "contributor": "Mchenry For Congress",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "6/3/2016",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "5/6/2016",
-            "contributor": "Property Casualty Insurers Assn/america"
+            "contributor": "Property Casualty Insurers Assn/america",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "9/27/2016",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "2/19/2015",
-            "contributor": "National Marine Manufacturers Assn"
+            "contributor": "National Marine Manufacturers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/11/2016",
-            "contributor": "America&#039;s Health Insurance Plans"
+            "contributor": "America&#039;s Health Insurance Plans",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/21/2016",
-            "contributor": "Cigna Corp"
+            "contributor": "Cigna Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/6/2016",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/25/2015",
-            "contributor": "Viking Leadership Pac"
+            "contributor": "Viking Leadership Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/9/2015",
-            "contributor": "American Congress Of Obstetricians & Gynecologists"
+            "contributor": "American Congress Of Obstetricians & Gynecologists",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/3/2015",
-            "contributor": "Scalise For Congress"
+            "contributor": "Scalise For Congress",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "9/8/2016",
-            "contributor": "Quest Diagnostics"
+            "contributor": "Quest Diagnostics",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/13/2015",
-            "contributor": "Novocure Inc"
+            "contributor": "Novocure Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/15/2015",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/22/2016",
-            "contributor": "American Sportfishing Assn"
+            "contributor": "American Sportfishing Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/22/2016",
-            "contributor": "Oppenheimerfunds"
+            "contributor": "Oppenheimerfunds",
+            "amount": 2500
         },
         {
-            "amount": 4250,
             "date": "9/21/2016",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 4250
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Harris Corp"
+            "contributor": "Harris Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/9/2015",
-            "contributor": "Nuclear Energy Institute"
+            "contributor": "Nuclear Energy Institute",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/6/2015",
-            "contributor": "Goldman Sachs"
+            "contributor": "Goldman Sachs",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "4/27/2016",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "9/29/2015",
-            "contributor": "National Active & Retired Federal Employees Assn"
+            "contributor": "National Active & Retired Federal Employees Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/21/2015",
-            "contributor": "American Medical Assn"
+            "contributor": "American Medical Assn",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/6/2016",
-            "contributor": "Afl-cio Bldg/construction Trades Dept"
+            "contributor": "Afl-cio Bldg/construction Trades Dept",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "5/29/2015",
-            "contributor": "Sheet Metal/ac Contractors Assn"
+            "contributor": "Sheet Metal/ac Contractors Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "8/19/2015",
-            "contributor": "Novo Nordisk"
+            "contributor": "Novo Nordisk",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/23/2015",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "11/2/2016",
-            "contributor": "Leadership Matters For America"
+            "contributor": "Leadership Matters For America",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "American Gas Assn"
+            "contributor": "American Gas Assn",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "10/19/2016",
-            "contributor": "International Franchise Assn"
+            "contributor": "International Franchise Assn",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Campbell Soup"
+            "contributor": "Campbell Soup",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "11/2/2015",
-            "contributor": "American Resort Development Assn"
+            "contributor": "American Resort Development Assn",
+            "amount": 5000
         },
         {
-            "amount": 4000,
             "date": "7/20/2016",
-            "contributor": "Wyndham Worldwide"
+            "contributor": "Wyndham Worldwide",
+            "amount": 4000
         },
         {
-            "amount": 5000,
             "date": "3/23/2015",
-            "contributor": "American Crystal Sugar"
+            "contributor": "American Crystal Sugar",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "National Community Action Foundation"
+            "contributor": "National Community Action Foundation",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/15/2015",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/29/2015",
-            "contributor": "Argentum"
+            "contributor": "Argentum",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/27/2016",
-            "contributor": "National Federation Of Independent Business"
+            "contributor": "National Federation Of Independent Business",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/26/2015",
-            "contributor": "Bae Systems"
+            "contributor": "Bae Systems",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/15/2016",
-            "contributor": "National Rural Electric Cooperative Assn"
+            "contributor": "National Rural Electric Cooperative Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/3/2016",
-            "contributor": "Bayer Corp"
+            "contributor": "Bayer Corp",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "3/11/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "4/29/2015",
-            "contributor": "Minn-dak Farmers Co-op"
+            "contributor": "Minn-dak Farmers Co-op",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "1/7/2016",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "10/13/2016",
-            "contributor": "Keystone Alliance"
+            "contributor": "Keystone Alliance",
+            "amount": 2700
         },
         {
-            "amount": 4000,
             "date": "5/11/2016",
-            "contributor": "American Institute Of Cpas"
+            "contributor": "American Institute Of Cpas",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "National Automatic Merchandising Assn"
+            "contributor": "National Automatic Merchandising Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/24/2015",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "5/26/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "3/2/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/29/2016",
-            "contributor": "Spacex"
+            "contributor": "Spacex",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/3/2016",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/21/2015",
-            "contributor": "Florida Congressional Cmte"
+            "contributor": "Florida Congressional Cmte",
+            "amount": 2500
         },
         {
-            "amount": 4000,
             "date": "3/14/2016",
-            "contributor": "Williams Companies"
+            "contributor": "Williams Companies",
+            "amount": 4000
         },
         {
-            "amount": 300,
             "date": "7/14/2015",
-            "contributor": "Pepco Holdings"
+            "contributor": "Pepco Holdings",
+            "amount": 300
         },
         {
-            "amount": 2500,
             "date": "6/7/2016",
-            "contributor": "Cmr Pac"
+            "contributor": "Cmr Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "7/24/2015",
-            "contributor": "Us-cuba Democracy Pac"
+            "contributor": "Us-cuba Democracy Pac",
+            "amount": 1000
         },
         {
-            "amount": 3000,
             "date": "3/26/2015",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "6/13/2016",
-            "contributor": "Unitedhealth Group"
+            "contributor": "Unitedhealth Group",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/8/2015",
-            "contributor": "Laborers Union"
+            "contributor": "Laborers Union",
+            "amount": 5000
         },
         {
-            "amount": 2000,
             "date": "6/2/2016",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "11/13/2015",
-            "contributor": "Bristol-myers Squibb"
+            "contributor": "Bristol-myers Squibb",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "7/16/2015",
-            "contributor": "Bayada Home Health Care"
+            "contributor": "Bayada Home Health Care",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/2/2016",
-            "contributor": "National Community Action Foundation"
+            "contributor": "National Community Action Foundation",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/7/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/21/2015",
-            "contributor": "United Mine Workers Of America"
+            "contributor": "United Mine Workers Of America",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "10/17/2016",
-            "contributor": "Ironworkers Union"
+            "contributor": "Ironworkers Union",
+            "amount": 5000
         },
         {
-            "amount": 2000,
             "date": "10/18/2016",
-            "contributor": "National Rural Letter Carriers Assn"
+            "contributor": "National Rural Letter Carriers Assn",
+            "amount": 2000
         },
         {
-            "amount": 2700,
             "date": "4/18/2016",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "6/3/2015",
-            "contributor": "National Franchisee Assn"
+            "contributor": "National Franchisee Assn",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "3/24/2016",
-            "contributor": "Aqua America"
+            "contributor": "Aqua America",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/9/2016",
-            "contributor": "John Hancock Life Insurance"
+            "contributor": "John Hancock Life Insurance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/13/2015",
-            "contributor": "Continental Airlines"
+            "contributor": "Continental Airlines",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/31/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/21/2015",
-            "contributor": "Pepco Holdings"
+            "contributor": "Pepco Holdings",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/23/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "4/22/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Pete Pac"
+            "contributor": "Pete Pac",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "2/23/2016",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/14/2016",
-            "contributor": "Abbvie Inc"
+            "contributor": "Abbvie Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/16/2015",
-            "contributor": "Ppl Corp"
+            "contributor": "Ppl Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/24/2016",
-            "contributor": "American Hospital Assn"
+            "contributor": "American Hospital Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "8/24/2015",
-            "contributor": "International Council Of Shopping Cntrs"
+            "contributor": "International Council Of Shopping Cntrs",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "National Cable & Telecommunications Assn"
+            "contributor": "National Cable & Telecommunications Assn",
+            "amount": 1000
         },
         {
-            "amount": 3700,
             "date": "4/22/2016",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 3700
         },
         {
-            "amount": 1000,
             "date": "8/31/2016",
-            "contributor": "Aircraft Owners & Pilots Assn"
+            "contributor": "Aircraft Owners & Pilots Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/31/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/14/2015",
-            "contributor": "Pricewaterhousecoopers"
+            "contributor": "Pricewaterhousecoopers",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "Farmers Group"
+            "contributor": "Farmers Group",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/30/2016",
-            "contributor": "Wakefern Food"
+            "contributor": "Wakefern Food",
+            "amount": 2000
         },
         {
-            "amount": 5000,
             "date": "6/1/2015",
-            "contributor": "Carpenters & Joiners Union"
+            "contributor": "Carpenters & Joiners Union",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "7/11/2016",
-            "contributor": "Harris Corp"
+            "contributor": "Harris Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/20/2015",
-            "contributor": "Air Line Pilots Assn"
+            "contributor": "Air Line Pilots Assn",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/4/2016",
-            "contributor": "Intl Brotherhood Of Electrical Workers"
+            "contributor": "Intl Brotherhood Of Electrical Workers",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/16/2015",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 1000
         },
         {
-            "amount": 1750,
             "date": "5/3/2016",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1750
         },
         {
-            "amount": 2500,
             "date": "8/30/2016",
-            "contributor": "Cox Enterprises"
+            "contributor": "Cox Enterprises",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "10/22/2015",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "7/21/2015",
-            "contributor": "Anadarko Petroleum"
+            "contributor": "Anadarko Petroleum",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "5/1/2015",
-            "contributor": "Buchanan, Ingersoll & Rooney"
+            "contributor": "Buchanan, Ingersoll & Rooney",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/25/2015",
-            "contributor": "Voice For Freedom"
+            "contributor": "Voice For Freedom",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/1/2015",
-            "contributor": "Bae Systems"
+            "contributor": "Bae Systems",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/20/2015",
-            "contributor": "Cox Enterprises"
+            "contributor": "Cox Enterprises",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "8/30/2016",
-            "contributor": "Associated Equipment Distributors"
+            "contributor": "Associated Equipment Distributors",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Merck & Co"
+            "contributor": "Merck & Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/27/2016",
-            "contributor": "Wsp Parsons Brinckerhoff"
+            "contributor": "Wsp Parsons Brinckerhoff",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/28/2016",
-            "contributor": "Starr Insurance Holdings"
+            "contributor": "Starr Insurance Holdings",
+            "amount": 5000
         },
         {
-            "amount": 500,
             "date": "9/9/2015",
-            "contributor": "Buchanan, Ingersoll & Rooney"
+            "contributor": "Buchanan, Ingersoll & Rooney",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/9/2015",
-            "contributor": "Diane Pac"
+            "contributor": "Diane Pac",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/7/2016",
-            "contributor": "Deloitte Llp"
+            "contributor": "Deloitte Llp",
+            "amount": 500
         },
         {
-            "amount": 5000,
             "date": "6/16/2015",
-            "contributor": "New Pioneers Pac"
+            "contributor": "New Pioneers Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/15/2016",
-            "contributor": "Hartford Financial Services"
+            "contributor": "Hartford Financial Services",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/12/2015",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Bilirakis For Congress"
+            "contributor": "Bilirakis For Congress",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/3/2015",
-            "contributor": "Friends Of John Boehner"
+            "contributor": "Friends Of John Boehner",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "6/3/2015",
-            "contributor": "Friends Of John Boehner"
+            "contributor": "Friends Of John Boehner",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/9/2015",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/22/2016",
-            "contributor": "Friends Of Buck Mckeon"
+            "contributor": "Friends Of Buck Mckeon",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/24/2015",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "4/5/2016",
-            "contributor": "Louie Gohmert For Congress Cmte"
+            "contributor": "Louie Gohmert For Congress Cmte",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Luke Messer For Congress"
+            "contributor": "Luke Messer For Congress",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Hovnanian, Hirair"
+            "contributor": "Hovnanian, Hirair",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "Deco 2001"
+            "contributor": "Deco 2001",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "1/25/2016",
-            "contributor": "Silvi, Laurence J"
+            "contributor": "Silvi, Laurence J",
+            "amount": 2700
         },
         {
-            "amount": 1700,
             "date": "3/31/2016",
-            "contributor": "Poarch Bank Of Creek Indians"
+            "contributor": "Poarch Bank Of Creek Indians",
+            "amount": 1700
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Gila River Indian Community"
+            "contributor": "Gila River Indian Community",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/2/2016",
-            "contributor": "Stone, James"
+            "contributor": "Stone, James",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Paulson, Randall"
+            "contributor": "Paulson, Randall",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Steinberg, Franklyn E"
+            "contributor": "Steinberg, Franklyn E",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/2/2015",
-            "contributor": "Scofield, John"
+            "contributor": "Scofield, John",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/22/2015",
-            "contributor": "Moorehead, Paul"
+            "contributor": "Moorehead, Paul",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Mackinnon, Jeffrey M"
+            "contributor": "Mackinnon, Jeffrey M",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/13/2016",
-            "contributor": "Pincus, Robert B"
+            "contributor": "Pincus, Robert B",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Capoferri, Robert"
+            "contributor": "Capoferri, Robert",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/11/2016",
-            "contributor": "Healey, Robert Sr"
+            "contributor": "Healey, Robert Sr",
+            "amount": 250
         },
         {
-            "amount": 450,
             "date": "12/8/2015",
-            "contributor": "Aneson, Jon"
+            "contributor": "Aneson, Jon",
+            "amount": 450
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Hendricks, Mark A"
+            "contributor": "Hendricks, Mark A",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "7/30/2015",
-            "contributor": "Shapiro, Jayne M"
+            "contributor": "Shapiro, Jayne M",
+            "amount": 250
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, David J"
+            "contributor": "Stavola, David J",
+            "amount": 125
         },
         {
-            "amount": 2700,
             "date": "6/30/2015",
-            "contributor": "Hocker, Richard"
+            "contributor": "Hocker, Richard",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Llopiz, Onier"
+            "contributor": "Llopiz, Onier",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Papir, Eli"
+            "contributor": "Papir, Eli",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Galimidi, Emanuel"
+            "contributor": "Galimidi, Emanuel",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Berga, Christopher"
+            "contributor": "Berga, Christopher",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Johnson, Stephen H"
+            "contributor": "Johnson, Stephen H",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "5/28/2015",
-            "contributor": "Buker, Robert H Jr"
+            "contributor": "Buker, Robert H Jr",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "7/14/2015",
-            "contributor": "Healey, Robert Sr"
+            "contributor": "Healey, Robert Sr",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Simmons, Carolyn"
+            "contributor": "Simmons, Carolyn",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Koby, Shaun R"
+            "contributor": "Koby, Shaun R",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Courter, James"
+            "contributor": "Courter, James",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/27/2015",
-            "contributor": "Lydecker, Richard"
+            "contributor": "Lydecker, Richard",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "7/14/2015",
-            "contributor": "Healey, William"
+            "contributor": "Healey, William",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Tinelli, Anthony J Jr"
+            "contributor": "Tinelli, Anthony J Jr",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "6/30/2015",
-            "contributor": "Hocker, Marcia"
+            "contributor": "Hocker, Marcia",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Whitesell, Deborah K"
+            "contributor": "Whitesell, Deborah K",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Hocker, Marcia"
+            "contributor": "Hocker, Marcia",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Singh, Krishna"
+            "contributor": "Singh, Krishna",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "6/13/2016",
-            "contributor": "Bongrazic, Frank"
+            "contributor": "Bongrazic, Frank",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Oneid, Pierre P"
+            "contributor": "Oneid, Pierre P",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Straub, Kathy"
+            "contributor": "Straub, Kathy",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Courter, James"
+            "contributor": "Courter, James",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Whitesell, Thomas R"
+            "contributor": "Whitesell, Thomas R",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/11/2016",
-            "contributor": "Levin, Michael"
+            "contributor": "Levin, Michael",
+            "amount": 1000
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, David J"
+            "contributor": "Stavola, David J",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "10/13/2016",
-            "contributor": "Schlanger, Marvin"
+            "contributor": "Schlanger, Marvin",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/2/2016",
-            "contributor": "Ganek, Howard"
+            "contributor": "Ganek, Howard",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/24/2016",
-            "contributor": "Udine, Glen R"
+            "contributor": "Udine, Glen R",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/4/2016",
-            "contributor": "Gray, Richard"
+            "contributor": "Gray, Richard",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Hocker, Richard"
+            "contributor": "Hocker, Richard",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Singh, Martha J"
+            "contributor": "Singh, Martha J",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Eckstein, Henry"
+            "contributor": "Eckstein, Henry",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "9/30/2016",
-            "contributor": "Eckstein, Henry"
+            "contributor": "Eckstein, Henry",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "6/30/2016",
-            "contributor": "Griffin, Kenneth"
+            "contributor": "Griffin, Kenneth",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Stanzi, John"
+            "contributor": "Stanzi, John",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/3/2015",
-            "contributor": "Petrowski, Joseph H"
+            "contributor": "Petrowski, Joseph H",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Detore, John Mr"
+            "contributor": "Detore, John Mr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Campbell, Gary G Mr"
+            "contributor": "Campbell, Gary G Mr",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "11/19/2015",
-            "contributor": "Jones, Christine C"
+            "contributor": "Jones, Christine C",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/22/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 1000
         },
         {
-            "amount": 700,
             "date": "12/10/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 700
         },
         {
-            "amount": 300,
             "date": "12/10/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Cutler, Theodore H Mr"
+            "contributor": "Cutler, Theodore H Mr",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "11/19/2015",
-            "contributor": "Chamberlain, Robert C"
+            "contributor": "Chamberlain, Robert C",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Long, Laura Ms"
+            "contributor": "Long, Laura Ms",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/27/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/21/2016",
-            "contributor": "Crossen, Michael Mr"
+            "contributor": "Crossen, Michael Mr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/21/2016",
-            "contributor": "Detore, John Mr"
+            "contributor": "Detore, John Mr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/8/2016",
-            "contributor": "Walton, Nathaniel"
+            "contributor": "Walton, Nathaniel",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/17/2016",
-            "contributor": "Chamberlain, Robert C"
+            "contributor": "Chamberlain, Robert C",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Crossen, Michael Mr"
+            "contributor": "Crossen, Michael Mr",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/21/2016",
-            "contributor": "Long, Laura Ms"
+            "contributor": "Long, Laura Ms",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Green, Jeffrey A"
+            "contributor": "Green, Jeffrey A",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "7/13/2015",
-            "contributor": "Gong, Yukuan"
+            "contributor": "Gong, Yukuan",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "7/13/2015",
-            "contributor": "Yin, Xue Yang"
+            "contributor": "Yin, Xue Yang",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Herson, Michael"
+            "contributor": "Herson, Michael",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Bennett, Dale P"
+            "contributor": "Bennett, Dale P",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Green, Jeffrey A"
+            "contributor": "Green, Jeffrey A",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "11/1/2016",
-            "contributor": "Pohanka, John J"
+            "contributor": "Pohanka, John J",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Griswold, Elizabeth M"
+            "contributor": "Griswold, Elizabeth M",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/13/2016",
-            "contributor": "Rossetti, Stephen"
+            "contributor": "Rossetti, Stephen",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/16/2015",
-            "contributor": "Zausner, Freeman"
+            "contributor": "Zausner, Freeman",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Zausner, Freeman"
+            "contributor": "Zausner, Freeman",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/15/2016",
-            "contributor": "Zausner, Freeman"
+            "contributor": "Zausner, Freeman",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "Poehling, Kris"
+            "contributor": "Poehling, Kris",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "Poehling, Timothy J"
+            "contributor": "Poehling, Timothy J",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Haley, Henry J"
+            "contributor": "Haley, Henry J",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "3/24/2016",
-            "contributor": "Slomka, Laura"
+            "contributor": "Slomka, Laura",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "3/24/2016",
-            "contributor": "Maser, Richard"
+            "contributor": "Maser, Richard",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/27/2015",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "D&#039;onofrio, Donato"
+            "contributor": "D&#039;onofrio, Donato",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "10/22/2015",
-            "contributor": "Tilton, John T Jr"
+            "contributor": "Tilton, John T Jr",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "10/29/2015",
-            "contributor": "Sico, Donald"
+            "contributor": "Sico, Donald",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Chowdhury, Sailesh"
+            "contributor": "Chowdhury, Sailesh",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Olivo, Joseph"
+            "contributor": "Olivo, Joseph",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "9/24/2015",
-            "contributor": "Schmid, Richard O"
+            "contributor": "Schmid, Richard O",
+            "amount": 200
         },
         {
-            "amount": 100,
             "date": "9/24/2015",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 100
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Straub, Gerard Sr"
+            "contributor": "Straub, Gerard Sr",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "6/23/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "3/4/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Vandyke, Peter J"
+            "contributor": "Vandyke, Peter J",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Schmid, Richard"
+            "contributor": "Schmid, Richard",
+            "amount": 250
         },
         {
-            "amount": 2000,
             "date": "3/31/2015",
-            "contributor": "Hovnanian, Edele"
+            "contributor": "Hovnanian, Edele",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "3/31/2015",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "3/12/2015",
-            "contributor": "Appleby, Judy"
+            "contributor": "Appleby, Judy",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "3/18/2015",
-            "contributor": "Sweeney, James"
+            "contributor": "Sweeney, James",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Park, Michael M"
+            "contributor": "Park, Michael M",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/9/2015",
-            "contributor": "Lee, Eukyung"
+            "contributor": "Lee, Eukyung",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "3/18/2015",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 2500
         },
         {
-            "amount": 2700,
             "date": "3/18/2015",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 2700
         },
         {
-            "amount": 2500,
             "date": "3/31/2015",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Oflu, Nurettin"
+            "contributor": "Oflu, Nurettin",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Budd, Thomas"
+            "contributor": "Budd, Thomas",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Bowen, Robert"
+            "contributor": "Bowen, Robert",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "3/31/2015",
-            "contributor": "Dahms, Gary C"
+            "contributor": "Dahms, Gary C",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/12/2015",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "3/4/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Schmid, Maryann"
+            "contributor": "Schmid, Maryann",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/9/2015",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Kirazli, Mevlut"
+            "contributor": "Kirazli, Mevlut",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Gluck, Michael H"
+            "contributor": "Gluck, Michael H",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/31/2015",
-            "contributor": "Remington, Craig"
+            "contributor": "Remington, Craig",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "3/31/2015",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "3/12/2015",
-            "contributor": "Burris, William Jr"
+            "contributor": "Burris, William Jr",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Silcox, Robert C"
+            "contributor": "Silcox, Robert C",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Powell, Miles Ii"
+            "contributor": "Powell, Miles Ii",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/17/2016",
-            "contributor": "Pierson, Jay F"
+            "contributor": "Pierson, Jay F",
+            "amount": 500
         },
         {
-            "amount": 950,
             "date": "3/14/2016",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 950
         },
         {
-            "amount": 1000,
             "date": "3/24/2016",
-            "contributor": "Storino, Pasquale J"
+            "contributor": "Storino, Pasquale J",
+            "amount": 1000
         },
         {
-            "amount": 400,
             "date": "3/4/2015",
-            "contributor": "Gerasoulis, Apostolos"
+            "contributor": "Gerasoulis, Apostolos",
+            "amount": 400
         },
         {
-            "amount": 500,
             "date": "3/19/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/24/2016",
-            "contributor": "Grunin, Laura B"
+            "contributor": "Grunin, Laura B",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/30/2016",
-            "contributor": "Mcnamara, William C"
+            "contributor": "Mcnamara, William C",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Rodgers, Norman K"
+            "contributor": "Rodgers, Norman K",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/31/2016",
-            "contributor": "Hoffman, Lee"
+            "contributor": "Hoffman, Lee",
+            "amount": 2000
         },
         {
-            "amount": 2700,
             "date": "2/2/2016",
-            "contributor": "Layton, William"
+            "contributor": "Layton, William",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/11/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Dupignac, Frank Jr"
+            "contributor": "Dupignac, Frank Jr",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "3/17/2016",
-            "contributor": "White, Noreen P"
+            "contributor": "White, Noreen P",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "2/2/2016",
-            "contributor": "Komjathy, Aladar"
+            "contributor": "Komjathy, Aladar",
+            "amount": 1000
         },
         {
-            "amount": 950,
             "date": "3/31/2016",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 950
         },
         {
-            "amount": 500,
             "date": "2/26/2016",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Van Dyke, Peter"
+            "contributor": "Van Dyke, Peter",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Bodman, Roger"
+            "contributor": "Bodman, Roger",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/18/2016",
-            "contributor": "Hossain, Iftekhar"
+            "contributor": "Hossain, Iftekhar",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Gormley, Sean"
+            "contributor": "Gormley, Sean",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2016",
-            "contributor": "Valesi, Gregory"
+            "contributor": "Valesi, Gregory",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Heinel, Elmer W"
+            "contributor": "Heinel, Elmer W",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/11/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "3/12/2015",
-            "contributor": "Perna, Adam"
+            "contributor": "Perna, Adam",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Koutsouris, Angela"
+            "contributor": "Koutsouris, Angela",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/31/2015",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 250
         },
         {
-            "amount": 2000,
             "date": "3/31/2016",
-            "contributor": "Ljh Investments"
+            "contributor": "Ljh Investments",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "1/25/2016",
-            "contributor": "Riley, Dennis"
+            "contributor": "Riley, Dennis",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Celler, Herbert"
+            "contributor": "Celler, Herbert",
+            "amount": 1000
         },
         {
-            "amount": 275,
             "date": "3/30/2016",
-            "contributor": "Morris, Daniel"
+            "contributor": "Morris, Daniel",
+            "amount": 275
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Delosso, Louis"
+            "contributor": "Delosso, Louis",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Comegno, John Iii"
+            "contributor": "Comegno, John Iii",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Scott, George"
+            "contributor": "Scott, George",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "3/31/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "3/18/2016",
-            "contributor": "Stefani, John"
+            "contributor": "Stefani, John",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Ballerini, Lisa Santaite"
+            "contributor": "Ballerini, Lisa Santaite",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "3/11/2016",
-            "contributor": "Healey, Robert Jr"
+            "contributor": "Healey, Robert Jr",
+            "amount": 200
         },
         {
-            "amount": 2700,
             "date": "3/24/2016",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "3/8/2016",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "3/30/2016",
-            "contributor": "Weinstein, James"
+            "contributor": "Weinstein, James",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Aloi, Eric"
+            "contributor": "Aloi, Eric",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Benson-o&#039;regan, Laura"
+            "contributor": "Benson-o&#039;regan, Laura",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/30/2016",
-            "contributor": "Attanasio, Anthony"
+            "contributor": "Attanasio, Anthony",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Meyer, Robert J"
+            "contributor": "Meyer, Robert J",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "3/31/2015",
-            "contributor": "Paulsen, Jeanne"
+            "contributor": "Paulsen, Jeanne",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "3/31/2015",
-            "contributor": "Paulsen, Glenn"
+            "contributor": "Paulsen, Glenn",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Earle, Walter R"
+            "contributor": "Earle, Walter R",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/16/2015",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Dupignac, Frank Jr"
+            "contributor": "Dupignac, Frank Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/28/2016",
-            "contributor": "Holman, Frank Iii"
+            "contributor": "Holman, Frank Iii",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/8/2016",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Christie, Todd J"
+            "contributor": "Christie, Todd J",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/17/2016",
-            "contributor": "Whelan, Kim M"
+            "contributor": "Whelan, Kim M",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Paulsen, Jeanne"
+            "contributor": "Paulsen, Jeanne",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Mackey, Scot C"
+            "contributor": "Mackey, Scot C",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "3/12/2015",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/4/2015",
-            "contributor": "Delamar, Linda"
+            "contributor": "Delamar, Linda",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "3/18/2015",
-            "contributor": "Collier, Douglas W"
+            "contributor": "Collier, Douglas W",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/4/2015",
-            "contributor": "Kenny, Peter"
+            "contributor": "Kenny, Peter",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "3/23/2015",
-            "contributor": "Holman, Frank B"
+            "contributor": "Holman, Frank B",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/18/2015",
-            "contributor": "Betrix, Burton"
+            "contributor": "Betrix, Burton",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/9/2015",
-            "contributor": "Delvento, Al"
+            "contributor": "Delvento, Al",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/16/2015",
-            "contributor": "Rodriguez, Alberto"
+            "contributor": "Rodriguez, Alberto",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/23/2015",
-            "contributor": "Borden, Ian M"
+            "contributor": "Borden, Ian M",
+            "amount": 250
         },
         {
-            "amount": 800,
             "date": "12/8/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 800
         },
         {
-            "amount": 500,
             "date": "12/10/2015",
-            "contributor": "Schmidt, William Mr"
+            "contributor": "Schmidt, William Mr",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Lemire, Mark"
+            "contributor": "Lemire, Mark",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Miller, Charles S"
+            "contributor": "Miller, Charles S",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "7/16/2015",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 1000
         },
         {
-            "amount": 50,
             "date": "8/24/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "7/20/2015",
-            "contributor": "Rolf, Stephen"
+            "contributor": "Rolf, Stephen",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Lutz, John T"
+            "contributor": "Lutz, John T",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/21/2015",
-            "contributor": "Larson, Pamela"
+            "contributor": "Larson, Pamela",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Irons, Timothy C"
+            "contributor": "Irons, Timothy C",
+            "amount": 250
         },
         {
-            "amount": 150,
             "date": "6/23/2015",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 150
         },
         {
-            "amount": 500,
             "date": "4/16/2015",
-            "contributor": "Bennett, John O Iii"
+            "contributor": "Bennett, John O Iii",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/30/2016",
-            "contributor": "Hardell, Tom"
+            "contributor": "Hardell, Tom",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Burdi, Gerard L"
+            "contributor": "Burdi, Gerard L",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "1/18/2016",
-            "contributor": "Aussicker, Mark"
+            "contributor": "Aussicker, Mark",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "3/18/2016",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 250
         },
         {
-            "amount": 2500,
             "date": "3/1/2016",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 2500
         },
         {
-            "amount": 150,
             "date": "12/8/2015",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 150
         },
         {
-            "amount": 500,
             "date": "12/23/2015",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Jones, Tony"
+            "contributor": "Jones, Tony",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Anderson, Leonard E"
+            "contributor": "Anderson, Leonard E",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Bartolomeo, Anthony"
+            "contributor": "Bartolomeo, Anthony",
+            "amount": 1000
         },
         {
-            "amount": 100,
             "date": "12/23/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "7/27/2015",
-            "contributor": "Holliday, James"
+            "contributor": "Holliday, James",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/16/2015",
-            "contributor": "Storino, Anthony"
+            "contributor": "Storino, Anthony",
+            "amount": 500
         },
         {
-            "amount": 25,
             "date": "12/29/2015",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 25
         },
         {
-            "amount": 700,
             "date": "9/24/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 700
         },
         {
-            "amount": 750,
             "date": "9/15/2015",
-            "contributor": "D&#039;onofrio, Donato"
+            "contributor": "D&#039;onofrio, Donato",
+            "amount": 750
         },
         {
-            "amount": 2600,
             "date": "6/30/2015",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2600
         },
         {
-            "amount": 2700,
             "date": "11/30/2015",
-            "contributor": "Cam, Ismail"
+            "contributor": "Cam, Ismail",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Gerasoulis, Apostolos"
+            "contributor": "Gerasoulis, Apostolos",
+            "amount": 500
         },
         {
-            "amount": 150,
             "date": "11/16/2015",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 150
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Beske, Carol L"
+            "contributor": "Beske, Carol L",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "7/28/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "9/21/2015",
-            "contributor": "Maressa, Joseph A Jr"
+            "contributor": "Maressa, Joseph A Jr",
+            "amount": 250
         },
         {
-            "amount": 1450,
             "date": "9/24/2015",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 1450
         },
         {
-            "amount": 300,
             "date": "8/3/2015",
-            "contributor": "Giordano, Frank"
+            "contributor": "Giordano, Frank",
+            "amount": 300
         },
         {
-            "amount": 300,
             "date": "7/20/2015",
-            "contributor": "Kearney, Michael C"
+            "contributor": "Kearney, Michael C",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "6/30/2015",
-            "contributor": "Roma, Kenneth"
+            "contributor": "Roma, Kenneth",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "11/13/2015",
-            "contributor": "Inglesino, John"
+            "contributor": "Inglesino, John",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Thevanayagam, Dani L"
+            "contributor": "Thevanayagam, Dani L",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "10/23/2015",
-            "contributor": "Aglialoro, John J"
+            "contributor": "Aglialoro, John J",
+            "amount": 250
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Ruggero, Robert"
+            "contributor": "Ruggero, Robert",
+            "amount": 350
         },
         {
-            "amount": 2000,
             "date": "7/14/2015",
-            "contributor": "Healey, Robert Jr"
+            "contributor": "Healey, Robert Jr",
+            "amount": 2000
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, Michael J"
+            "contributor": "Stavola, Michael J",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 1000
         },
         {
-            "amount": 50,
             "date": "9/30/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Valentino, Carmine D Jr"
+            "contributor": "Valentino, Carmine D Jr",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 200
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Anghelone, Joseph"
+            "contributor": "Anghelone, Joseph",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Powers, William Me Jr"
+            "contributor": "Powers, William Me Jr",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Shirley"
+            "contributor": "Hill, Shirley",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "7/30/2015",
-            "contributor": "Cavaco, Isabella"
+            "contributor": "Cavaco, Isabella",
+            "amount": 2700
         },
         {
-            "amount": 25,
             "date": "4/6/2015",
-            "contributor": "Kirazli, Mevlut"
+            "contributor": "Kirazli, Mevlut",
+            "amount": 25
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Breslin, Kevin P"
+            "contributor": "Breslin, Kevin P",
+            "amount": 2000
         },
         {
-            "amount": 150,
             "date": "12/8/2015",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 150
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Nistad, Jon N"
+            "contributor": "Nistad, Jon N",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "8/3/2015",
-            "contributor": "Gillespie, John C"
+            "contributor": "Gillespie, John C",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "7/30/2015",
-            "contributor": "Chirichella, Joseph P"
+            "contributor": "Chirichella, Joseph P",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Floyd, Rudi T"
+            "contributor": "Floyd, Rudi T",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Burris, William G Iii"
+            "contributor": "Burris, William G Iii",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Boyd, Carolann D"
+            "contributor": "Boyd, Carolann D",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/4/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/10/2015",
-            "contributor": "Lee, Young"
+            "contributor": "Lee, Young",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "6/22/2015",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 200
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Keeler, Louis Iii"
+            "contributor": "Keeler, Louis Iii",
+            "amount": 350
         },
         {
-            "amount": 50,
             "date": "10/19/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 2600,
             "date": "10/19/2015",
-            "contributor": "Layton, William"
+            "contributor": "Layton, William",
+            "amount": 2600
         },
         {
-            "amount": 300,
             "date": "11/16/2015",
-            "contributor": "Banker, Harold J"
+            "contributor": "Banker, Harold J",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Wells, Jeff"
+            "contributor": "Wells, Jeff",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Holden, William K"
+            "contributor": "Holden, William K",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "7/20/2015",
-            "contributor": "Bastian, John"
+            "contributor": "Bastian, John",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "8/4/2015",
-            "contributor": "Schmid, Richard O"
+            "contributor": "Schmid, Richard O",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "9/21/2015",
-            "contributor": "Gerasoulis, Apostolos"
+            "contributor": "Gerasoulis, Apostolos",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Gross, Joseph"
+            "contributor": "Gross, Joseph",
+            "amount": 300
         },
         {
-            "amount": 100,
             "date": "6/23/2015",
-            "contributor": "Wark, Kevin"
+            "contributor": "Wark, Kevin",
+            "amount": 100
         },
         {
-            "amount": 50,
             "date": "6/17/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 250,
             "date": "10/29/2015",
-            "contributor": "Remington, Craig"
+            "contributor": "Remington, Craig",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "Nelligan, Timothy"
+            "contributor": "Nelligan, Timothy",
+            "amount": 1000
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, Richard"
+            "contributor": "Stavola, Richard",
+            "amount": 125
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Mannion, Laura J"
+            "contributor": "Mannion, Laura J",
+            "amount": 250
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Davala, Andrew"
+            "contributor": "Davala, Andrew",
+            "amount": 1000
         },
         {
-            "amount": 50,
             "date": "12/29/2015",
-            "contributor": "Napoliello, Allen"
+            "contributor": "Napoliello, Allen",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Brady, Edward P"
+            "contributor": "Brady, Edward P",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Schmid, Maryann"
+            "contributor": "Schmid, Maryann",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Lee, Kee H"
+            "contributor": "Lee, Kee H",
+            "amount": 300
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Baynes, Kerry"
+            "contributor": "Baynes, Kerry",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "9/15/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 250
         },
         {
-            "amount": 350,
             "date": "5/11/2015",
-            "contributor": "Appleby, Judy"
+            "contributor": "Appleby, Judy",
+            "amount": 350
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "11/20/2015",
-            "contributor": "Trimboli, Stephen E"
+            "contributor": "Trimboli, Stephen E",
+            "amount": 250
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Perzin, Adam D"
+            "contributor": "Perzin, Adam D",
+            "amount": 350
         },
         {
-            "amount": 300,
             "date": "7/27/2015",
-            "contributor": "Fernandez, Luis"
+            "contributor": "Fernandez, Luis",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "8/7/2015",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "Heitzman, Thomas"
+            "contributor": "Heitzman, Thomas",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/18/2015",
-            "contributor": "Telesh, John"
+            "contributor": "Telesh, John",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "2/2/2016",
-            "contributor": "Bristow, James"
+            "contributor": "Bristow, James",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Vaughn, Ronald Jr"
+            "contributor": "Vaughn, Ronald Jr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Lattimer, Scott"
+            "contributor": "Lattimer, Scott",
+            "amount": 250
         },
         {
-            "amount": 1450,
             "date": "2/26/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 1450
         },
         {
-            "amount": 1200,
             "date": "3/8/2016",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 1200
         },
         {
-            "amount": 1300,
             "date": "3/14/2016",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 1300
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Garcia, Dictinio"
+            "contributor": "Garcia, Dictinio",
+            "amount": 250
         },
         {
-            "amount": 2600,
             "date": "2/26/2016",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2600
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Clayton, William"
+            "contributor": "Clayton, William",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Waters, Timothy J"
+            "contributor": "Waters, Timothy J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Ralph Clayton & Sons"
+            "contributor": "Ralph Clayton & Sons",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Delosso, Margaret"
+            "contributor": "Delosso, Margaret",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "1/18/2016",
-            "contributor": "Aussicker, Denise"
+            "contributor": "Aussicker, Denise",
+            "amount": 2500
         },
         {
-            "amount": 800,
             "date": "3/31/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 800
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Delduca, Joseph A"
+            "contributor": "Delduca, Joseph A",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "Risden, Arthur F"
+            "contributor": "Risden, Arthur F",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Taylor, Scott"
+            "contributor": "Taylor, Scott",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Paulsen, Glenn"
+            "contributor": "Paulsen, Glenn",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Walters, Edward M Jr"
+            "contributor": "Walters, Edward M Jr",
+            "amount": 250
         },
         {
-            "amount": 450,
             "date": "3/24/2016",
-            "contributor": "Remington, Craig"
+            "contributor": "Remington, Craig",
+            "amount": 450
         },
         {
-            "amount": 2600,
             "date": "2/26/2016",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2600
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Solomon, Steven"
+            "contributor": "Solomon, Steven",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/28/2016",
-            "contributor": "Higgins, Richard P"
+            "contributor": "Higgins, Richard P",
+            "amount": 250
         },
         {
-            "amount": 1250,
             "date": "2/26/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 1250
         },
         {
-            "amount": 200,
             "date": "12/23/2015",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 200
         },
         {
-            "amount": 2700,
             "date": "12/3/2015",
-            "contributor": "Slomka, Laura"
+            "contributor": "Slomka, Laura",
+            "amount": 2700
         },
         {
-            "amount": 180,
             "date": "11/30/2015",
-            "contributor": "Efil, Hayati"
+            "contributor": "Efil, Hayati",
+            "amount": 180
         },
         {
-            "amount": 50,
             "date": "12/29/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "8/4/2015",
-            "contributor": "Parker, Scott J"
+            "contributor": "Parker, Scott J",
+            "amount": 500
         },
         {
-            "amount": 800,
             "date": "9/21/2015",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 800
         },
         {
-            "amount": 500,
             "date": "8/4/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "9/15/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Vernon W Ii"
+            "contributor": "Hill, Vernon W Ii",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/21/2015",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Shomo, Robert"
+            "contributor": "Shomo, Robert",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "12/8/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Zallie, George"
+            "contributor": "Zallie, George",
+            "amount": 250
         },
         {
-            "amount": 750,
             "date": "11/30/2015",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 750
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 200
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Hatala, Alexander"
+            "contributor": "Hatala, Alexander",
+            "amount": 350
         },
         {
-            "amount": 1000,
             "date": "9/21/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/30/2015",
-            "contributor": "Radwell, Brian"
+            "contributor": "Radwell, Brian",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "9/30/2015",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "8/4/2015",
-            "contributor": "Solomon, Steven"
+            "contributor": "Solomon, Steven",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/1/2015",
-            "contributor": "Lazovitz, Stephen"
+            "contributor": "Lazovitz, Stephen",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "9/21/2015",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Lee, Monica"
+            "contributor": "Lee, Monica",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/22/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 1000
         },
         {
-            "amount": 2600,
             "date": "4/21/2015",
-            "contributor": "Aussicker, Mark"
+            "contributor": "Aussicker, Mark",
+            "amount": 2600
         },
         {
-            "amount": 500,
             "date": "4/16/2015",
-            "contributor": "Storino, Anthony"
+            "contributor": "Storino, Anthony",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/29/2015",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/10/2015",
-            "contributor": "Matthews, Jeanine Ms"
+            "contributor": "Matthews, Jeanine Ms",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Vecchio, Gary"
+            "contributor": "Vecchio, Gary",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "11/30/2015",
-            "contributor": "Yagci, Cengiz"
+            "contributor": "Yagci, Cengiz",
+            "amount": 2700
         },
         {
-            "amount": 2500,
             "date": "10/22/2015",
-            "contributor": "Tilton, Robin"
+            "contributor": "Tilton, Robin",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Healey, Robert Jr"
+            "contributor": "Healey, Robert Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Cohen, Ira A"
+            "contributor": "Cohen, Ira A",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "7/16/2015",
-            "contributor": "Cordua, Peter"
+            "contributor": "Cordua, Peter",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "6/29/2015",
-            "contributor": "Gravino, Ronald"
+            "contributor": "Gravino, Ronald",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "12/8/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 300
         },
         {
-            "amount": 200,
             "date": "12/22/2015",
-            "contributor": "Lee, Eukyung"
+            "contributor": "Lee, Eukyung",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "10/23/2015",
-            "contributor": "Sico, Donald"
+            "contributor": "Sico, Donald",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "8/17/2015",
-            "contributor": "Kim, Chung S"
+            "contributor": "Kim, Chung S",
+            "amount": 300
         },
         {
-            "amount": 100,
             "date": "8/17/2015",
-            "contributor": "Lee, Eukyung"
+            "contributor": "Lee, Eukyung",
+            "amount": 100
         },
         {
-            "amount": 100,
             "date": "9/30/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "8/17/2015",
-            "contributor": "Fisher, David"
+            "contributor": "Fisher, David",
+            "amount": 500
         },
         {
-            "amount": 175,
             "date": "9/28/2015",
-            "contributor": "Lee, Young"
+            "contributor": "Lee, Young",
+            "amount": 175
         },
         {
-            "amount": 2300,
             "date": "6/22/2015",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 2300
         },
         {
-            "amount": 1000,
             "date": "6/22/2015",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/23/2015",
-            "contributor": "Roma, Kenneth"
+            "contributor": "Roma, Kenneth",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "11/20/2015",
-            "contributor": "Alstede, Kurt"
+            "contributor": "Alstede, Kurt",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 200
         },
         {
-            "amount": 250,
             "date": "12/10/2015",
-            "contributor": "Isola, Christopher"
+            "contributor": "Isola, Christopher",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "11/30/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 250,
             "date": "10/23/2015",
-            "contributor": "Carter, Joan"
+            "contributor": "Carter, Joan",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "10/23/2015",
-            "contributor": "Ivker, Robert"
+            "contributor": "Ivker, Robert",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Battista, Michael"
+            "contributor": "Battista, Michael",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Riccio, Armando V"
+            "contributor": "Riccio, Armando V",
+            "amount": 500
         },
         {
-            "amount": 200,
             "date": "9/21/2015",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 200
         },
         {
-            "amount": 2600,
             "date": "4/21/2015",
-            "contributor": "Aussicker, Denise"
+            "contributor": "Aussicker, Denise",
+            "amount": 2600
         },
         {
-            "amount": 50,
             "date": "6/8/2015",
-            "contributor": "Kenny, Peter"
+            "contributor": "Kenny, Peter",
+            "amount": 50
         },
         {
-            "amount": 200,
             "date": "6/23/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 200
         },
         {
-            "amount": 500,
             "date": "6/22/2015",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Halgas, Christopher"
+            "contributor": "Halgas, Christopher",
+            "amount": 250
         },
         {
-            "amount": 800,
             "date": "12/8/2015",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 800
         },
         {
-            "amount": 180,
             "date": "11/30/2015",
-            "contributor": "Kirazli, Mevlut"
+            "contributor": "Kirazli, Mevlut",
+            "amount": 180
         },
         {
-            "amount": 2700,
             "date": "12/3/2015",
-            "contributor": "Bodman, Roger"
+            "contributor": "Bodman, Roger",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "7/24/2015",
-            "contributor": "Dorfner, Tinamarie"
+            "contributor": "Dorfner, Tinamarie",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Miller, Hoawrd Jr"
+            "contributor": "Miller, Hoawrd Jr",
+            "amount": 300
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Shirley"
+            "contributor": "Hill, Shirley",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "7/16/2015",
-            "contributor": "Hutchinson, Edward P"
+            "contributor": "Hutchinson, Edward P",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Mcdaniel, Denis"
+            "contributor": "Mcdaniel, Denis",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "9/15/2015",
-            "contributor": "Larson, Marion"
+            "contributor": "Larson, Marion",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Johnson, David"
+            "contributor": "Johnson, David",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Wilson, Leonard C Jr"
+            "contributor": "Wilson, Leonard C Jr",
+            "amount": 200
         },
         {
-            "amount": 250,
             "date": "11/2/2015",
-            "contributor": "Curtin, James"
+            "contributor": "Curtin, James",
+            "amount": 250
         },
         {
-            "amount": 25,
             "date": "10/8/2015",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 25
         },
         {
-            "amount": 50,
             "date": "9/8/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "8/10/2015",
-            "contributor": "Lee, Young"
+            "contributor": "Lee, Young",
+            "amount": 500
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, Joseph C Iii"
+            "contributor": "Stavola, Joseph C Iii",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Vernon W Ii"
+            "contributor": "Hill, Vernon W Ii",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "8/3/2015",
-            "contributor": "Silk, Margot"
+            "contributor": "Silk, Margot",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Haaland, John"
+            "contributor": "Haaland, John",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Wilson, Leonard C Jr"
+            "contributor": "Wilson, Leonard C Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/22/2015",
-            "contributor": "Loveys, Ralph"
+            "contributor": "Loveys, Ralph",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Buckley-blaskovich, Virginia"
+            "contributor": "Buckley-blaskovich, Virginia",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Ommundsen, William R Jr"
+            "contributor": "Ommundsen, William R Jr",
+            "amount": 250
         },
         {
-            "amount": 1700,
             "date": "8/4/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1700
         },
         {
-            "amount": 300,
             "date": "9/24/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "6/5/2015",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 250
         },
         {
-            "amount": 1500,
             "date": "6/22/2015",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 1500
         },
         {
-            "amount": 100,
             "date": "6/23/2015",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 100
         },
         {
-            "amount": 100,
             "date": "12/23/2015",
-            "contributor": "Maguire, David"
+            "contributor": "Maguire, David",
+            "amount": 100
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Van Noord, Richard"
+            "contributor": "Van Noord, Richard",
+            "amount": 250
         },
         {
-            "amount": 100,
             "date": "10/8/2015",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 100
         },
         {
-            "amount": 83,
             "date": "9/1/2015",
-            "contributor": "Stavola, James Joseph Jr"
+            "contributor": "Stavola, James Joseph Jr",
+            "amount": 83
         },
         {
-            "amount": 500,
             "date": "8/4/2015",
-            "contributor": "Parker, Scott J"
+            "contributor": "Parker, Scott J",
+            "amount": 500
         },
         {
-            "amount": 600,
             "date": "7/27/2015",
-            "contributor": "Cordua, Peter"
+            "contributor": "Cordua, Peter",
+            "amount": 600
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "11/16/2015",
-            "contributor": "Sette, John"
+            "contributor": "Sette, John",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Jones, Tony"
+            "contributor": "Jones, Tony",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Bonfield, Susan D"
+            "contributor": "Bonfield, Susan D",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "11/13/2015",
-            "contributor": "Smith, Timothy"
+            "contributor": "Smith, Timothy",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 200
         },
         {
-            "amount": 100,
             "date": "12/23/2015",
-            "contributor": "Marra, Joseph R"
+            "contributor": "Marra, Joseph R",
+            "amount": 100
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "7/20/2015",
-            "contributor": "Holman, Joseph"
+            "contributor": "Holman, Joseph",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "Berkowitz, Alayne"
+            "contributor": "Berkowitz, Alayne",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/7/2015",
-            "contributor": "Platzer, Robert"
+            "contributor": "Platzer, Robert",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/24/2015",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "7/13/2015",
-            "contributor": "Wintrode, David C"
+            "contributor": "Wintrode, David C",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Seddon, Jeffrey M"
+            "contributor": "Seddon, Jeffrey M",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Mancini, Joseph"
+            "contributor": "Mancini, Joseph",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "5/18/2015",
-            "contributor": "Halpern, Cheryl M"
+            "contributor": "Halpern, Cheryl M",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/22/2015",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Larson, Kirk O Jr"
+            "contributor": "Larson, Kirk O Jr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Kull, Lawrence"
+            "contributor": "Kull, Lawrence",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "6/24/2016",
-            "contributor": "Delamar, Linda"
+            "contributor": "Delamar, Linda",
+            "amount": 200
         },
         {
-            "amount": 200,
             "date": "6/21/2016",
-            "contributor": "Hanold, Robert D Sr"
+            "contributor": "Hanold, Robert D Sr",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Mayer, Michele R"
+            "contributor": "Mayer, Michele R",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "9/30/2016",
-            "contributor": "Barrish, Janet"
+            "contributor": "Barrish, Janet",
+            "amount": 200
         },
         {
-            "amount": 1800,
             "date": "9/16/2016",
-            "contributor": "Mahon, Susan Murray"
+            "contributor": "Mahon, Susan Murray",
+            "amount": 1800
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Lee, Youngbin"
+            "contributor": "Lee, Youngbin",
+            "amount": 500
         },
         {
-            "amount": 350,
             "date": "9/30/2016",
-            "contributor": "Budd, Thomas"
+            "contributor": "Budd, Thomas",
+            "amount": 350
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Marshall, Stephen"
+            "contributor": "Marshall, Stephen",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Schneiberg, Dimitri"
+            "contributor": "Schneiberg, Dimitri",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Flynn, Bernard M"
+            "contributor": "Flynn, Bernard M",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "4/22/2016",
-            "contributor": "Hesse, Lawrence"
+            "contributor": "Hesse, Lawrence",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "4/26/2016",
-            "contributor": "O&#039;neill, Brian S"
+            "contributor": "O&#039;neill, Brian S",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Tufariello, Vincent"
+            "contributor": "Tufariello, Vincent",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "4/26/2016",
-            "contributor": "Kulin, John"
+            "contributor": "Kulin, John",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Carey, Christine"
+            "contributor": "Carey, Christine",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Alfieri, Salvatore"
+            "contributor": "Alfieri, Salvatore",
+            "amount": 250
         },
         {
-            "amount": 83,
             "date": "6/7/2016",
-            "contributor": "Willis-fayder, Deneen M"
+            "contributor": "Willis-fayder, Deneen M",
+            "amount": 83
         },
         {
-            "amount": 500,
             "date": "7/26/2016",
-            "contributor": "Halpern, Fred"
+            "contributor": "Halpern, Fred",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Stack, Dave"
+            "contributor": "Stack, Dave",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Holliday, James"
+            "contributor": "Holliday, James",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Cordua, Peter"
+            "contributor": "Cordua, Peter",
+            "amount": 500
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, Joseph C Iii"
+            "contributor": "Stavola, Joseph C Iii",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Sole, Mark"
+            "contributor": "Sole, Mark",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "9/30/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 300
         },
         {
-            "amount": 2000,
             "date": "9/16/2016",
-            "contributor": "Miller, Charles S"
+            "contributor": "Miller, Charles S",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Franks, Frances S"
+            "contributor": "Franks, Frances S",
+            "amount": 250
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Marra, Joseph R"
+            "contributor": "Marra, Joseph R",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Grunin, Jeremy"
+            "contributor": "Grunin, Jeremy",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "4/22/2016",
-            "contributor": "Thrunk, John N"
+            "contributor": "Thrunk, John N",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "4/28/2016",
-            "contributor": "Panico, David"
+            "contributor": "Panico, David",
+            "amount": 100
         },
         {
-            "amount": 250,
             "date": "5/9/2016",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "Florio, Leslie"
+            "contributor": "Florio, Leslie",
+            "amount": 1000
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Tahaney, Thomas G"
+            "contributor": "Tahaney, Thomas G",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Dasti, Elizabeth"
+            "contributor": "Dasti, Elizabeth",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Giacobbe, Matthew"
+            "contributor": "Giacobbe, Matthew",
+            "amount": 250
         },
         {
-            "amount": 481,
             "date": "5/2/2016",
-            "contributor": "Schmid, Maryann"
+            "contributor": "Schmid, Maryann",
+            "amount": 481
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Zuckerman, Seth"
+            "contributor": "Zuckerman, Seth",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Sette, John"
+            "contributor": "Sette, John",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Ommundsen, William R Jr"
+            "contributor": "Ommundsen, William R Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Semeraro, Mark J"
+            "contributor": "Semeraro, Mark J",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "10/31/2016",
-            "contributor": "Saker, Laura A"
+            "contributor": "Saker, Laura A",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Chaudhary, Pankaj K"
+            "contributor": "Chaudhary, Pankaj K",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Solomon, Steven"
+            "contributor": "Solomon, Steven",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "8/31/2016",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 1500
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "4/15/2016",
-            "contributor": "Manner, Sharon"
+            "contributor": "Manner, Sharon",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "11/8/2016",
-            "contributor": "Bowen, Robert"
+            "contributor": "Bowen, Robert",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Inglesino, John P"
+            "contributor": "Inglesino, John P",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "10/31/2016",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 50
         },
         {
-            "amount": 250,
             "date": "11/7/2016",
-            "contributor": "Sarinelli, Dianne"
+            "contributor": "Sarinelli, Dianne",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Curley, James A Iii"
+            "contributor": "Curley, James A Iii",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Trebino, Louis A"
+            "contributor": "Trebino, Louis A",
+            "amount": 500
         },
         {
-            "amount": 200,
             "date": "6/30/2016",
-            "contributor": "Van Noord, Richard"
+            "contributor": "Van Noord, Richard",
+            "amount": 200
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Segin, Bob"
+            "contributor": "Segin, Bob",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "9/7/2016",
-            "contributor": "Lavan, William Jr"
+            "contributor": "Lavan, William Jr",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Holman, Frank Iii"
+            "contributor": "Holman, Frank Iii",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/10/2016",
-            "contributor": "Van Dyke, Peter"
+            "contributor": "Van Dyke, Peter",
+            "amount": 1000
         },
         {
-            "amount": 1350,
             "date": "9/13/2016",
-            "contributor": "Omert, Edward"
+            "contributor": "Omert, Edward",
+            "amount": 1350
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Bobadilla, Victor"
+            "contributor": "Bobadilla, Victor",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "9/30/2016",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 2000
         },
         {
-            "amount": 75,
             "date": "7/13/2016",
-            "contributor": "Levenson, Jay"
+            "contributor": "Levenson, Jay",
+            "amount": 75
         },
         {
-            "amount": 500,
             "date": "8/16/2016",
-            "contributor": "Kean, Eileen"
+            "contributor": "Kean, Eileen",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 100
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "10/19/2016",
-            "contributor": "Barlow, Theresa J"
+            "contributor": "Barlow, Theresa J",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "10/28/2016",
-            "contributor": "Stanton, Barbara"
+            "contributor": "Stanton, Barbara",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "10/31/2016",
-            "contributor": "Costabile, John"
+            "contributor": "Costabile, John",
+            "amount": 300
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Hamilton, M Scott"
+            "contributor": "Hamilton, M Scott",
+            "amount": 500
         },
         {
-            "amount": 83,
             "date": "6/7/2016",
-            "contributor": "Stavola, James Joseph Jr"
+            "contributor": "Stavola, James Joseph Jr",
+            "amount": 83
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Marcille, Thomas"
+            "contributor": "Marcille, Thomas",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "6/21/2016",
-            "contributor": "Hanold, Robert D Sr"
+            "contributor": "Hanold, Robert D Sr",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Larson, Pamela"
+            "contributor": "Larson, Pamela",
+            "amount": 1000
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Wellington, Edwin"
+            "contributor": "Wellington, Edwin",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "7/13/2016",
-            "contributor": "O&#039;connor, John"
+            "contributor": "O&#039;connor, John",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/31/2016",
-            "contributor": "Demarco, Anthony A"
+            "contributor": "Demarco, Anthony A",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "10/13/2016",
-            "contributor": "Hesse, Lawrence"
+            "contributor": "Hesse, Lawrence",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Mcquaid, Kathleen A"
+            "contributor": "Mcquaid, Kathleen A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Nelligan, Tj"
+            "contributor": "Nelligan, Tj",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "5/4/2016",
-            "contributor": "Sipprelle, Scott"
+            "contributor": "Sipprelle, Scott",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 600,
             "date": "10/31/2016",
-            "contributor": "Sico, Donald"
+            "contributor": "Sico, Donald",
+            "amount": 600
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Breisch, William R"
+            "contributor": "Breisch, William R",
+            "amount": 100
         },
         {
-            "amount": 1300,
             "date": "9/30/2016",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 1300
         },
         {
-            "amount": 2000,
             "date": "9/30/2016",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 2000
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Martin, David"
+            "contributor": "Martin, David",
+            "amount": 50
         },
         {
-            "amount": 2700,
             "date": "9/30/2016",
-            "contributor": "Langer, Jerrold I"
+            "contributor": "Langer, Jerrold I",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "8/26/2016",
-            "contributor": "Blum, Claude"
+            "contributor": "Blum, Claude",
+            "amount": 250
         },
         {
-            "amount": 100,
             "date": "9/16/2016",
-            "contributor": "Mcdaniel, Denis"
+            "contributor": "Mcdaniel, Denis",
+            "amount": 100
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Davala, Andrew"
+            "contributor": "Davala, Andrew",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "9/30/2016",
-            "contributor": "Cutts, William"
+            "contributor": "Cutts, William",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "10/13/2016",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "10/13/2016",
-            "contributor": "Krakauer, Randall S"
+            "contributor": "Krakauer, Randall S",
+            "amount": 2000
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Brown, William"
+            "contributor": "Brown, William",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "10/11/2016",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "O&#039;connor, John"
+            "contributor": "O&#039;connor, John",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "10/31/2016",
-            "contributor": "Rosvold, David"
+            "contributor": "Rosvold, David",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "11/8/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Stockwell, William B"
+            "contributor": "Stockwell, William B",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Jacobs, Mitchell B"
+            "contributor": "Jacobs, Mitchell B",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Coffey, Gregory"
+            "contributor": "Coffey, Gregory",
+            "amount": 250
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 25
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Fox, Albert A"
+            "contributor": "Fox, Albert A",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Shomo, Robert"
+            "contributor": "Shomo, Robert",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Fox, Nicole R"
+            "contributor": "Fox, Nicole R",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Straub, Gerard Sr"
+            "contributor": "Straub, Gerard Sr",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "9/7/2016",
-            "contributor": "Lavan, Julie"
+            "contributor": "Lavan, Julie",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/13/2016",
-            "contributor": "Telesh, John"
+            "contributor": "Telesh, John",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/30/2016",
-            "contributor": "Kulin, John"
+            "contributor": "Kulin, John",
+            "amount": 250
         },
         {
-            "amount": 600,
             "date": "9/30/2016",
-            "contributor": "Gordon, Thomas F"
+            "contributor": "Gordon, Thomas F",
+            "amount": 600
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Winigrad, Jacob S"
+            "contributor": "Winigrad, Jacob S",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Duva, Regina A"
+            "contributor": "Duva, Regina A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/22/2016",
-            "contributor": "Greco, Anthony G"
+            "contributor": "Greco, Anthony G",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "O&#039;connor, John"
+            "contributor": "O&#039;connor, John",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Flynn, Bernard M"
+            "contributor": "Flynn, Bernard M",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "6/30/2016",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 100
         },
         {
-            "amount": 300,
             "date": "6/17/2016",
-            "contributor": "Anderson, Leonard E"
+            "contributor": "Anderson, Leonard E",
+            "amount": 300
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Lee, Kee H"
+            "contributor": "Lee, Kee H",
+            "amount": 25
         },
         {
-            "amount": 150,
             "date": "6/30/2016",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 150
         },
         {
-            "amount": 2700,
             "date": "9/20/2016",
-            "contributor": "Shandilay, Yogesh"
+            "contributor": "Shandilay, Yogesh",
+            "amount": 2700
         },
         {
-            "amount": 2300,
             "date": "7/15/2016",
-            "contributor": "Mcfadden, Mary"
+            "contributor": "Mcfadden, Mary",
+            "amount": 2300
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 1200,
             "date": "10/19/2016",
-            "contributor": "Richter, David L"
+            "contributor": "Richter, David L",
+            "amount": 1200
         },
         {
-            "amount": 250,
             "date": "5/4/2016",
-            "contributor": "Murray, John J"
+            "contributor": "Murray, John J",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Forstenhausler, Mark"
+            "contributor": "Forstenhausler, Mark",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Veech, Joanne"
+            "contributor": "Veech, Joanne",
+            "amount": 250
         },
         {
-            "amount": 2500,
             "date": "6/30/2016",
-            "contributor": "Kull, Lawrence"
+            "contributor": "Kull, Lawrence",
+            "amount": 2500
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, Richard"
+            "contributor": "Stavola, Richard",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Flynn, Bernard M"
+            "contributor": "Flynn, Bernard M",
+            "amount": 1000
         },
         {
-            "amount": 100,
             "date": "8/16/2016",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Platzer, Robert"
+            "contributor": "Platzer, Robert",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/13/2016",
-            "contributor": "Whitney, Jason R"
+            "contributor": "Whitney, Jason R",
+            "amount": 250
         },
         {
-            "amount": 400,
             "date": "4/28/2016",
-            "contributor": "Clement, Deborah L"
+            "contributor": "Clement, Deborah L",
+            "amount": 400
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Breslin, Kevin P"
+            "contributor": "Breslin, Kevin P",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Dikmak, John"
+            "contributor": "Dikmak, John",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/8/2016",
-            "contributor": "Conley, Gregory"
+            "contributor": "Conley, Gregory",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Simon, J Peter"
+            "contributor": "Simon, J Peter",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Bathgate, Lawrence E Ii"
+            "contributor": "Bathgate, Lawrence E Ii",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Prime, Timothy M"
+            "contributor": "Prime, Timothy M",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "5/9/2016",
-            "contributor": "Luby, William"
+            "contributor": "Luby, William",
+            "amount": 1000
         },
         {
-            "amount": 481,
             "date": "5/2/2016",
-            "contributor": "Schmid, Richard"
+            "contributor": "Schmid, Richard",
+            "amount": 481
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Metgud, Babu"
+            "contributor": "Metgud, Babu",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "Saxton, James"
+            "contributor": "Saxton, James",
+            "amount": 1000
         },
         {
-            "amount": 20,
             "date": "11/4/2016",
-            "contributor": "Merklin, Walter"
+            "contributor": "Merklin, Walter",
+            "amount": 20
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "10/28/2016",
-            "contributor": "Scarpa, John"
+            "contributor": "Scarpa, John",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "11/7/2016",
-            "contributor": "Collins, Carolyn J"
+            "contributor": "Collins, Carolyn J",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "6/13/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Chaudhary, Joy R"
+            "contributor": "Chaudhary, Joy R",
+            "amount": 1000
         },
         {
-            "amount": 75,
             "date": "6/30/2016",
-            "contributor": "Riley, Dennis"
+            "contributor": "Riley, Dennis",
+            "amount": 75
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Schmid, Richard O"
+            "contributor": "Schmid, Richard O",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Johnson, David"
+            "contributor": "Johnson, David",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Levenson, Jay"
+            "contributor": "Levenson, Jay",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "9/13/2016",
-            "contributor": "Gardner, Gary"
+            "contributor": "Gardner, Gary",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "10/13/2016",
-            "contributor": "Rabenou, Richelle J"
+            "contributor": "Rabenou, Richelle J",
+            "amount": 300
         },
         {
-            "amount": 50,
             "date": "4/18/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Wintrode, David C"
+            "contributor": "Wintrode, David C",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Neely, Susan C"
+            "contributor": "Neely, Susan C",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Salvo, Michael C"
+            "contributor": "Salvo, Michael C",
+            "amount": 500
         },
         {
-            "amount": 2400,
             "date": "5/31/2016",
-            "contributor": "Shilling, Elsa"
+            "contributor": "Shilling, Elsa",
+            "amount": 2400
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Grunin, Laura B"
+            "contributor": "Grunin, Laura B",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "9/20/2016",
-            "contributor": "Brennan, Jim Jr"
+            "contributor": "Brennan, Jim Jr",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "9/13/2016",
-            "contributor": "Ravitz, Jason"
+            "contributor": "Ravitz, Jason",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Mccabe, Lynn"
+            "contributor": "Mccabe, Lynn",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Buck, Steven J"
+            "contributor": "Buck, Steven J",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Hipp, Frederick Jr"
+            "contributor": "Hipp, Frederick Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "8/8/2016",
-            "contributor": "Olivo, Joseph"
+            "contributor": "Olivo, Joseph",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Pastore, Vincent"
+            "contributor": "Pastore, Vincent",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Jr, John Zanger"
+            "contributor": "Jr, John Zanger",
+            "amount": 500
         },
         {
-            "amount": 700,
             "date": "10/19/2016",
-            "contributor": "Miller, Charles S"
+            "contributor": "Miller, Charles S",
+            "amount": 700
         },
         {
-            "amount": 1500,
             "date": "10/13/2016",
-            "contributor": "Shechtel, Raquel"
+            "contributor": "Shechtel, Raquel",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Berkowitz, Steven"
+            "contributor": "Berkowitz, Steven",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "6/30/2016",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "6/21/2016",
-            "contributor": "Fasano, Vincent"
+            "contributor": "Fasano, Vincent",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Grandrimo, Erika"
+            "contributor": "Grandrimo, Erika",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/8/2016",
-            "contributor": "Ferrara, Steven A"
+            "contributor": "Ferrara, Steven A",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "8/31/2016",
-            "contributor": "Olivo, Joseph"
+            "contributor": "Olivo, Joseph",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Sickel, Robert"
+            "contributor": "Sickel, Robert",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Smukler, Andrew M"
+            "contributor": "Smukler, Andrew M",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "6/30/2016",
-            "contributor": "Florio, Dale"
+            "contributor": "Florio, Dale",
+            "amount": 2700
         },
         {
-            "amount": 1500,
             "date": "6/30/2016",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 1500
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Heitzman, Thomas"
+            "contributor": "Heitzman, Thomas",
+            "amount": 1500
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 1500
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Russell, Christopher"
+            "contributor": "Russell, Christopher",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Zuino, Matthew A"
+            "contributor": "Zuino, Matthew A",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Tilton, Robin"
+            "contributor": "Tilton, Robin",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Floyd, Rudi T"
+            "contributor": "Floyd, Rudi T",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Draper, James"
+            "contributor": "Draper, James",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Mino, William"
+            "contributor": "Mino, William",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "4/18/2016",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "11/7/2016",
-            "contributor": "Simon, J Peter"
+            "contributor": "Simon, J Peter",
+            "amount": 1000
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Maguire, David"
+            "contributor": "Maguire, David",
+            "amount": 100
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Cleary, James J"
+            "contributor": "Cleary, James J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Chowdhury, Sailesh"
+            "contributor": "Chowdhury, Sailesh",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Chirichella, Joseph P"
+            "contributor": "Chirichella, Joseph P",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Sasso, Michael J"
+            "contributor": "Sasso, Michael J",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Carley, Charles R"
+            "contributor": "Carley, Charles R",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/16/2016",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Opczynski, Erik V"
+            "contributor": "Opczynski, Erik V",
+            "amount": 500
         },
         {
-            "amount": 28,
             "date": "9/30/2016",
-            "contributor": "Tedesco, Frank V"
+            "contributor": "Tedesco, Frank V",
+            "amount": 28
         },
         {
-            "amount": 250,
             "date": "4/28/2016",
-            "contributor": "Chowanec, George J"
+            "contributor": "Chowanec, George J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "11/7/2016",
-            "contributor": "Mcallan, Robert E"
+            "contributor": "Mcallan, Robert E",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "Jessup, Matthew D"
+            "contributor": "Jessup, Matthew D",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Nissen, Jan A"
+            "contributor": "Nissen, Jan A",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "5/4/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "5/9/2016",
-            "contributor": "Lopez, Lisa G"
+            "contributor": "Lopez, Lisa G",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "11/8/2016",
-            "contributor": "Ferlise, Peter"
+            "contributor": "Ferlise, Peter",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "10/31/2016",
-            "contributor": "Lemire, Mark"
+            "contributor": "Lemire, Mark",
+            "amount": 50
         },
         {
-            "amount": 300,
             "date": "10/27/2016",
-            "contributor": "Threston, Joseph T Iii"
+            "contributor": "Threston, Joseph T Iii",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Yun, Hyung"
+            "contributor": "Yun, Hyung",
+            "amount": 250
         },
         {
-            "amount": 125,
             "date": "10/31/2016",
-            "contributor": "Buzak, Gail"
+            "contributor": "Buzak, Gail",
+            "amount": 125
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Graber, Gordon"
+            "contributor": "Graber, Gordon",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "6/13/2016",
-            "contributor": "Stahl, Donald"
+            "contributor": "Stahl, Donald",
+            "amount": 250
         },
         {
-            "amount": 150,
             "date": "6/30/2016",
-            "contributor": "Lane, Lucinda"
+            "contributor": "Lane, Lucinda",
+            "amount": 150
         },
         {
-            "amount": 200,
             "date": "6/21/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Paschall, Robert L"
+            "contributor": "Paschall, Robert L",
+            "amount": 2700
         },
         {
-            "amount": 1500,
             "date": "8/31/2016",
-            "contributor": "Baker, Theodore"
+            "contributor": "Baker, Theodore",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "7/8/2016",
-            "contributor": "Acosta, Rolando E"
+            "contributor": "Acosta, Rolando E",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Aschoff, Scott"
+            "contributor": "Aschoff, Scott",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Rudder, Scott"
+            "contributor": "Rudder, Scott",
+            "amount": 500
         },
         {
-            "amount": 25,
             "date": "9/30/2016",
-            "contributor": "Stahl, Donald"
+            "contributor": "Stahl, Donald",
+            "amount": 25
         },
         {
-            "amount": 1500,
             "date": "10/13/2016",
-            "contributor": "Shechtel, Andrew"
+            "contributor": "Shechtel, Andrew",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "4/12/2016",
-            "contributor": "Shamie, Joseph"
+            "contributor": "Shamie, Joseph",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Curtin, James"
+            "contributor": "Curtin, James",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "10/31/2016",
-            "contributor": "Levenson, Jay"
+            "contributor": "Levenson, Jay",
+            "amount": 50
         },
         {
-            "amount": 200,
             "date": "6/2/2016",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Lee, Mary Ann"
+            "contributor": "Lee, Mary Ann",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/10/2016",
-            "contributor": "Harnik, Jerry"
+            "contributor": "Harnik, Jerry",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/16/2016",
-            "contributor": "Yezzi, April J"
+            "contributor": "Yezzi, April J",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/13/2016",
-            "contributor": "Gross, Joseph"
+            "contributor": "Gross, Joseph",
+            "amount": 1500
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Carlino, Tracy L"
+            "contributor": "Carlino, Tracy L",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Unanue, Marie"
+            "contributor": "Unanue, Marie",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "9/30/2016",
-            "contributor": "Shuffler, Eric"
+            "contributor": "Shuffler, Eric",
+            "amount": 250
         },
         {
-            "amount": 2400,
             "date": "5/31/2016",
-            "contributor": "Shilling, Steve"
+            "contributor": "Shilling, Steve",
+            "amount": 2400
         },
         {
-            "amount": 500,
             "date": "6/30/2016",
-            "contributor": "Bennett, Justin"
+            "contributor": "Bennett, Justin",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Geller, Sidney"
+            "contributor": "Geller, Sidney",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Sipprelle, Scott"
+            "contributor": "Sipprelle, Scott",
+            "amount": 2700
         },
         {
-            "amount": 200,
             "date": "6/30/2016",
-            "contributor": "Leidy, R Grant"
+            "contributor": "Leidy, R Grant",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "6/30/2016",
-            "contributor": "Smith, David S"
+            "contributor": "Smith, David S",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "7/15/2016",
-            "contributor": "Mcfadden, Mary"
+            "contributor": "Mcfadden, Mary",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "8/8/2016",
-            "contributor": "Ivker, Robert"
+            "contributor": "Ivker, Robert",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Lowe, Gerry"
+            "contributor": "Lowe, Gerry",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Caruso, Domenick"
+            "contributor": "Caruso, Domenick",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 1000
         },
         {
-            "amount": 50,
             "date": "9/16/2016",
-            "contributor": "Adams, Judith"
+            "contributor": "Adams, Judith",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Cotlov, Jerry"
+            "contributor": "Cotlov, Jerry",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Trimarchi, Vincent"
+            "contributor": "Trimarchi, Vincent",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "5/18/2016",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "4/26/2016",
-            "contributor": "Fine, Philip"
+            "contributor": "Fine, Philip",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Chirichella, Joseph P"
+            "contributor": "Chirichella, Joseph P",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Blecher, Haim"
+            "contributor": "Blecher, Haim",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Halpern, Cheryl M"
+            "contributor": "Halpern, Cheryl M",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Woodward, William"
+            "contributor": "Woodward, William",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "6/13/2016",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "6/30/2016",
-            "contributor": "Knowlton, Calvin H Dr"
+            "contributor": "Knowlton, Calvin H Dr",
+            "amount": 250
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Lee, Kee H"
+            "contributor": "Lee, Kee H",
+            "amount": 25
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/13/2016",
-            "contributor": "Weldon, Raymond F"
+            "contributor": "Weldon, Raymond F",
+            "amount": 500
         },
         {
-            "amount": 200,
             "date": "8/16/2016",
-            "contributor": "Trimble, Brad"
+            "contributor": "Trimble, Brad",
+            "amount": 200
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Lee, Stephen V Iv"
+            "contributor": "Lee, Stephen V Iv",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "7/12/2016",
-            "contributor": "Floyd, Rudi T"
+            "contributor": "Floyd, Rudi T",
+            "amount": 500
         },
         {
-            "amount": 900,
             "date": "9/16/2016",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 900
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Kearney, Michael C"
+            "contributor": "Kearney, Michael C",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Bross, David"
+            "contributor": "Bross, David",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/11/2016",
-            "contributor": "Malberg, Marc"
+            "contributor": "Malberg, Marc",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/19/2016",
-            "contributor": "Richter, Irvin"
+            "contributor": "Richter, Irvin",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "10/13/2016",
-            "contributor": "Parrillo, Lorella"
+            "contributor": "Parrillo, Lorella",
+            "amount": 300
         },
         {
-            "amount": 1350,
             "date": "10/19/2016",
-            "contributor": "Giordano, Frank"
+            "contributor": "Giordano, Frank",
+            "amount": 1350
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Nistad, Jon N"
+            "contributor": "Nistad, Jon N",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Fox, Harry"
+            "contributor": "Fox, Harry",
+            "amount": 300
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Wieliczko, Matthew"
+            "contributor": "Wieliczko, Matthew",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Babos, Martin J Jr"
+            "contributor": "Babos, Martin J Jr",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Farber, Robert A"
+            "contributor": "Farber, Robert A",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Caruso, Lisa L"
+            "contributor": "Caruso, Lisa L",
+            "amount": 2700
         },
         {
-            "amount": 950,
             "date": "9/30/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 950
         },
         {
-            "amount": 50,
             "date": "9/16/2016",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 50
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Bratun, Joyce"
+            "contributor": "Bratun, Joyce",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Mcgraw, Neal C"
+            "contributor": "Mcgraw, Neal C",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Bristow, James"
+            "contributor": "Bristow, James",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "4/12/2016",
-            "contributor": "Demarco, Anthony A"
+            "contributor": "Demarco, Anthony A",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Brady, Edward P"
+            "contributor": "Brady, Edward P",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "11/8/2016",
-            "contributor": "Panico, David"
+            "contributor": "Panico, David",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Straight, Candace"
+            "contributor": "Straight, Candace",
+            "amount": 1000
         },
         {
-            "amount": 25,
             "date": "11/8/2016",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 25
         },
         {
-            "amount": 50,
             "date": "5/18/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 2000,
             "date": "11/8/2016",
-            "contributor": "Middleman, Stanley"
+            "contributor": "Middleman, Stanley",
+            "amount": 2000
         },
         {
-            "amount": 2700,
             "date": "5/4/2016",
-            "contributor": "Sipprelle, Tracy"
+            "contributor": "Sipprelle, Tracy",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Lutz, John T"
+            "contributor": "Lutz, John T",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Lattanzi, Joseph"
+            "contributor": "Lattanzi, Joseph",
+            "amount": 500
         },
         {
-            "amount": 125,
             "date": "10/31/2016",
-            "contributor": "Buzak, Edward"
+            "contributor": "Buzak, Edward",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Jones, Tony"
+            "contributor": "Jones, Tony",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Lee, Mary Ann"
+            "contributor": "Lee, Mary Ann",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Buckelew, Joseph"
+            "contributor": "Buckelew, Joseph",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "9/30/2016",
-            "contributor": "Madden, Jay"
+            "contributor": "Madden, Jay",
+            "amount": 200
         },
         {
-            "amount": 400,
             "date": "7/13/2016",
-            "contributor": "Lee, Youngbin"
+            "contributor": "Lee, Youngbin",
+            "amount": 400
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Kasinski, John"
+            "contributor": "Kasinski, John",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "8/16/2016",
-            "contributor": "Adesso, William J"
+            "contributor": "Adesso, William J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Rutt, Lonni R"
+            "contributor": "Rutt, Lonni R",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Lefkowitz, Frances"
+            "contributor": "Lefkowitz, Frances",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "4/28/2016",
-            "contributor": "Chouake, Ben"
+            "contributor": "Chouake, Ben",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "11/4/2016",
-            "contributor": "Michaels, Jeffrey T"
+            "contributor": "Michaels, Jeffrey T",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "10/31/2016",
-            "contributor": "Saker, Richard J"
+            "contributor": "Saker, Richard J",
+            "amount": 2700
         },
         {
-            "amount": 50,
             "date": "11/4/2016",
-            "contributor": "Kenny, Peter"
+            "contributor": "Kenny, Peter",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "11/8/2016",
-            "contributor": "Roma, Kenneth"
+            "contributor": "Roma, Kenneth",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Metgud, Babu"
+            "contributor": "Metgud, Babu",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "7/30/2015",
-            "contributor": "Lavan, Julie"
+            "contributor": "Lavan, Julie",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "7/27/2015",
-            "contributor": "Brennan, Jim Jr"
+            "contributor": "Brennan, Jim Jr",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "7/30/2015",
-            "contributor": "Leidy, R Grant"
+            "contributor": "Leidy, R Grant",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "11/30/2015",
-            "contributor": "Wyrsch, David"
+            "contributor": "Wyrsch, David",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/8/2016",
-            "contributor": "Dorfner, Tinamarie"
+            "contributor": "Dorfner, Tinamarie",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/1/2016",
-            "contributor": "Knowlton, Calvin H Dr"
+            "contributor": "Knowlton, Calvin H Dr",
+            "amount": 500
         },
         {
-            "amount": 750,
             "date": "3/31/2016",
-            "contributor": "Garcia, Dictinio"
+            "contributor": "Garcia, Dictinio",
+            "amount": 750
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Madden, Jay"
+            "contributor": "Madden, Jay",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "Mancini, Joseph"
+            "contributor": "Mancini, Joseph",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/12/2015",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Gips, Gordon R"
+            "contributor": "Gips, Gordon R",
+            "amount": 1000
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, Michael J"
+            "contributor": "Stavola, Michael J",
+            "amount": 125
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 25
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Hovnanian, Edele"
+            "contributor": "Hovnanian, Edele",
+            "amount": 2700
         },
         {
-            "amount": 1350,
             "date": "9/13/2016",
-            "contributor": "Omert, Edward"
+            "contributor": "Omert, Edward",
+            "amount": 1350
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Thevanayagam, Samuel"
+            "contributor": "Thevanayagam, Samuel",
+            "amount": 1500
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 100
         },
         {
-            "amount": 150,
             "date": "9/30/2016",
-            "contributor": "Guerra, Toni Elise"
+            "contributor": "Guerra, Toni Elise",
+            "amount": 150
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Ackerman, John"
+            "contributor": "Ackerman, John",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Threston, Joseph T Iii"
+            "contributor": "Threston, Joseph T Iii",
+            "amount": 300
         },
         {
-            "amount": 2700,
             "date": "10/13/2016",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Ozkul, Mustafa"
+            "contributor": "Ozkul, Mustafa",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "4/28/2016",
-            "contributor": "Boakes, James C"
+            "contributor": "Boakes, James C",
+            "amount": 100
         },
         {
-            "amount": 2000,
             "date": "4/15/2016",
-            "contributor": "Liang, Fangcheng"
+            "contributor": "Liang, Fangcheng",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Vangelder, Susan R"
+            "contributor": "Vangelder, Susan R",
+            "amount": 250
         },
         {
-            "amount": 2500,
             "date": "11/8/2016",
-            "contributor": "Gravino, Ronald"
+            "contributor": "Gravino, Ronald",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "3/31/2015",
-            "contributor": "Arabian, Gary"
+            "contributor": "Arabian, Gary",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "3/30/2015",
-            "contributor": "Ziff, Robert"
+            "contributor": "Ziff, Robert",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "3/24/2016",
-            "contributor": "Ziff, Robert"
+            "contributor": "Ziff, Robert",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Alexe, Christian"
+            "contributor": "Alexe, Christian",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "Dinella, Roger W"
+            "contributor": "Dinella, Roger W",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "7/30/2015",
-            "contributor": "Cavaco, Manuel"
+            "contributor": "Cavaco, Manuel",
+            "amount": 2700
         },
         {
-            "amount": 100,
             "date": "6/23/2015",
-            "contributor": "Dinella, Roger W"
+            "contributor": "Dinella, Roger W",
+            "amount": 100
         },
         {
-            "amount": 1000,
             "date": "12/3/2015",
-            "contributor": "Bannar, Carl P Mr"
+            "contributor": "Bannar, Carl P Mr",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Nehme, Patrick A"
+            "contributor": "Nehme, Patrick A",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "9/30/2016",
-            "contributor": "Leob, Daniel"
+            "contributor": "Leob, Daniel",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Funke, Jonathan R"
+            "contributor": "Funke, Jonathan R",
+            "amount": 250
         },
         {
-            "amount": 1500,
             "date": "5/13/2016",
-            "contributor": "Hendrickson, Douglas"
+            "contributor": "Hendrickson, Douglas",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "4/26/2016",
-            "contributor": "Toth, James"
+            "contributor": "Toth, James",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Giouroukakis, John"
+            "contributor": "Giouroukakis, John",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/30/2016",
-            "contributor": "Bialkin, Kenneth J"
+            "contributor": "Bialkin, Kenneth J",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "9/13/2016",
-            "contributor": "Berger, Stephen"
+            "contributor": "Berger, Stephen",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "5/12/2016",
-            "contributor": "Giouroukakis, John"
+            "contributor": "Giouroukakis, John",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "11/8/2016",
-            "contributor": "Hollowood, Michael"
+            "contributor": "Hollowood, Michael",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/4/2016",
-            "contributor": "Kennedy, Robert F"
+            "contributor": "Kennedy, Robert F",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "6/30/2016",
-            "contributor": "Catsimatidis, John"
+            "contributor": "Catsimatidis, John",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Goldstein, William F"
+            "contributor": "Goldstein, William F",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Nehme, Patrick A"
+            "contributor": "Nehme, Patrick A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Volpe, Michael"
+            "contributor": "Volpe, Michael",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "9/20/2016",
-            "contributor": "Mehta, Hemant"
+            "contributor": "Mehta, Hemant",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "8/8/2016",
-            "contributor": "Schwartz, Chet"
+            "contributor": "Schwartz, Chet",
+            "amount": 500
         },
         {
-            "amount": 2150,
             "date": "5/11/2016",
-            "contributor": "Hendrickson, Douglas"
+            "contributor": "Hendrickson, Douglas",
+            "amount": 2150
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Ganger, Ira"
+            "contributor": "Ganger, Ira",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Falkenberg, Edward"
+            "contributor": "Falkenberg, Edward",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "4/28/2016",
-            "contributor": "Lawrence, Andrew"
+            "contributor": "Lawrence, Andrew",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Dinella, Roger W"
+            "contributor": "Dinella, Roger W",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Hitchner, Douglas"
+            "contributor": "Hitchner, Douglas",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Williamson, Bradd"
+            "contributor": "Williamson, Bradd",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Lynch, Laurence"
+            "contributor": "Lynch, Laurence",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "6/2/2016",
-            "contributor": "Black, Jerry"
+            "contributor": "Black, Jerry",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "8/16/2016",
-            "contributor": "Comito, Michael"
+            "contributor": "Comito, Michael",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "6/23/2016",
-            "contributor": "Mack, John J"
+            "contributor": "Mack, John J",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/18/2016",
-            "contributor": "Shamie, Sam"
+            "contributor": "Shamie, Sam",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Simoes, Leonardo Bt"
+            "contributor": "Simoes, Leonardo Bt",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/22/2016",
-            "contributor": "Feinberg, David"
+            "contributor": "Feinberg, David",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "5/9/2016",
-            "contributor": "Mckibben, Jeffrey"
+            "contributor": "Mckibben, Jeffrey",
+            "amount": 2700
         },
         {
-            "amount": 1600,
             "date": "8/10/2016",
-            "contributor": "Trimboli, Anthony"
+            "contributor": "Trimboli, Anthony",
+            "amount": 1600
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Rock, Neil L"
+            "contributor": "Rock, Neil L",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "5/18/2016",
-            "contributor": "Szigethy, Bela"
+            "contributor": "Szigethy, Bela",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Cowen, Philip"
+            "contributor": "Cowen, Philip",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Rosemarino, Anthony M"
+            "contributor": "Rosemarino, Anthony M",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Shlafmitz, Howard"
+            "contributor": "Shlafmitz, Howard",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/18/2016",
-            "contributor": "Hearns, Graham"
+            "contributor": "Hearns, Graham",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Martin, Clark W"
+            "contributor": "Martin, Clark W",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2016",
-            "contributor": "Mignatti, Tj Jr"
+            "contributor": "Mignatti, Tj Jr",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/18/2016",
-            "contributor": "Mckenna, Steve"
+            "contributor": "Mckenna, Steve",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Toscano, Kristine H"
+            "contributor": "Toscano, Kristine H",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Wanger, W R"
+            "contributor": "Wanger, W R",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 500
         },
         {
-            "amount": 3,
             "date": "4/6/2015",
-            "contributor": "Suder, Karen"
+            "contributor": "Suder, Karen",
+            "amount": 3
         },
         {
-            "amount": 250,
             "date": "10/23/2015",
-            "contributor": "Calabrese, Salvatore"
+            "contributor": "Calabrese, Salvatore",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "4/6/2015",
-            "contributor": "Suder, Karen"
+            "contributor": "Suder, Karen",
+            "amount": 200
         },
         {
-            "amount": 2200,
             "date": "11/20/2015",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 2200
         },
         {
-            "amount": 2700,
             "date": "11/20/2015",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Lesser, Lawrence R"
+            "contributor": "Lesser, Lawrence R",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/21/2015",
-            "contributor": "Grollman, Peter M"
+            "contributor": "Grollman, Peter M",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Debenedictis, Nicholas"
+            "contributor": "Debenedictis, Nicholas",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Toscano, Mark"
+            "contributor": "Toscano, Mark",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "Fischette, Michael"
+            "contributor": "Fischette, Michael",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "10/23/2015",
-            "contributor": "Johnston, Kelly D"
+            "contributor": "Johnston, Kelly D",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Regensburger, Robert C"
+            "contributor": "Regensburger, Robert C",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Durbin, John T"
+            "contributor": "Durbin, John T",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/21/2015",
-            "contributor": "Christian, Theodore S"
+            "contributor": "Christian, Theodore S",
+            "amount": 500
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Hammond, Michael J"
+            "contributor": "Hammond, Michael J",
+            "amount": 350
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Norry, Elliot"
+            "contributor": "Norry, Elliot",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Blaskey, Mark S"
+            "contributor": "Blaskey, Mark S",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "10/11/2016",
-            "contributor": "Erlbaum, Gary"
+            "contributor": "Erlbaum, Gary",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Felgoise, Marc L"
+            "contributor": "Felgoise, Marc L",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Johnston, Kelly D"
+            "contributor": "Johnston, Kelly D",
+            "amount": 500
         },
         {
-            "amount": 375,
             "date": "10/13/2016",
-            "contributor": "Braun, Kenneth"
+            "contributor": "Braun, Kenneth",
+            "amount": 375
         },
         {
-            "amount": 54,
             "date": "9/30/2016",
-            "contributor": "Harmelin, Stephen"
+            "contributor": "Harmelin, Stephen",
+            "amount": 54
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Tanenbaum, Steven R"
+            "contributor": "Tanenbaum, Steven R",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Nadeau, Jamie"
+            "contributor": "Nadeau, Jamie",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/11/2016",
-            "contributor": "Horowitz, David"
+            "contributor": "Horowitz, David",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Miller, Richard P"
+            "contributor": "Miller, Richard P",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "4/19/2016",
-            "contributor": "Sasso, William R"
+            "contributor": "Sasso, William R",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Martin, Clark W"
+            "contributor": "Martin, Clark W",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/18/2016",
-            "contributor": "Zingarelli, Anthony"
+            "contributor": "Zingarelli, Anthony",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "4/7/2016",
-            "contributor": "Crofton, Michael G"
+            "contributor": "Crofton, Michael G",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Debarros, Priscilla"
+            "contributor": "Debarros, Priscilla",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Stone, Laurence"
+            "contributor": "Stone, Laurence",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Bianchi, Marc Douglas"
+            "contributor": "Bianchi, Marc Douglas",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "10/18/2016",
-            "contributor": "Ryan, Charles"
+            "contributor": "Ryan, Charles",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Rosnov, David M"
+            "contributor": "Rosnov, David M",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Toll, Bruce E"
+            "contributor": "Toll, Bruce E",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/30/2016",
-            "contributor": "Silvi, John L"
+            "contributor": "Silvi, John L",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Bernstein, Marc"
+            "contributor": "Bernstein, Marc",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Koenig, James"
+            "contributor": "Koenig, James",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Forsted, David"
+            "contributor": "Forsted, David",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "8/31/2016",
-            "contributor": "Silvi, Laurence J"
+            "contributor": "Silvi, Laurence J",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "4/18/2016",
-            "contributor": "Stamatakis, Manuel"
+            "contributor": "Stamatakis, Manuel",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Depaul, Peter"
+            "contributor": "Depaul, Peter",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Fox, Joseph L"
+            "contributor": "Fox, Joseph L",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/18/2016",
-            "contributor": "Stamatakis, Manuel"
+            "contributor": "Stamatakis, Manuel",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Hickman, Allen K Jr"
+            "contributor": "Hickman, Allen K Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/18/2016",
-            "contributor": "Davis, Lonnie"
+            "contributor": "Davis, Lonnie",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Morrison, Alan E"
+            "contributor": "Morrison, Alan E",
+            "amount": 500
         },
         {
-            "amount": 1350,
             "date": "10/26/2016",
-            "contributor": "Delraso, Joseph V Esq"
+            "contributor": "Delraso, Joseph V Esq",
+            "amount": 1350
         },
         {
-            "amount": 250,
             "date": "6/14/2016",
-            "contributor": "Boyle, Christopher"
+            "contributor": "Boyle, Christopher",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Jackvony, Bernard A"
+            "contributor": "Jackvony, Bernard A",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "5/9/2016",
-            "contributor": "Hammer, Richard"
+            "contributor": "Hammer, Richard",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "5/12/2015",
-            "contributor": "Zheng, Charlie"
+            "contributor": "Zheng, Charlie",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Carruth, Gabrielle N"
+            "contributor": "Carruth, Gabrielle N",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/31/2015",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/4/2015",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Wiltraut, James C"
+            "contributor": "Wiltraut, James C",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Jones, Christian B"
+            "contributor": "Jones, Christian B",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/2/2015",
-            "contributor": "Mullins, Donna"
+            "contributor": "Mullins, Donna",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/29/2015",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Hagy, Richard E Ii"
+            "contributor": "Hagy, Richard E Ii",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Le, Huy A"
+            "contributor": "Le, Huy A",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "11/30/2015",
-            "contributor": "Macchiarola, Frank J"
+            "contributor": "Macchiarola, Frank J",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Stombres, Steven C"
+            "contributor": "Stombres, Steven C",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "7/3/2015",
-            "contributor": "Dell, Eric Wayne"
+            "contributor": "Dell, Eric Wayne",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "12/10/2015",
-            "contributor": "Hicks, Alan B Mr"
+            "contributor": "Hicks, Alan B Mr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Rossetti, Michael G"
+            "contributor": "Rossetti, Michael G",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/14/2015",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Steffl, Jerome"
+            "contributor": "Steffl, Jerome",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "7/3/2015",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Mcpherson, Jorge L"
+            "contributor": "Mcpherson, Jorge L",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Hipp, Van Jr"
+            "contributor": "Hipp, Van Jr",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/22/2015",
-            "contributor": "Ellis, Ryan Mr"
+            "contributor": "Ellis, Ryan Mr",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "11/12/2015",
-            "contributor": "Catanzaro, Michael J"
+            "contributor": "Catanzaro, Michael J",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "12/10/2015",
-            "contributor": "O&#039;bryan, Stephen"
+            "contributor": "O&#039;bryan, Stephen",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/28/2015",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/30/2015",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "8/8/2016",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Smith, Stacey"
+            "contributor": "Smith, Stacey",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/14/2016",
-            "contributor": "Mcknight, Steven"
+            "contributor": "Mcknight, Steven",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "7/22/2016",
-            "contributor": "Mcdonnell, Carolyn E"
+            "contributor": "Mcdonnell, Carolyn E",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Mullins, Donna"
+            "contributor": "Mullins, Donna",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Gans, Daniel"
+            "contributor": "Gans, Daniel",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Fehrenbach, John"
+            "contributor": "Fehrenbach, John",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/4/2016",
-            "contributor": "Mullins, Donna"
+            "contributor": "Mullins, Donna",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/17/2016",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Ellis, Ryan"
+            "contributor": "Ellis, Ryan",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Tyee, Samish"
+            "contributor": "Tyee, Samish",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/30/2016",
-            "contributor": "Tyee, Samish"
+            "contributor": "Tyee, Samish",
+            "amount": 2000
         }
     ],
     "1": [
         {
-            "amount": 2000,
             "date": "11/10/2015",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "2/23/2016",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "4/10/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "6/14/2016",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "9/25/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "2/24/2016",
-            "contributor": "General Dynamics"
+            "contributor": "General Dynamics",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "2/23/2016",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "8/1/2016",
-            "contributor": "Sierra Nevada Corp"
+            "contributor": "Sierra Nevada Corp",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "2/25/2016",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/22/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "5/26/2016",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "5/20/2015",
-            "contributor": "General Dynamics"
+            "contributor": "General Dynamics",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Harris Corp"
+            "contributor": "Harris Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "1/7/2016",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/3/2016",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/23/2015",
-            "contributor": "Raytheon Co"
+            "contributor": "Raytheon Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/11/2016",
-            "contributor": "Harris Corp"
+            "contributor": "Harris Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/16/2015",
-            "contributor": "L-3 Communications"
+            "contributor": "L-3 Communications",
+            "amount": 1000
         }
     ],
     "2": [
         {
-            "amount": 2500,
             "date": "6/9/2016",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "10/21/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/16/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/22/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/18/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "9/10/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "9/21/2016",
-            "contributor": "John Bolton Pac"
+            "contributor": "John Bolton Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/21/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/3/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/15/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "3/16/2016",
-            "contributor": "Keystone Alliance"
+            "contributor": "Keystone Alliance",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "2/25/2015",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/8/2016",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/10/2015",
-            "contributor": "Tuesday Group Pac"
+            "contributor": "Tuesday Group Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/15/2015",
-            "contributor": "Keystone Alliance"
+            "contributor": "Keystone Alliance",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "10/13/2016",
-            "contributor": "Keystone Alliance"
+            "contributor": "Keystone Alliance",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/2/2016",
-            "contributor": "Republican Main Street Partnership"
+            "contributor": "Republican Main Street Partnership",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "10/23/2015",
-            "contributor": "Aglialoro, John J"
+            "contributor": "Aglialoro, John J",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "11/16/2015",
-            "contributor": "Sette, John"
+            "contributor": "Sette, John",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Sette, John"
+            "contributor": "Sette, John",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Felgoise, Marc L"
+            "contributor": "Felgoise, Marc L",
+            "amount": 500
         }
     ],
     "3": [
         {
-            "amount": 1000,
             "date": "6/23/2016",
-            "contributor": "United Mine Workers Of America"
+            "contributor": "United Mine Workers Of America",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/21/2015",
-            "contributor": "United Mine Workers Of America"
+            "contributor": "United Mine Workers Of America",
+            "amount": 1000
         }
     ],
     "4": [
         {
-            "amount": 1500,
             "date": "3/28/2016",
-            "contributor": "Cr Bard Inc"
+            "contributor": "Cr Bard Inc",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "11/13/2015",
-            "contributor": "Novocure Inc"
+            "contributor": "Novocure Inc",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Morrison, Alan E"
+            "contributor": "Morrison, Alan E",
+            "amount": 500
         }
     ],
     "5": [
         {
-            "amount": 1500,
             "date": "7/16/2015",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 2000,
             "date": "10/26/2016",
-            "contributor": "American Council Of Life Insurers"
+            "contributor": "American Council Of Life Insurers",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Northwestern Mutual Life Insurance"
+            "contributor": "Northwestern Mutual Life Insurance",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "12/8/2015",
-            "contributor": "New York Life Insurance"
+            "contributor": "New York Life Insurance",
+            "amount": 5000
         },
         {
-            "amount": 1500,
             "date": "6/6/2016",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 2500,
             "date": "6/23/2016",
-            "contributor": "Massachusetts Mutual Life Insurance"
+            "contributor": "Massachusetts Mutual Life Insurance",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "American Council Of Life Insurers"
+            "contributor": "American Council Of Life Insurers",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/11/2015",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/26/2015",
-            "contributor": "New York Life Insurance"
+            "contributor": "New York Life Insurance",
+            "amount": 5000
         },
         {
-            "amount": 1500,
             "date": "6/10/2016",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/11/2015",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/12/2016",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 1500
         },
         {
-            "amount": 1500,
             "date": "9/27/2016",
-            "contributor": "National Assn Of Insurance & Financial Advisors"
+            "contributor": "National Assn Of Insurance & Financial Advisors",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/15/2015",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/2/2016",
-            "contributor": "Prudential Financial"
+            "contributor": "Prudential Financial",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "12/22/2015",
-            "contributor": "Ellis, Ryan Mr"
+            "contributor": "Ellis, Ryan Mr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Ellis, Ryan"
+            "contributor": "Ellis, Ryan",
+            "amount": 1000
         }
     ],
     "6": [
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Indep Insurance Agents & Brokers/america"
+            "contributor": "Indep Insurance Agents & Brokers/america",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "8/22/2016",
-            "contributor": "Farmers Group"
+            "contributor": "Farmers Group",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "6/7/2016",
-            "contributor": "Erie Insurance"
+            "contributor": "Erie Insurance",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/27/2015",
-            "contributor": "Council Of Insurance Agents & Brokers"
+            "contributor": "Council Of Insurance Agents & Brokers",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "6/23/2015",
-            "contributor": "Indep Insurance Agents & Brokers/america"
+            "contributor": "Indep Insurance Agents & Brokers/america",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "9/13/2016",
-            "contributor": "Council Of Insurance Agents & Brokers"
+            "contributor": "Council Of Insurance Agents & Brokers",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "8/18/2016",
-            "contributor": "Council Of Insurance Agents & Brokers"
+            "contributor": "Council Of Insurance Agents & Brokers",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "National Assn Of Prof Insurance Agents"
+            "contributor": "National Assn Of Prof Insurance Agents",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/9/2016",
-            "contributor": "John Hancock Life Insurance"
+            "contributor": "John Hancock Life Insurance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "Farmers Group"
+            "contributor": "Farmers Group",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/31/2015",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "2/26/2016",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/18/2016",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 250
         },
         {
-            "amount": 800,
             "date": "9/21/2015",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 800
         },
         {
-            "amount": 200,
             "date": "9/21/2015",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 200
         },
         {
-            "amount": 1800,
             "date": "9/16/2016",
-            "contributor": "Mahon, Susan Murray"
+            "contributor": "Mahon, Susan Murray",
+            "amount": 1800
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Flynn, Bernard M"
+            "contributor": "Flynn, Bernard M",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Flynn, Bernard M"
+            "contributor": "Flynn, Bernard M",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Flynn, Bernard M"
+            "contributor": "Flynn, Bernard M",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/10/2016",
-            "contributor": "Harnik, Jerry"
+            "contributor": "Harnik, Jerry",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 1000
         },
         {
-            "amount": 900,
             "date": "9/16/2016",
-            "contributor": "Mahon, Bruce Ii"
+            "contributor": "Mahon, Bruce Ii",
+            "amount": 900
         },
         {
-            "amount": 500,
             "date": "3/12/2015",
-            "contributor": "Anderson, Andrew"
+            "contributor": "Anderson, Andrew",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/8/2016",
-            "contributor": "Schwartz, Chet"
+            "contributor": "Schwartz, Chet",
+            "amount": 500
         }
     ],
     "7": [
         {
-            "amount": 1000,
             "date": "5/31/2016",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "2/8/2016",
-            "contributor": "Kevin Mccarthy For Congress"
+            "contributor": "Kevin Mccarthy For Congress",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "2/8/2016",
-            "contributor": "Kevin Mccarthy For Congress"
+            "contributor": "Kevin Mccarthy For Congress",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "Pat Meehan For Congress"
+            "contributor": "Pat Meehan For Congress",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/15/2016",
-            "contributor": "Gary Palmer For Congress"
+            "contributor": "Gary Palmer For Congress",
+            "amount": 1000
         },
         {
-            "amount": 233,
             "date": "6/7/2016",
-            "contributor": "Cathy Mcmorris Rodgers For Congress"
+            "contributor": "Cathy Mcmorris Rodgers For Congress",
+            "amount": 233
         },
         {
-            "amount": 1000,
             "date": "5/15/2015",
-            "contributor": "Hudson For Congress"
+            "contributor": "Hudson For Congress",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/1/2015",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/23/2015",
-            "contributor": "Scalise For Congress"
+            "contributor": "Scalise For Congress",
+            "amount": 2000
         },
         {
-            "amount": 300,
             "date": "12/13/2015",
-            "contributor": "Mchenry For Congress"
+            "contributor": "Mchenry For Congress",
+            "amount": 300
         },
         {
-            "amount": 2000,
             "date": "6/3/2015",
-            "contributor": "Scalise For Congress"
+            "contributor": "Scalise For Congress",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Bilirakis For Congress"
+            "contributor": "Bilirakis For Congress",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/3/2015",
-            "contributor": "Friends Of John Boehner"
+            "contributor": "Friends Of John Boehner",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "6/3/2015",
-            "contributor": "Friends Of John Boehner"
+            "contributor": "Friends Of John Boehner",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/9/2015",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/22/2016",
-            "contributor": "Friends Of Buck Mckeon"
+            "contributor": "Friends Of Buck Mckeon",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/24/2015",
-            "contributor": "Friends Of Jim Saxton"
+            "contributor": "Friends Of Jim Saxton",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "4/5/2016",
-            "contributor": "Louie Gohmert For Congress Cmte"
+            "contributor": "Louie Gohmert For Congress Cmte",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Luke Messer For Congress"
+            "contributor": "Luke Messer For Congress",
+            "amount": 1000
         }
     ],
     "8": [
         {
-            "amount": 1000,
             "date": "7/29/2015",
-            "contributor": "Pepper Hamilton Llp"
+            "contributor": "Pepper Hamilton Llp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/10/2016",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/7/2015",
-            "contributor": "Akin, Gump Et Al"
+            "contributor": "Akin, Gump Et Al",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "4/28/2016",
-            "contributor": "Pepper Hamilton Llp"
+            "contributor": "Pepper Hamilton Llp",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "3/21/2016",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 1500
         },
         {
-            "amount": 2500,
             "date": "8/25/2015",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 2500
         },
         {
-            "amount": 2700,
             "date": "5/20/2016",
-            "contributor": "Winston & Strawn"
+            "contributor": "Winston & Strawn",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "11/17/2015",
-            "contributor": "Duane Morris Llp"
+            "contributor": "Duane Morris Llp",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/1/2016",
-            "contributor": "Akin, Gump Et Al"
+            "contributor": "Akin, Gump Et Al",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/1/2015",
-            "contributor": "Buchanan, Ingersoll & Rooney"
+            "contributor": "Buchanan, Ingersoll & Rooney",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/9/2015",
-            "contributor": "Buchanan, Ingersoll & Rooney"
+            "contributor": "Buchanan, Ingersoll & Rooney",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/22/2015",
-            "contributor": "Moorehead, Paul"
+            "contributor": "Moorehead, Paul",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Hendricks, Mark A"
+            "contributor": "Hendricks, Mark A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Llopiz, Onier"
+            "contributor": "Llopiz, Onier",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Berga, Christopher"
+            "contributor": "Berga, Christopher",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Johnson, Stephen H"
+            "contributor": "Johnson, Stephen H",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "7/27/2015",
-            "contributor": "Lydecker, Richard"
+            "contributor": "Lydecker, Richard",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Tinelli, Anthony J Jr"
+            "contributor": "Tinelli, Anthony J Jr",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Detore, John Mr"
+            "contributor": "Detore, John Mr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Long, Laura Ms"
+            "contributor": "Long, Laura Ms",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/21/2016",
-            "contributor": "Crossen, Michael Mr"
+            "contributor": "Crossen, Michael Mr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/21/2016",
-            "contributor": "Detore, John Mr"
+            "contributor": "Detore, John Mr",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Crossen, Michael Mr"
+            "contributor": "Crossen, Michael Mr",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/21/2016",
-            "contributor": "Long, Laura Ms"
+            "contributor": "Long, Laura Ms",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Gluck, Michael H"
+            "contributor": "Gluck, Michael H",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Comegno, John Iii"
+            "contributor": "Comegno, John Iii",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "3/31/2015",
-            "contributor": "Paulsen, Jeanne"
+            "contributor": "Paulsen, Jeanne",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "3/31/2015",
-            "contributor": "Paulsen, Glenn"
+            "contributor": "Paulsen, Glenn",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Paulsen, Jeanne"
+            "contributor": "Paulsen, Jeanne",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "4/16/2015",
-            "contributor": "Bennett, John O Iii"
+            "contributor": "Bennett, John O Iii",
+            "amount": 500
         },
         {
-            "amount": 150,
             "date": "12/8/2015",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 150
         },
         {
-            "amount": 250,
             "date": "11/13/2015",
-            "contributor": "Inglesino, John"
+            "contributor": "Inglesino, John",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "8/3/2015",
-            "contributor": "Gillespie, John C"
+            "contributor": "Gillespie, John C",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "11/20/2015",
-            "contributor": "Trimboli, Stephen E"
+            "contributor": "Trimboli, Stephen E",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "Risden, Arthur F"
+            "contributor": "Risden, Arthur F",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Taylor, Scott"
+            "contributor": "Taylor, Scott",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Paulsen, Glenn"
+            "contributor": "Paulsen, Glenn",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "9/21/2015",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "Berkowitz, Alayne"
+            "contributor": "Berkowitz, Alayne",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Inglesino, John P"
+            "contributor": "Inglesino, John P",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "9/7/2016",
-            "contributor": "Lavan, Julie"
+            "contributor": "Lavan, Julie",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Bathgate, Lawrence E Ii"
+            "contributor": "Bathgate, Lawrence E Ii",
+            "amount": 2700
         },
         {
-            "amount": 28,
             "date": "9/30/2016",
-            "contributor": "Tedesco, Frank V"
+            "contributor": "Tedesco, Frank V",
+            "amount": 28
         },
         {
-            "amount": 300,
             "date": "10/27/2016",
-            "contributor": "Threston, Joseph T Iii"
+            "contributor": "Threston, Joseph T Iii",
+            "amount": 300
         },
         {
-            "amount": 2700,
             "date": "7/30/2015",
-            "contributor": "Lavan, Julie"
+            "contributor": "Lavan, Julie",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Threston, Joseph T Iii"
+            "contributor": "Threston, Joseph T Iii",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Vangelder, Susan R"
+            "contributor": "Vangelder, Susan R",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Giouroukakis, John"
+            "contributor": "Giouroukakis, John",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "5/12/2016",
-            "contributor": "Giouroukakis, John"
+            "contributor": "Giouroukakis, John",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/4/2016",
-            "contributor": "Kennedy, Robert F"
+            "contributor": "Kennedy, Robert F",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Williamson, Bradd"
+            "contributor": "Williamson, Bradd",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "6/2/2016",
-            "contributor": "Black, Jerry"
+            "contributor": "Black, Jerry",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Wanger, W R"
+            "contributor": "Wanger, W R",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Lesser, Lawrence R"
+            "contributor": "Lesser, Lawrence R",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Toscano, Mark"
+            "contributor": "Toscano, Mark",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/21/2015",
-            "contributor": "Christian, Theodore S"
+            "contributor": "Christian, Theodore S",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Blaskey, Mark S"
+            "contributor": "Blaskey, Mark S",
+            "amount": 500
         },
         {
-            "amount": 54,
             "date": "9/30/2016",
-            "contributor": "Harmelin, Stephen"
+            "contributor": "Harmelin, Stephen",
+            "amount": 54
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Koenig, James"
+            "contributor": "Koenig, James",
+            "amount": 500
         },
         {
-            "amount": 1350,
             "date": "10/26/2016",
-            "contributor": "Delraso, Joseph V Esq"
+            "contributor": "Delraso, Joseph V Esq",
+            "amount": 1350
         },
         {
-            "amount": 250,
             "date": "6/14/2016",
-            "contributor": "Boyle, Christopher"
+            "contributor": "Boyle, Christopher",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Jackvony, Bernard A"
+            "contributor": "Jackvony, Bernard A",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Wiltraut, James C"
+            "contributor": "Wiltraut, James C",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Le, Huy A"
+            "contributor": "Le, Huy A",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Rossetti, Michael G"
+            "contributor": "Rossetti, Michael G",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Fehrenbach, John"
+            "contributor": "Fehrenbach, John",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 500
         }
     ],
     "9": [
         {
-            "amount": 2000,
             "date": "3/24/2015",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "7/30/2015",
-            "contributor": "Mednax Inc"
+            "contributor": "Mednax Inc",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "1/16/2015",
-            "contributor": "American Assn Of Orthopaedic Surgeons"
+            "contributor": "American Assn Of Orthopaedic Surgeons",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "7/22/2015",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/22/2016",
-            "contributor": "American Congress Of Obstetricians & Gynecologists"
+            "contributor": "American Congress Of Obstetricians & Gynecologists",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/18/2016",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "9/27/2016",
-            "contributor": "American College Of Radiology"
+            "contributor": "American College Of Radiology",
+            "amount": 5000
         },
         {
-            "amount": 4000,
             "date": "10/11/2016",
-            "contributor": "American Society Of Anesthesiologists"
+            "contributor": "American Society Of Anesthesiologists",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "11/23/2016",
-            "contributor": "American Osteopathic Assn"
+            "contributor": "American Osteopathic Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/9/2015",
-            "contributor": "American Congress Of Obstetricians & Gynecologists"
+            "contributor": "American Congress Of Obstetricians & Gynecologists",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/4/2015",
-            "contributor": "Delamar, Linda"
+            "contributor": "Delamar, Linda",
+            "amount": 250
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Perzin, Adam D"
+            "contributor": "Perzin, Adam D",
+            "amount": 350
         },
         {
-            "amount": 200,
             "date": "6/24/2016",
-            "contributor": "Delamar, Linda"
+            "contributor": "Delamar, Linda",
+            "amount": 200
         },
         {
-            "amount": 300,
             "date": "10/31/2016",
-            "contributor": "Rosvold, David"
+            "contributor": "Rosvold, David",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Forsted, David"
+            "contributor": "Forsted, David",
+            "amount": 500
         }
     ],
     "10": [
         {
-            "amount": 131,
             "date": "8/22/2016",
-            "contributor": "American Unity Fund"
+            "contributor": "American Unity Fund",
+            "amount": 131
         }
     ],
     "11": [
         {
-            "amount": 1000,
             "date": "11/2/2015",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/10/2016",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "8/7/2015",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "11/2/2016",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "6/1/2015",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1500
         },
         {
-            "amount": 1500,
             "date": "4/27/2016",
-            "contributor": "Genesis Healthcare"
+            "contributor": "Genesis Healthcare",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "5/29/2015",
-            "contributor": "Argentum"
+            "contributor": "Argentum",
+            "amount": 1000
         }
     ],
     "12": [
         {
-            "amount": 1000,
             "date": "2/24/2015",
-            "contributor": "National Automatic Merchandising Assn"
+            "contributor": "National Automatic Merchandising Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "National Automatic Merchandising Assn"
+            "contributor": "National Automatic Merchandising Assn",
+            "amount": 1000
         }
     ],
     "13": [
         {
-            "amount": 2500,
             "date": "3/30/2015",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "7/7/2016",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "9/22/2016",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/31/2016",
-            "contributor": "National Electrical Contractors Assn"
+            "contributor": "National Electrical Contractors Assn",
+            "amount": 1000
         }
     ],
     "14": [
         {
-            "amount": 2000,
             "date": "3/31/2016",
-            "contributor": "Making America Prosperous"
+            "contributor": "Making America Prosperous",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "7/8/2016",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "6/7/2016",
-            "contributor": "Prosperity Action"
+            "contributor": "Prosperity Action",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "11/2/2015",
-            "contributor": "More Conservatives Pac"
+            "contributor": "More Conservatives Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "First In Freedom Pac"
+            "contributor": "First In Freedom Pac",
+            "amount": 1000
         },
         {
-            "amount": 4500,
             "date": "6/3/2015",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 4500
         },
         {
-            "amount": 2500,
             "date": "9/2/2016",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "2/26/2015",
-            "contributor": "Freedom Project"
+            "contributor": "Freedom Project",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/19/2015",
-            "contributor": "John S Fund"
+            "contributor": "John S Fund",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/1/2015",
-            "contributor": "Badlands Pac"
+            "contributor": "Badlands Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/9/2015",
-            "contributor": "Liberty Project"
+            "contributor": "Liberty Project",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2015",
-            "contributor": "Jeff Pac"
+            "contributor": "Jeff Pac",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/4/2015",
-            "contributor": "More Conservatives Pac"
+            "contributor": "More Conservatives Pac",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "6/29/2015",
-            "contributor": "Cmr Pac"
+            "contributor": "Cmr Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/6/2015",
-            "contributor": "Building Leadership & Inspiring New Enterprise"
+            "contributor": "Building Leadership & Inspiring New Enterprise",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/18/2015",
-            "contributor": "Congressional House Republicans In Service Pac"
+            "contributor": "Congressional House Republicans In Service Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/30/2016",
-            "contributor": "Cmr Pac"
+            "contributor": "Cmr Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/2/2015",
-            "contributor": "Blessings Of Liberty Pac"
+            "contributor": "Blessings Of Liberty Pac",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/25/2015",
-            "contributor": "Support To Ensure Victory Everywhere Pac"
+            "contributor": "Support To Ensure Victory Everywhere Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/2/2015",
-            "contributor": "Supporting United States Of America&#039;s Next Leaders"
+            "contributor": "Supporting United States Of America&#039;s Next Leaders",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/3/2015",
-            "contributor": "Cole Pac"
+            "contributor": "Cole Pac",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "12/8/2015",
-            "contributor": "Trust Pac"
+            "contributor": "Trust Pac",
+            "amount": 4000
         },
         {
-            "amount": 2500,
             "date": "6/2/2015",
-            "contributor": "New Pac"
+            "contributor": "New Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/3/2015",
-            "contributor": "Freedom & Security Pac"
+            "contributor": "Freedom & Security Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/3/2015",
-            "contributor": "Jet Pac"
+            "contributor": "Jet Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/11/2015",
-            "contributor": "What A Country! Pac"
+            "contributor": "What A Country! Pac",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "4/8/2016",
-            "contributor": "Prosperity Action"
+            "contributor": "Prosperity Action",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "6/4/2015",
-            "contributor": "Majority Cmte Pac"
+            "contributor": "Majority Cmte Pac",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/9/2015",
-            "contributor": "Cole Pac"
+            "contributor": "Cole Pac",
+            "amount": 1000
         },
         {
-            "amount": 3334,
             "date": "9/19/2016",
-            "contributor": "Freedom Project"
+            "contributor": "Freedom Project",
+            "amount": 3334
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "What A Country! Pac"
+            "contributor": "What A Country! Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/17/2015",
-            "contributor": "Road To Freedom Pac"
+            "contributor": "Road To Freedom Pac",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Dent Pac"
+            "contributor": "Dent Pac",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/3/2015",
-            "contributor": "Freedom Project"
+            "contributor": "Freedom Project",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Scott Pac"
+            "contributor": "Scott Pac",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "3/27/2015",
-            "contributor": "Majority Cmte Pac"
+            "contributor": "Majority Cmte Pac",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "12/17/2015",
-            "contributor": "Citizens For Prosperity In America Today"
+            "contributor": "Citizens For Prosperity In America Today",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/24/2015",
-            "contributor": "Trust Pac"
+            "contributor": "Trust Pac",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/12/2015",
-            "contributor": "Jobs, Economy & Budget Fund"
+            "contributor": "Jobs, Economy & Budget Fund",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/16/2015",
-            "contributor": "Dent Pac"
+            "contributor": "Dent Pac",
+            "amount": 1000
         },
         {
-            "amount": 1750,
             "date": "5/2/2015",
-            "contributor": "Free Markets Pac"
+            "contributor": "Free Markets Pac",
+            "amount": 1750
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Blessings Of Liberty Pac"
+            "contributor": "Blessings Of Liberty Pac",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/23/2015",
-            "contributor": "Eye Of The Tiger Pac"
+            "contributor": "Eye Of The Tiger Pac",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "6/7/2016",
-            "contributor": "Cmr Pac"
+            "contributor": "Cmr Pac",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Pete Pac"
+            "contributor": "Pete Pac",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "6/25/2015",
-            "contributor": "Voice For Freedom"
+            "contributor": "Voice For Freedom",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/9/2015",
-            "contributor": "Diane Pac"
+            "contributor": "Diane Pac",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "6/16/2015",
-            "contributor": "New Pioneers Pac"
+            "contributor": "New Pioneers Pac",
+            "amount": 5000
         }
     ],
     "15": [
         {
-            "amount": 2000,
             "date": "9/10/2015",
-            "contributor": "Interstate Natural Gas Assn Of America"
+            "contributor": "Interstate Natural Gas Assn Of America",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/17/2015",
-            "contributor": "Williams Companies"
+            "contributor": "Williams Companies",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/3/2016",
-            "contributor": "Cheniere Energy"
+            "contributor": "Cheniere Energy",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/1/2015",
-            "contributor": "Cheniere Energy"
+            "contributor": "Cheniere Energy",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "American Gas Assn"
+            "contributor": "American Gas Assn",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "3/14/2016",
-            "contributor": "Williams Companies"
+            "contributor": "Williams Companies",
+            "amount": 4000
         },
         {
-            "amount": 1450,
             "date": "2/26/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 1450
         },
         {
-            "amount": 1250,
             "date": "2/26/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 1250
         },
         {
-            "amount": 1000,
             "date": "10/29/2015",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/5/2015",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 500
         },
         {
-            "amount": 950,
             "date": "9/30/2016",
-            "contributor": "Downes, Laurence M"
+            "contributor": "Downes, Laurence M",
+            "amount": 950
         },
         {
-            "amount": 500,
             "date": "11/30/2015",
-            "contributor": "Macchiarola, Frank J"
+            "contributor": "Macchiarola, Frank J",
+            "amount": 500
         }
     ],
     "16": [
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Liberty Mutual Insurance"
+            "contributor": "Liberty Mutual Insurance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/18/2015",
-            "contributor": "Chubb Ina"
+            "contributor": "Chubb Ina",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "5/6/2016",
-            "contributor": "Property Casualty Insurers Assn/america"
+            "contributor": "Property Casualty Insurers Assn/america",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/15/2016",
-            "contributor": "Hartford Financial Services"
+            "contributor": "Hartford Financial Services",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "8/26/2016",
-            "contributor": "Blum, Claude"
+            "contributor": "Blum, Claude",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "8/16/2016",
-            "contributor": "Trimble, Brad"
+            "contributor": "Trimble, Brad",
+            "amount": 200
         }
     ],
     "17": [
         {
-            "amount": 1000,
             "date": "2/4/2016",
-            "contributor": "Anthem Inc"
+            "contributor": "Anthem Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/2/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/26/2015",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/9/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/28/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/13/2016",
-            "contributor": "Unitedhealth Group"
+            "contributor": "Unitedhealth Group",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/7/2016",
-            "contributor": "Humana Inc"
+            "contributor": "Humana Inc",
+            "amount": 2500
         }
     ],
     "18": [
         {
-            "amount": 500,
             "date": "2/2/2016",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "5/22/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/20/2016",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/12/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/7/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "9/27/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "5/8/2015",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "6/1/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/17/2015",
-            "contributor": "Northrop Grumman"
+            "contributor": "Northrop Grumman",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "9/16/2016",
-            "contributor": "Northrop Grumman"
+            "contributor": "Northrop Grumman",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "9/23/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/28/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/27/2016",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "1/21/2016",
-            "contributor": "Northrop Grumman"
+            "contributor": "Northrop Grumman",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "8/25/2016",
-            "contributor": "Textron Inc"
+            "contributor": "Textron Inc",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "9/22/2015",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "5/23/2016",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "5/3/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "2/2/2016",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "5/19/2015",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/20/2016",
-            "contributor": "Bae Systems"
+            "contributor": "Bae Systems",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "11/17/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "7/6/2016",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "Lockheed Martin"
+            "contributor": "Lockheed Martin",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/26/2015",
-            "contributor": "Bae Systems"
+            "contributor": "Bae Systems",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/11/2016",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/24/2015",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "Boeing Co"
+            "contributor": "Boeing Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/22/2015",
-            "contributor": "General Electric"
+            "contributor": "General Electric",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/1/2015",
-            "contributor": "Bae Systems"
+            "contributor": "Bae Systems",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Bennett, Dale P"
+            "contributor": "Bennett, Dale P",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "12/10/2015",
-            "contributor": "Schmidt, William Mr"
+            "contributor": "Schmidt, William Mr",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Valentino, Carmine D Jr"
+            "contributor": "Valentino, Carmine D Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/10/2015",
-            "contributor": "Matthews, Jeanine Ms"
+            "contributor": "Matthews, Jeanine Ms",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/3/2015",
-            "contributor": "Bannar, Carl P Mr"
+            "contributor": "Bannar, Carl P Mr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Rosemarino, Anthony M"
+            "contributor": "Rosemarino, Anthony M",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Carruth, Gabrielle N"
+            "contributor": "Carruth, Gabrielle N",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/10/2015",
-            "contributor": "Hicks, Alan B Mr"
+            "contributor": "Hicks, Alan B Mr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/10/2015",
-            "contributor": "O&#039;bryan, Stephen"
+            "contributor": "O&#039;bryan, Stephen",
+            "amount": 1000
         }
     ],
     "19": [
         {
-            "amount": 1000,
             "date": "10/30/2015",
-            "contributor": "Huntington Ingalls Industries"
+            "contributor": "Huntington Ingalls Industries",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/28/2015",
-            "contributor": "Huntington Ingalls Industries"
+            "contributor": "Huntington Ingalls Industries",
+            "amount": 1000
         }
     ],
     "20": [
         {
-            "amount": 5000,
             "date": "9/16/2016",
-            "contributor": "Bayada Home Health Care"
+            "contributor": "Bayada Home Health Care",
+            "amount": 5000
         },
         {
-            "amount": 350,
             "date": "10/8/2015",
-            "contributor": "Bayada Home Health Care"
+            "contributor": "Bayada Home Health Care",
+            "amount": 350
         },
         {
-            "amount": 2700,
             "date": "7/16/2015",
-            "contributor": "Bayada Home Health Care"
+            "contributor": "Bayada Home Health Care",
+            "amount": 2700
         }
     ],
     "21": [
         {
-            "amount": 500,
             "date": "3/24/2016",
-            "contributor": "American Council Of Engineering Cos"
+            "contributor": "American Council Of Engineering Cos",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/23/2016",
-            "contributor": "American Council Of Engineering Cos"
+            "contributor": "American Council Of Engineering Cos",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "4/1/2016",
-            "contributor": "Day & Zimmermann"
+            "contributor": "Day & Zimmermann",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/16/2015",
-            "contributor": "Aecom Us"
+            "contributor": "Aecom Us",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "8/18/2016",
-            "contributor": "Aecom Us"
+            "contributor": "Aecom Us",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "10/27/2016",
-            "contributor": "Wsp Parsons Brinckerhoff"
+            "contributor": "Wsp Parsons Brinckerhoff",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/24/2016",
-            "contributor": "Maser, Richard"
+            "contributor": "Maser, Richard",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/31/2015",
-            "contributor": "Dahms, Gary C"
+            "contributor": "Dahms, Gary C",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "3/31/2015",
-            "contributor": "Remington, Craig"
+            "contributor": "Remington, Craig",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Powell, Miles Ii"
+            "contributor": "Powell, Miles Ii",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2016",
-            "contributor": "Valesi, Gregory"
+            "contributor": "Valesi, Gregory",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2016",
-            "contributor": "Stefani, John"
+            "contributor": "Stefani, John",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Bartolomeo, Anthony"
+            "contributor": "Bartolomeo, Anthony",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "10/29/2015",
-            "contributor": "Remington, Craig"
+            "contributor": "Remington, Craig",
+            "amount": 250
         },
         {
-            "amount": 450,
             "date": "3/24/2016",
-            "contributor": "Remington, Craig"
+            "contributor": "Remington, Craig",
+            "amount": 450
         },
         {
-            "amount": 1200,
             "date": "10/19/2016",
-            "contributor": "Richter, David L"
+            "contributor": "Richter, David L",
+            "amount": 1200
         },
         {
-            "amount": 500,
             "date": "11/8/2016",
-            "contributor": "Hollowood, Michael"
+            "contributor": "Hollowood, Michael",
+            "amount": 500
         }
     ],
     "22": [
         {
-            "amount": 2000,
             "date": "1/13/2016",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "12/9/2015",
-            "contributor": "Edison Electric Institute"
+            "contributor": "Edison Electric Institute",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/4/2016",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/29/2016",
-            "contributor": "Firstenergy Corp"
+            "contributor": "Firstenergy Corp",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "10/15/2015",
-            "contributor": "Firstenergy Corp"
+            "contributor": "Firstenergy Corp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/23/2016",
-            "contributor": "Firstenergy Corp"
+            "contributor": "Firstenergy Corp",
+            "amount": 1000
         },
         {
-            "amount": 3000,
             "date": "3/26/2015",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "12/16/2015",
-            "contributor": "Ppl Corp"
+            "contributor": "Ppl Corp",
+            "amount": 1000
         },
         {
-            "amount": 3700,
             "date": "4/22/2016",
-            "contributor": "Exelon Corp"
+            "contributor": "Exelon Corp",
+            "amount": 3700
         }
     ],
     "23": [
         {
-            "amount": 1000,
             "date": "8/17/2016",
-            "contributor": "Daiichi Sankyo Inc"
+            "contributor": "Daiichi Sankyo Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/12/2016",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Novo Nordisk"
+            "contributor": "Novo Nordisk",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/15/2016",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "10/16/2015",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/17/2015",
-            "contributor": "Pharmaceutical Research & Manufacturers Of America"
+            "contributor": "Pharmaceutical Research & Manufacturers Of America",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "4/11/2016",
-            "contributor": "Bristol-myers Squibb"
+            "contributor": "Bristol-myers Squibb",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "10/19/2016",
-            "contributor": "Amgen Inc"
+            "contributor": "Amgen Inc",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "3/25/2016",
-            "contributor": "Merck & Co"
+            "contributor": "Merck & Co",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/14/2016",
-            "contributor": "Novo Nordisk"
+            "contributor": "Novo Nordisk",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "4/17/2015",
-            "contributor": "Endo Health Solutions"
+            "contributor": "Endo Health Solutions",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "5/18/2016",
-            "contributor": "Pfizer Inc"
+            "contributor": "Pfizer Inc",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/9/2016",
-            "contributor": "Amgen Inc"
+            "contributor": "Amgen Inc",
+            "amount": 2500
         },
         {
-            "amount": 1500,
             "date": "11/1/2016",
-            "contributor": "Celgene Corp"
+            "contributor": "Celgene Corp",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "8/19/2015",
-            "contributor": "Novo Nordisk"
+            "contributor": "Novo Nordisk",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/3/2016",
-            "contributor": "Bayer Corp"
+            "contributor": "Bayer Corp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "11/13/2015",
-            "contributor": "Bristol-myers Squibb"
+            "contributor": "Bristol-myers Squibb",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/14/2016",
-            "contributor": "Abbvie Inc"
+            "contributor": "Abbvie Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Merck & Co"
+            "contributor": "Merck & Co",
+            "amount": 1000
         }
     ],
     "24": [
         {
-            "amount": 1000,
             "date": "9/21/2016",
-            "contributor": "American Waterways Operators"
+            "contributor": "American Waterways Operators",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "7/21/2015",
-            "contributor": "Society For Relief Of Distressed Pilots"
+            "contributor": "Society For Relief Of Distressed Pilots",
+            "amount": 500
         }
     ],
     "25": [
         {
-            "amount": 3000,
             "date": "8/22/2016",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "9/14/2015",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/8/2016",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "5/18/2016",
-            "contributor": "American Bankers Assn"
+            "contributor": "American Bankers Assn",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "8/4/2015",
-            "contributor": "Parker, Scott J"
+            "contributor": "Parker, Scott J",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/4/2015",
-            "contributor": "Parker, Scott J"
+            "contributor": "Parker, Scott J",
+            "amount": 500
         }
     ],
     "26": [
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1000
         },
         {
-            "amount": 750,
             "date": "5/3/2016",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 750
         },
         {
-            "amount": 1000,
             "date": "2/25/2016",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1000
         },
         {
-            "amount": 1750,
             "date": "5/3/2016",
-            "contributor": "United Transportation Union"
+            "contributor": "United Transportation Union",
+            "amount": 1750
         }
     ],
     "27": [
         {
-            "amount": 1000,
             "date": "5/21/2015",
-            "contributor": "Verizon Communications"
+            "contributor": "Verizon Communications",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Verizon Communications"
+            "contributor": "Verizon Communications",
+            "amount": 1000
         },
         {
-            "amount": 3000,
             "date": "9/12/2016",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/3/2016",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/12/2015",
-            "contributor": "At&t Inc"
+            "contributor": "At&t Inc",
+            "amount": 1000
         }
     ],
     "28": [
         {
-            "amount": 1000,
             "date": "10/3/2016",
-            "contributor": "Winning Strategies Washington"
+            "contributor": "Winning Strategies Washington",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Steinberg, Franklyn E"
+            "contributor": "Steinberg, Franklyn E",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/2/2015",
-            "contributor": "Scofield, John"
+            "contributor": "Scofield, John",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Mackinnon, Jeffrey M"
+            "contributor": "Mackinnon, Jeffrey M",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/8/2016",
-            "contributor": "Walton, Nathaniel"
+            "contributor": "Walton, Nathaniel",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Green, Jeffrey A"
+            "contributor": "Green, Jeffrey A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Herson, Michael"
+            "contributor": "Herson, Michael",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Green, Jeffrey A"
+            "contributor": "Green, Jeffrey A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/29/2015",
-            "contributor": "Sico, Donald"
+            "contributor": "Sico, Donald",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Bodman, Roger"
+            "contributor": "Bodman, Roger",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Mackey, Scot C"
+            "contributor": "Mackey, Scot C",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "10/23/2015",
-            "contributor": "Sico, Donald"
+            "contributor": "Sico, Donald",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "12/3/2015",
-            "contributor": "Bodman, Roger"
+            "contributor": "Bodman, Roger",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "4/26/2016",
-            "contributor": "O&#039;neill, Brian S"
+            "contributor": "O&#039;neill, Brian S",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "Florio, Leslie"
+            "contributor": "Florio, Leslie",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/16/2016",
-            "contributor": "Kean, Eileen"
+            "contributor": "Kean, Eileen",
+            "amount": 500
         },
         {
-            "amount": 600,
             "date": "10/31/2016",
-            "contributor": "Sico, Donald"
+            "contributor": "Sico, Donald",
+            "amount": 600
         },
         {
-            "amount": 2700,
             "date": "6/30/2016",
-            "contributor": "Florio, Dale"
+            "contributor": "Florio, Dale",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Rudder, Scott"
+            "contributor": "Rudder, Scott",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/4/2016",
-            "contributor": "Michaels, Jeffrey T"
+            "contributor": "Michaels, Jeffrey T",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Martin, Clark W"
+            "contributor": "Martin, Clark W",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Martin, Clark W"
+            "contributor": "Martin, Clark W",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "3/4/2015",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Jones, Christian B"
+            "contributor": "Jones, Christian B",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/2/2015",
-            "contributor": "Mullins, Donna"
+            "contributor": "Mullins, Donna",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/29/2015",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Stombres, Steven C"
+            "contributor": "Stombres, Steven C",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "7/3/2015",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Hipp, Van Jr"
+            "contributor": "Hipp, Van Jr",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "11/12/2015",
-            "contributor": "Catanzaro, Michael J"
+            "contributor": "Catanzaro, Michael J",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "11/30/2015",
-            "contributor": "Marks, Rick E"
+            "contributor": "Marks, Rick E",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "8/8/2016",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Smith, Stacey"
+            "contributor": "Smith, Stacey",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/14/2016",
-            "contributor": "Mcknight, Steven"
+            "contributor": "Mcknight, Steven",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Mullins, Donna"
+            "contributor": "Mullins, Donna",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Gans, Daniel"
+            "contributor": "Gans, Daniel",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/4/2016",
-            "contributor": "Mullins, Donna"
+            "contributor": "Mullins, Donna",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Rhoads, Barry"
+            "contributor": "Rhoads, Barry",
+            "amount": 500
         }
     ],
     "29": [
         {
-            "amount": 1000,
             "date": "8/31/2015",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "2/11/2016",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 1500
         },
         {
-            "amount": 2000,
             "date": "10/17/2016",
-            "contributor": "Securities Industry & Financial Mkt Assn"
+            "contributor": "Securities Industry & Financial Mkt Assn",
+            "amount": 2000
         },
         {
-            "amount": 3500,
             "date": "10/11/2016",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 3500
         },
         {
-            "amount": 1500,
             "date": "9/21/2016",
-            "contributor": "Ubs Americas"
+            "contributor": "Ubs Americas",
+            "amount": 1500
         },
         {
-            "amount": 2500,
             "date": "6/22/2016",
-            "contributor": "Oppenheimerfunds"
+            "contributor": "Oppenheimerfunds",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "10/13/2016",
-            "contributor": "Schlanger, Marvin"
+            "contributor": "Schlanger, Marvin",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/31/2016",
-            "contributor": "Hoffman, Lee"
+            "contributor": "Hoffman, Lee",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "3/31/2016",
-            "contributor": "Ljh Investments"
+            "contributor": "Ljh Investments",
+            "amount": 2000
         },
         {
-            "amount": 250,
             "date": "1/25/2016",
-            "contributor": "Riley, Dennis"
+            "contributor": "Riley, Dennis",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "8/24/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 50,
             "date": "9/30/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 50,
             "date": "10/19/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 50,
             "date": "6/17/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 250,
             "date": "2/2/2016",
-            "contributor": "Bristow, James"
+            "contributor": "Bristow, James",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "12/29/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 50,
             "date": "11/30/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 50,
             "date": "9/8/2015",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Simon, J Peter"
+            "contributor": "Simon, J Peter",
+            "amount": 1000
         },
         {
-            "amount": 75,
             "date": "6/30/2016",
-            "contributor": "Riley, Dennis"
+            "contributor": "Riley, Dennis",
+            "amount": 75
         },
         {
-            "amount": 50,
             "date": "4/18/2016",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "11/7/2016",
-            "contributor": "Simon, J Peter"
+            "contributor": "Simon, J Peter",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Geller, Sidney"
+            "contributor": "Geller, Sidney",
+            "amount": 1000
         },
         {
-            "amount": 50,
             "date": "5/18/2016",
-            "contributor": "Fuller, J Lindsay"
+            "contributor": "Fuller, J Lindsay",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "9/13/2016",
-            "contributor": "Weldon, Raymond F"
+            "contributor": "Weldon, Raymond F",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Bristow, James"
+            "contributor": "Bristow, James",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "3/30/2015",
-            "contributor": "Ziff, Robert"
+            "contributor": "Ziff, Robert",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "3/24/2016",
-            "contributor": "Ziff, Robert"
+            "contributor": "Ziff, Robert",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "4/26/2016",
-            "contributor": "Toth, James"
+            "contributor": "Toth, James",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "5/18/2016",
-            "contributor": "Szigethy, Bela"
+            "contributor": "Szigethy, Bela",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/18/2016",
-            "contributor": "Hearns, Graham"
+            "contributor": "Hearns, Graham",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "10/18/2016",
-            "contributor": "Ryan, Charles"
+            "contributor": "Ryan, Charles",
+            "amount": 2700
         }
     ],
     "30": [
         {
-            "amount": 1000,
             "date": "10/5/2016",
-            "contributor": "American Hospital Assn"
+            "contributor": "American Hospital Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/2/2015",
-            "contributor": "American Hospital Assn"
+            "contributor": "American Hospital Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/24/2016",
-            "contributor": "American Hospital Assn"
+            "contributor": "American Hospital Assn",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/16/2015",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "7/30/2015",
-            "contributor": "Chirichella, Joseph P"
+            "contributor": "Chirichella, Joseph P",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "9/30/2015",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 250
         },
         {
-            "amount": 100,
             "date": "10/8/2015",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 100
         },
         {
-            "amount": 300,
             "date": "9/30/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 300
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "6/14/2016",
-            "contributor": "Chirichella, Joseph P"
+            "contributor": "Chirichella, Joseph P",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "5/4/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "6/21/2016",
-            "contributor": "Browne, Patricia"
+            "contributor": "Browne, Patricia",
+            "amount": 200
         },
         {
-            "amount": 200,
             "date": "6/30/2016",
-            "contributor": "Leidy, R Grant"
+            "contributor": "Leidy, R Grant",
+            "amount": 200
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Chirichella, Joseph P"
+            "contributor": "Chirichella, Joseph P",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "7/30/2015",
-            "contributor": "Leidy, R Grant"
+            "contributor": "Leidy, R Grant",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "9/21/2015",
-            "contributor": "Grollman, Peter M"
+            "contributor": "Grollman, Peter M",
+            "amount": 250
         }
     ],
     "31": [
         {
-            "amount": 2500,
             "date": "4/14/2016",
-            "contributor": "National Beer Wholesalers Assn"
+            "contributor": "National Beer Wholesalers Assn",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "7/21/2015",
-            "contributor": "National Beer Wholesalers Assn"
+            "contributor": "National Beer Wholesalers Assn",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "9/21/2016",
-            "contributor": "National Beer Wholesalers Assn"
+            "contributor": "National Beer Wholesalers Assn",
+            "amount": 2500
         }
     ],
     "32": [
         {
-            "amount": 1000,
             "date": "7/14/2016",
-            "contributor": "National Cotton Council"
+            "contributor": "National Cotton Council",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/13/2016",
-            "contributor": "Plains Cotton Growers"
+            "contributor": "Plains Cotton Growers",
+            "amount": 1000
         }
     ],
     "33": [
         {
-            "amount": 2000,
             "date": "11/6/2015",
-            "contributor": "Intl Brotherhood Of Electrical Workers"
+            "contributor": "Intl Brotherhood Of Electrical Workers",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "3/4/2016",
-            "contributor": "Intl Brotherhood Of Electrical Workers"
+            "contributor": "Intl Brotherhood Of Electrical Workers",
+            "amount": 2000
         }
     ],
     "34": [
         {
-            "amount": 1500,
             "date": "10/31/2016",
-            "contributor": "National Active & Retired Federal Employees Assn"
+            "contributor": "National Active & Retired Federal Employees Assn",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "National Treasury Employees Union"
+            "contributor": "National Treasury Employees Union",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/29/2015",
-            "contributor": "National Active & Retired Federal Employees Assn"
+            "contributor": "National Active & Retired Federal Employees Assn",
+            "amount": 1000
         }
     ],
     "35": [
         {
-            "amount": 1000,
             "date": "5/7/2015",
-            "contributor": "Wakefern Food"
+            "contributor": "Wakefern Food",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/31/2015",
-            "contributor": "Wakefern Food"
+            "contributor": "Wakefern Food",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "6/30/2016",
-            "contributor": "Wakefern Food"
+            "contributor": "Wakefern Food",
+            "amount": 2000
         }
     ],
     "36": [
         {
-            "amount": 2500,
             "date": "2/13/2015",
-            "contributor": "Express Scripts"
+            "contributor": "Express Scripts",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "6/29/2016",
-            "contributor": "Pharmaceutical Care Management Assn"
+            "contributor": "Pharmaceutical Care Management Assn",
+            "amount": 500
         }
     ],
     "37": [
         {
-            "amount": 1000,
             "date": "5/16/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/26/2016",
-            "contributor": "Air Line Pilots Assn"
+            "contributor": "Air Line Pilots Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/14/2015",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/2/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/13/2015",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/9/2016",
-            "contributor": "Allied Pilots Assn"
+            "contributor": "Allied Pilots Assn",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "9/22/2015",
-            "contributor": "Air Line Pilots Assn"
+            "contributor": "Air Line Pilots Assn",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "9/26/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "1/18/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "8/11/2016",
-            "contributor": "United Pilots Pac"
+            "contributor": "United Pilots Pac",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/31/2016",
-            "contributor": "National Air Traffic Controllers Assn"
+            "contributor": "National Air Traffic Controllers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/20/2015",
-            "contributor": "Air Line Pilots Assn"
+            "contributor": "Air Line Pilots Assn",
+            "amount": 1000
         }
     ],
     "38": [
         {
-            "amount": 1000,
             "date": "8/10/2015",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "8/17/2016",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/28/2016",
-            "contributor": "National Assn Of Realtors"
+            "contributor": "National Assn Of Realtors",
+            "amount": 1000
         },
         {
-            "amount": 150,
             "date": "6/23/2015",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 150
         },
         {
-            "amount": 150,
             "date": "11/16/2015",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 150
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "6/2/2016",
-            "contributor": "Loveys, James"
+            "contributor": "Loveys, James",
+            "amount": 200
         }
     ],
     "39": [
         {
-            "amount": 2500,
             "date": "12/14/2015",
-            "contributor": "Best Buy"
+            "contributor": "Best Buy",
+            "amount": 2500
         }
     ],
     "40": [
         {
-            "amount": 2500,
             "date": "6/6/2016",
-            "contributor": "National Assn Of Letter Carriers"
+            "contributor": "National Assn Of Letter Carriers",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/18/2015",
-            "contributor": "National Rural Letter Carriers Assn"
+            "contributor": "National Rural Letter Carriers Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/3/2016",
-            "contributor": "American Postal Workers Union"
+            "contributor": "American Postal Workers Union",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/8/2015",
-            "contributor": "American Postal Workers Union"
+            "contributor": "American Postal Workers Union",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "National Assn Of Postal Supervisors"
+            "contributor": "National Assn Of Postal Supervisors",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "National Postal Mail Handlers Union"
+            "contributor": "National Postal Mail Handlers Union",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/23/2015",
-            "contributor": "National Assn Of Letter Carriers"
+            "contributor": "National Assn Of Letter Carriers",
+            "amount": 1500
         },
         {
-            "amount": 2000,
             "date": "10/18/2016",
-            "contributor": "National Rural Letter Carriers Assn"
+            "contributor": "National Rural Letter Carriers Assn",
+            "amount": 2000
         }
     ],
     "41": [
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "Relx Inc"
+            "contributor": "Relx Inc",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/3/2016",
-            "contributor": "Relx Inc"
+            "contributor": "Relx Inc",
+            "amount": 1000
         }
     ],
     "42": [
         {
-            "amount": 1000,
             "date": "6/4/2015",
-            "contributor": "Deloitte Llp"
+            "contributor": "Deloitte Llp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/11/2016",
-            "contributor": "Deloitte Llp"
+            "contributor": "Deloitte Llp",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "11/4/2016",
-            "contributor": "American Institute Of Cpas"
+            "contributor": "American Institute Of Cpas",
+            "amount": 2000
         },
         {
-            "amount": 5000,
             "date": "9/7/2016",
-            "contributor": "Ernst & Young"
+            "contributor": "Ernst & Young",
+            "amount": 5000
         },
         {
-            "amount": 4000,
             "date": "5/11/2016",
-            "contributor": "American Institute Of Cpas"
+            "contributor": "American Institute Of Cpas",
+            "amount": 4000
         },
         {
-            "amount": 2500,
             "date": "7/14/2015",
-            "contributor": "Pricewaterhousecoopers"
+            "contributor": "Pricewaterhousecoopers",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "6/7/2016",
-            "contributor": "Deloitte Llp"
+            "contributor": "Deloitte Llp",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/30/2016",
-            "contributor": "Mcnamara, William C"
+            "contributor": "Mcnamara, William C",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/28/2016",
-            "contributor": "Holman, Frank Iii"
+            "contributor": "Holman, Frank Iii",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Christie, Todd J"
+            "contributor": "Christie, Todd J",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/23/2015",
-            "contributor": "Holman, Frank B"
+            "contributor": "Holman, Frank B",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/28/2016",
-            "contributor": "Higgins, Richard P"
+            "contributor": "Higgins, Richard P",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "7/16/2015",
-            "contributor": "Cordua, Peter"
+            "contributor": "Cordua, Peter",
+            "amount": 1000
         },
         {
-            "amount": 600,
             "date": "7/27/2015",
-            "contributor": "Cordua, Peter"
+            "contributor": "Cordua, Peter",
+            "amount": 600
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Cordua, Peter"
+            "contributor": "Cordua, Peter",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Holman, Frank Iii"
+            "contributor": "Holman, Frank Iii",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "5/4/2016",
-            "contributor": "Murray, John J"
+            "contributor": "Murray, John J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "5/18/2016",
-            "contributor": "Davis, Lonnie"
+            "contributor": "Davis, Lonnie",
+            "amount": 1000
         }
     ],
     "43": [
         {
-            "amount": 1000,
             "date": "5/5/2015",
-            "contributor": "Johnson & Johnson"
+            "contributor": "Johnson & Johnson",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/29/2016",
-            "contributor": "Johnson & Johnson"
+            "contributor": "Johnson & Johnson",
+            "amount": 1000
         }
     ],
     "44": [
         {
-            "amount": 2000,
             "date": "4/11/2016",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "8/30/2016",
-            "contributor": "Wendy&#039;s Co"
+            "contributor": "Wendy&#039;s Co",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "Mcdonald&#039;s Corp"
+            "contributor": "Mcdonald&#039;s Corp",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "5/8/2015",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "9/20/2016",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "12/15/2015",
-            "contributor": "Bloomin&#039; Brands"
+            "contributor": "Bloomin&#039; Brands",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/3/2015",
-            "contributor": "National Franchisee Assn"
+            "contributor": "National Franchisee Assn",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "6/30/2015",
-            "contributor": "Hocker, Richard"
+            "contributor": "Hocker, Richard",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "6/30/2015",
-            "contributor": "Hocker, Marcia"
+            "contributor": "Hocker, Marcia",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Hocker, Marcia"
+            "contributor": "Hocker, Marcia",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Hocker, Richard"
+            "contributor": "Hocker, Richard",
+            "amount": 2700
         },
         {
-            "amount": 180,
             "date": "11/30/2015",
-            "contributor": "Efil, Hayati"
+            "contributor": "Efil, Hayati",
+            "amount": 180
         },
         {
-            "amount": 2000,
             "date": "4/15/2016",
-            "contributor": "Liang, Fangcheng"
+            "contributor": "Liang, Fangcheng",
+            "amount": 2000
         }
     ],
     "45": [
         {
-            "amount": 1000,
             "date": "10/6/2016",
-            "contributor": "Aqua America"
+            "contributor": "Aqua America",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "3/24/2016",
-            "contributor": "Aqua America"
+            "contributor": "Aqua America",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "7/20/2015",
-            "contributor": "Bastian, John"
+            "contributor": "Bastian, John",
+            "amount": 500
         }
     ],
     "46": [
         {
-            "amount": 2000,
             "date": "10/23/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "3/26/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/25/2016",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "9/19/2016",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 2000
         },
         {
-            "amount": 2500,
             "date": "6/19/2015",
-            "contributor": "Duke Energy"
+            "contributor": "Duke Energy",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "11/2/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "3/24/2015",
-            "contributor": "Entergy Corp"
+            "contributor": "Entergy Corp",
+            "amount": 2000
         },
         {
-            "amount": 300,
             "date": "7/14/2015",
-            "contributor": "Pepco Holdings"
+            "contributor": "Pepco Holdings",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "10/31/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/21/2015",
-            "contributor": "Pepco Holdings"
+            "contributor": "Pepco Holdings",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "4/22/2015",
-            "contributor": "Public Service Enterprise Group"
+            "contributor": "Public Service Enterprise Group",
+            "amount": 1000
         }
     ],
     "47": [
         {
-            "amount": 1500,
             "date": "5/26/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "9/10/2015",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/24/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "10/14/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "5/26/2016",
-            "contributor": "Comcast Corp"
+            "contributor": "Comcast Corp",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "National Cable & Telecommunications Assn"
+            "contributor": "National Cable & Telecommunications Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "8/30/2016",
-            "contributor": "Cox Enterprises"
+            "contributor": "Cox Enterprises",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "3/20/2015",
-            "contributor": "Cox Enterprises"
+            "contributor": "Cox Enterprises",
+            "amount": 2500
         }
     ],
     "48": [
         {
-            "amount": 5000,
             "date": "6/30/2015",
-            "contributor": "Operating Engineers Local 825"
+            "contributor": "Operating Engineers Local 825",
+            "amount": 5000
         },
         {
-            "amount": 4250,
             "date": "9/21/2016",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 4250
         },
         {
-            "amount": 4250,
             "date": "8/25/2016",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 4250
         },
         {
-            "amount": 5000,
             "date": "3/4/2015",
-            "contributor": "Operating Engineers Union"
+            "contributor": "Operating Engineers Union",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "2/24/2015",
-            "contributor": "Painters & Allied Trades Union"
+            "contributor": "Painters & Allied Trades Union",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "9/28/2015",
-            "contributor": "Painters & Allied Trades Union"
+            "contributor": "Painters & Allied Trades Union",
+            "amount": 2500
         },
         {
-            "amount": 5000,
             "date": "9/30/2016",
-            "contributor": "Carpenters & Joiners Union"
+            "contributor": "Carpenters & Joiners Union",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "7/16/2015",
-            "contributor": "Operating Engineers Local 825"
+            "contributor": "Operating Engineers Local 825",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "5/5/2016",
-            "contributor": "Operating Engineers Local 825"
+            "contributor": "Operating Engineers Local 825",
+            "amount": 2500
         },
         {
-            "amount": 4000,
             "date": "8/12/2016",
-            "contributor": "Laborers Union"
+            "contributor": "Laborers Union",
+            "amount": 4000
         },
         {
-            "amount": 2500,
             "date": "7/2/2015",
-            "contributor": "Operating Engineers Union"
+            "contributor": "Operating Engineers Union",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "6/13/2016",
-            "contributor": "Painters & Allied Trades Union"
+            "contributor": "Painters & Allied Trades Union",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "2/24/2015",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 250
         },
         {
-            "amount": 4250,
             "date": "9/21/2016",
-            "contributor": "Sheet Metal Workers Union"
+            "contributor": "Sheet Metal Workers Union",
+            "amount": 4250
         },
         {
-            "amount": 2000,
             "date": "6/6/2016",
-            "contributor": "Afl-cio Bldg/construction Trades Dept"
+            "contributor": "Afl-cio Bldg/construction Trades Dept",
+            "amount": 2000
         },
         {
-            "amount": 5000,
             "date": "6/8/2015",
-            "contributor": "Laborers Union"
+            "contributor": "Laborers Union",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "10/17/2016",
-            "contributor": "Ironworkers Union"
+            "contributor": "Ironworkers Union",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "6/1/2015",
-            "contributor": "Carpenters & Joiners Union"
+            "contributor": "Carpenters & Joiners Union",
+            "amount": 5000
         }
     ],
     "49": [
         {
-            "amount": 5000,
             "date": "10/6/2016",
-            "contributor": "National Auto Dealers Assn"
+            "contributor": "National Auto Dealers Assn",
+            "amount": 5000
         },
         {
-            "amount": 2500,
             "date": "7/15/2015",
-            "contributor": "National Auto Dealers Assn"
+            "contributor": "National Auto Dealers Assn",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "11/1/2016",
-            "contributor": "Pohanka, John J"
+            "contributor": "Pohanka, John J",
+            "amount": 2500
         },
         {
-            "amount": 300,
             "date": "7/20/2015",
-            "contributor": "Holman, Joseph"
+            "contributor": "Holman, Joseph",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Kull, Lawrence"
+            "contributor": "Kull, Lawrence",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Curley, James A Iii"
+            "contributor": "Curley, James A Iii",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "6/30/2016",
-            "contributor": "Kull, Lawrence"
+            "contributor": "Kull, Lawrence",
+            "amount": 2500
         }
     ],
     "50": [
         {
-            "amount": 1000,
             "date": "9/14/2015",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1000
         },
         {
-            "amount": 1700,
             "date": "10/28/2016",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1700
         },
         {
-            "amount": 1000,
             "date": "5/22/2015",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/19/2015",
-            "contributor": "National Assn Of Health Underwriters"
+            "contributor": "National Assn Of Health Underwriters",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/11/2016",
-            "contributor": "America&#039;s Health Insurance Plans"
+            "contributor": "America&#039;s Health Insurance Plans",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/21/2016",
-            "contributor": "Cigna Corp"
+            "contributor": "Cigna Corp",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "4/18/2016",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Independence Blue Cross"
+            "contributor": "Independence Blue Cross",
+            "amount": 1000
         }
     ],
     "51": [
         {
-            "amount": 2700,
             "date": "4/15/2015",
-            "contributor": "Teamsters Union"
+            "contributor": "Teamsters Union",
+            "amount": 2700
         },
         {
-            "amount": 2300,
             "date": "7/30/2015",
-            "contributor": "Teamsters Union"
+            "contributor": "Teamsters Union",
+            "amount": 2300
         },
         {
-            "amount": 5000,
             "date": "10/12/2016",
-            "contributor": "Teamsters Union"
+            "contributor": "Teamsters Union",
+            "amount": 5000
         }
     ],
     "52": [
         {
-            "amount": 1000,
             "date": "8/31/2016",
-            "contributor": "Cit Group"
+            "contributor": "Cit Group",
+            "amount": 1000
         }
     ],
     "53": [
         {
-            "amount": 1000,
             "date": "9/23/2016",
-            "contributor": "National Multi Housing Council"
+            "contributor": "National Multi Housing Council",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "11/2/2015",
-            "contributor": "American Resort Development Assn"
+            "contributor": "American Resort Development Assn",
+            "amount": 5000
         }
     ],
     "54": [
         {
-            "amount": 2500,
             "date": "12/21/2015",
-            "contributor": "Boyd Gaming"
+            "contributor": "Boyd Gaming",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "2/18/2016",
-            "contributor": "American Gaming Assn"
+            "contributor": "American Gaming Assn",
+            "amount": 1000
         }
     ],
     "55": [
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "National Assn Of Home Builders"
+            "contributor": "National Assn Of Home Builders",
+            "amount": 1000
         }
     ],
     "56": [
         {
-            "amount": 2500,
             "date": "5/21/2015",
-            "contributor": "Ocean Spray Cranberries"
+            "contributor": "Ocean Spray Cranberries",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "5/31/2016",
-            "contributor": "Ocean Spray Cranberries"
+            "contributor": "Ocean Spray Cranberries",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "11/28/2016",
-            "contributor": "Ocean Spray Cranberries"
+            "contributor": "Ocean Spray Cranberries",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "7/22/2016",
-            "contributor": "Mcdonnell, Carolyn E"
+            "contributor": "Mcdonnell, Carolyn E",
+            "amount": 500
         }
     ],
     "57": [
         {
-            "amount": 2000,
             "date": "4/13/2015",
-            "contributor": "Michigan Sugar"
+            "contributor": "Michigan Sugar",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/12/2015",
-            "contributor": "American Sugar Cane League"
+            "contributor": "American Sugar Cane League",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/6/2015",
-            "contributor": "Sugar Cane Growers Co-op Of Florida"
+            "contributor": "Sugar Cane Growers Co-op Of Florida",
+            "amount": 1000
         },
         {
-            "amount": 5000,
             "date": "3/23/2015",
-            "contributor": "American Crystal Sugar"
+            "contributor": "American Crystal Sugar",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "4/29/2015",
-            "contributor": "Minn-dak Farmers Co-op"
+            "contributor": "Minn-dak Farmers Co-op",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/28/2015",
-            "contributor": "Buker, Robert H Jr"
+            "contributor": "Buker, Robert H Jr",
+            "amount": 1000
         }
     ],
     "58": [
         {
-            "amount": 1000,
             "date": "11/4/2016",
-            "contributor": "Asian American Hotel Owners Assn"
+            "contributor": "Asian American Hotel Owners Assn",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/4/2016",
-            "contributor": "Wyndham Worldwide"
+            "contributor": "Wyndham Worldwide",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "12/4/2015",
-            "contributor": "American Hotel & Lodging Assn"
+            "contributor": "American Hotel & Lodging Assn",
+            "amount": 2500
         },
         {
-            "amount": 4000,
             "date": "7/20/2016",
-            "contributor": "Wyndham Worldwide"
+            "contributor": "Wyndham Worldwide",
+            "amount": 4000
         }
     ],
     "59": [
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "International Council Of Shopping Cntrs"
+            "contributor": "International Council Of Shopping Cntrs",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "8/24/2015",
-            "contributor": "International Council Of Shopping Cntrs"
+            "contributor": "International Council Of Shopping Cntrs",
+            "amount": 2500
         }
     ],
     "60": [
         {
-            "amount": 1500,
             "date": "9/16/2015",
-            "contributor": "Devon Energy"
+            "contributor": "Devon Energy",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "3/21/2016",
-            "contributor": "Newfield Exploration Co"
+            "contributor": "Newfield Exploration Co",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "7/21/2015",
-            "contributor": "Anadarko Petroleum"
+            "contributor": "Anadarko Petroleum",
+            "amount": 2000
         }
     ],
     "61": [
         {
-            "amount": 2500,
             "date": "6/15/2015",
-            "contributor": "Ppg Industries"
+            "contributor": "Ppg Industries",
+            "amount": 2500
         }
     ],
     "62": [
         {
-            "amount": 1500,
             "date": "11/2/2016",
-            "contributor": "Sheet Metal/ac Contractors Assn"
+            "contributor": "Sheet Metal/ac Contractors Assn",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "5/15/2015",
-            "contributor": "Sheet Metal/ac Contractors Assn"
+            "contributor": "Sheet Metal/ac Contractors Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "5/29/2015",
-            "contributor": "Sheet Metal/ac Contractors Assn"
+            "contributor": "Sheet Metal/ac Contractors Assn",
+            "amount": 2500
         }
     ],
     "63": [
         {
-            "amount": 1000,
             "date": "3/10/2015",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/29/2015",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "National Fisheries Institute"
+            "contributor": "National Fisheries Institute",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "9/1/2016",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "2/23/2016",
-            "contributor": "Recreational Fishing Alliance"
+            "contributor": "Recreational Fishing Alliance",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "7/14/2015",
-            "contributor": "Healey, William"
+            "contributor": "Healey, William",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Straub, Kathy"
+            "contributor": "Straub, Kathy",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Straub, Gerard Sr"
+            "contributor": "Straub, Gerard Sr",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "3/4/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/11/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/11/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Davala, Andrew"
+            "contributor": "Davala, Andrew",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/4/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/21/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "6/23/2015",
-            "contributor": "Panacek, Ernest"
+            "contributor": "Panacek, Ernest",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Larson, Kirk O Jr"
+            "contributor": "Larson, Kirk O Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Larson, Pamela"
+            "contributor": "Larson, Pamela",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Davala, Andrew"
+            "contributor": "Davala, Andrew",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Straub, Gerard Sr"
+            "contributor": "Straub, Gerard Sr",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Healey, Patrick"
+            "contributor": "Healey, Patrick",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Kasinski, John"
+            "contributor": "Kasinski, John",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Rutt, Lonni R"
+            "contributor": "Rutt, Lonni R",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "11/8/2016",
-            "contributor": "Roma, Kenneth"
+            "contributor": "Roma, Kenneth",
+            "amount": 1000
         }
     ],
     "64": [
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "Americans For Republican Leadership"
+            "contributor": "Americans For Republican Leadership",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "4/8/2015",
-            "contributor": "Leadership Matters For America"
+            "contributor": "Leadership Matters For America",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "5/8/2015",
-            "contributor": "Right To Rise Pac"
+            "contributor": "Right To Rise Pac",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "6/25/2015",
-            "contributor": "Viking Leadership Pac"
+            "contributor": "Viking Leadership Pac",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "11/2/2016",
-            "contributor": "Leadership Matters For America"
+            "contributor": "Leadership Matters For America",
+            "amount": 2000
         }
     ],
     "65": [
         {
-            "amount": 1000,
             "date": "12/18/2015",
-            "contributor": "Wal-mart Stores"
+            "contributor": "Wal-mart Stores",
+            "amount": 1000
         }
     ],
     "66": [
         {
-            "amount": 1000,
             "date": "9/23/2016",
-            "contributor": "Navient Corp"
+            "contributor": "Navient Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/3/2015",
-            "contributor": "Navient Corp"
+            "contributor": "Navient Corp",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/2/2016",
-            "contributor": "Navient Corp"
+            "contributor": "Navient Corp",
+            "amount": 1000
         }
     ],
     "67": [
         {
-            "amount": 2500,
             "date": "6/3/2015",
-            "contributor": "National Marine Manufacturers Assn"
+            "contributor": "National Marine Manufacturers Assn",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "6/20/2016",
-            "contributor": "National Marine Manufacturers Assn"
+            "contributor": "National Marine Manufacturers Assn",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "2/19/2015",
-            "contributor": "National Marine Manufacturers Assn"
+            "contributor": "National Marine Manufacturers Assn",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "3/11/2016",
-            "contributor": "Healey, Robert Jr"
+            "contributor": "Healey, Robert Jr",
+            "amount": 200
         },
         {
-            "amount": 2000,
             "date": "7/14/2015",
-            "contributor": "Healey, Robert Jr"
+            "contributor": "Healey, Robert Jr",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Healey, Robert Jr"
+            "contributor": "Healey, Robert Jr",
+            "amount": 500
         }
     ],
     "68": [
         {
-            "amount": 750,
             "date": "7/21/2015",
-            "contributor": "American Principles"
+            "contributor": "American Principles",
+            "amount": 750
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Pac Of Cherry Hill, Nj"
+            "contributor": "Pac Of Cherry Hill, Nj",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "7/21/2015",
-            "contributor": "Florida Congressional Cmte"
+            "contributor": "Florida Congressional Cmte",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "7/30/2015",
-            "contributor": "Shapiro, Jayne M"
+            "contributor": "Shapiro, Jayne M",
+            "amount": 250
         },
         {
-            "amount": 1500,
             "date": "10/13/2016",
-            "contributor": "Shechtel, Raquel"
+            "contributor": "Shechtel, Raquel",
+            "amount": 1500
         },
         {
-            "amount": 1500,
             "date": "10/13/2016",
-            "contributor": "Shechtel, Andrew"
+            "contributor": "Shechtel, Andrew",
+            "amount": 1500
         },
         {
-            "amount": 2000,
             "date": "4/28/2016",
-            "contributor": "Chouake, Ben"
+            "contributor": "Chouake, Ben",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "6/30/2016",
-            "contributor": "Bialkin, Kenneth J"
+            "contributor": "Bialkin, Kenneth J",
+            "amount": 1000
         },
         {
-            "amount": 2000,
             "date": "10/11/2016",
-            "contributor": "Erlbaum, Gary"
+            "contributor": "Erlbaum, Gary",
+            "amount": 2000
         }
     ],
     "69": [
         {
-            "amount": 2500,
             "date": "5/26/2016",
-            "contributor": "Home Depot"
+            "contributor": "Home Depot",
+            "amount": 2500
         }
     ],
     "70": [
         {
-            "amount": 1000,
             "date": "1/27/2015",
-            "contributor": "Us-cuba Democracy Pac"
+            "contributor": "Us-cuba Democracy Pac",
+            "amount": 1000
         },
         {
-            "amount": 4000,
             "date": "7/24/2015",
-            "contributor": "Us-cuba Democracy Pac"
+            "contributor": "Us-cuba Democracy Pac",
+            "amount": 4000
         },
         {
-            "amount": 1000,
             "date": "7/24/2015",
-            "contributor": "Us-cuba Democracy Pac"
+            "contributor": "Us-cuba Democracy Pac",
+            "amount": 1000
         }
     ],
     "71": [
         {
-            "amount": 1000,
             "date": "9/28/2015",
-            "contributor": "International Assn Of Fire Fighters"
+            "contributor": "International Assn Of Fire Fighters",
+            "amount": 1000
         }
     ],
     "72": [
         {
-            "amount": 1000,
             "date": "8/18/2016",
-            "contributor": "Campbell Soup"
+            "contributor": "Campbell Soup",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Campbell Soup"
+            "contributor": "Campbell Soup",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "10/23/2015",
-            "contributor": "Johnston, Kelly D"
+            "contributor": "Johnston, Kelly D",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Johnston, Kelly D"
+            "contributor": "Johnston, Kelly D",
+            "amount": 500
         }
     ],
     "73": [
         {
-            "amount": 2500,
             "date": "5/9/2016",
-            "contributor": "American Investment Council"
+            "contributor": "American Investment Council",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/8/2015",
-            "contributor": "Macandrews & Forbes"
+            "contributor": "Macandrews & Forbes",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Paulson, Randall"
+            "contributor": "Paulson, Randall",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "5/4/2016",
-            "contributor": "Sipprelle, Scott"
+            "contributor": "Sipprelle, Scott",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "5/4/2016",
-            "contributor": "Sipprelle, Tracy"
+            "contributor": "Sipprelle, Tracy",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "9/13/2016",
-            "contributor": "Berger, Stephen"
+            "contributor": "Berger, Stephen",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Hitchner, Douglas"
+            "contributor": "Hitchner, Douglas",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "5/9/2016",
-            "contributor": "Mckibben, Jeffrey"
+            "contributor": "Mckibben, Jeffrey",
+            "amount": 2700
         }
     ],
     "74": [
         {
-            "amount": 2500,
             "date": "6/16/2015",
-            "contributor": "National Assn Of Home Builders"
+            "contributor": "National Assn Of Home Builders",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "10/8/2015",
-            "contributor": "National Assn Of Home Builders"
+            "contributor": "National Assn Of Home Builders",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Mancini, Joseph"
+            "contributor": "Mancini, Joseph",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "9/13/2016",
-            "contributor": "Gardner, Gary"
+            "contributor": "Gardner, Gary",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "Mancini, Joseph"
+            "contributor": "Mancini, Joseph",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Toll, Bruce E"
+            "contributor": "Toll, Bruce E",
+            "amount": 1000
         }
     ],
     "75": [
         {
-            "amount": 2000,
             "date": "9/12/2016",
-            "contributor": "Coca-cola Co"
+            "contributor": "Coca-cola Co",
+            "amount": 2000
         }
     ],
     "76": [
         {
-            "amount": 78,
             "date": "2/3/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 78
         },
         {
-            "amount": 1917,
             "date": "2/12/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 1917
         },
         {
-            "amount": 3,
             "date": "2/3/2015",
-            "contributor": "Honeywell International"
+            "contributor": "Honeywell International",
+            "amount": 3
         }
     ],
     "77": [
         {
-            "amount": 1000,
             "date": "10/21/2016",
-            "contributor": "Accenture"
+            "contributor": "Accenture",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "4/26/2016",
-            "contributor": "Fine, Philip"
+            "contributor": "Fine, Philip",
+            "amount": 500
         }
     ],
     "78": [
         {
-            "amount": 1000,
             "date": "2/12/2016",
-            "contributor": "Credit Union National Assn"
+            "contributor": "Credit Union National Assn",
+            "amount": 1000
         }
     ],
     "79": [
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "Koch Industries"
+            "contributor": "Koch Industries",
+            "amount": 1000
         }
     ],
     "80": [
         {
-            "amount": 1000,
             "date": "9/10/2015",
-            "contributor": "American Wind Energy Assn"
+            "contributor": "American Wind Energy Assn",
+            "amount": 1000
         }
     ],
     "81": [
         {
-            "amount": 1000,
             "date": "7/26/2016",
-            "contributor": "Crop Insurance Professionals Assn"
+            "contributor": "Crop Insurance Professionals Assn",
+            "amount": 1000
         }
     ],
     "82": [
         {
-            "amount": 5000,
             "date": "6/28/2016",
-            "contributor": "Starr Insurance Holdings"
+            "contributor": "Starr Insurance Holdings",
+            "amount": 5000
         },
         {
-            "amount": 5000,
             "date": "6/28/2016",
-            "contributor": "Starr Insurance Holdings"
+            "contributor": "Starr Insurance Holdings",
+            "amount": 5000
         },
         {
-            "amount": 2700,
             "date": "3/18/2015",
-            "contributor": "Sweeney, James"
+            "contributor": "Sweeney, James",
+            "amount": 2700
         },
         {
-            "amount": 2500,
             "date": "1/18/2016",
-            "contributor": "Aussicker, Mark"
+            "contributor": "Aussicker, Mark",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "1/18/2016",
-            "contributor": "Aussicker, Denise"
+            "contributor": "Aussicker, Denise",
+            "amount": 2500
         },
         {
-            "amount": 2600,
             "date": "4/21/2015",
-            "contributor": "Aussicker, Mark"
+            "contributor": "Aussicker, Mark",
+            "amount": 2600
         },
         {
-            "amount": 2600,
             "date": "4/21/2015",
-            "contributor": "Aussicker, Denise"
+            "contributor": "Aussicker, Denise",
+            "amount": 2600
         },
         {
-            "amount": 100,
             "date": "4/28/2016",
-            "contributor": "Panico, David"
+            "contributor": "Panico, David",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Trimarchi, Vincent"
+            "contributor": "Trimarchi, Vincent",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "11/8/2016",
-            "contributor": "Panico, David"
+            "contributor": "Panico, David",
+            "amount": 50
         },
         {
-            "amount": 3,
             "date": "4/6/2015",
-            "contributor": "Suder, Karen"
+            "contributor": "Suder, Karen",
+            "amount": 3
         },
         {
-            "amount": 200,
             "date": "4/6/2015",
-            "contributor": "Suder, Karen"
+            "contributor": "Suder, Karen",
+            "amount": 200
         }
     ],
     "83": [
         {
-            "amount": 2500,
             "date": "3/24/2015",
-            "contributor": "Exxon Mobil"
+            "contributor": "Exxon Mobil",
+            "amount": 2500
         }
     ],
     "84": [
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Csx Corp"
+            "contributor": "Csx Corp",
+            "amount": 1000
         }
     ],
     "85": [
         {
-            "amount": 5000,
             "date": "8/29/2016",
-            "contributor": "National Education Assn"
+            "contributor": "National Education Assn",
+            "amount": 5000
         }
     ],
     "86": [
         {
-            "amount": 1000,
             "date": "6/22/2016",
-            "contributor": "Center For Coastal Conservation"
+            "contributor": "Center For Coastal Conservation",
+            "amount": 1000
         }
     ],
     "87": [
         {
-            "amount": 1000,
             "date": "10/23/2015",
-            "contributor": "American Petroleum Institute"
+            "contributor": "American Petroleum Institute",
+            "amount": 1000
         }
     ],
     "88": [
         {
-            "amount": 1000,
             "date": "7/8/2016",
-            "contributor": "Continental Airlines"
+            "contributor": "Continental Airlines",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/13/2015",
-            "contributor": "Continental Airlines"
+            "contributor": "Continental Airlines",
+            "amount": 1000
         }
     ],
     "89": [
         {
-            "amount": 2700,
             "date": "4/6/2016",
-            "contributor": "Cozen O&#039;connor"
+            "contributor": "Cozen O&#039;connor",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "7/31/2015",
-            "contributor": "Cozen O&#039;connor"
+            "contributor": "Cozen O&#039;connor",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/13/2016",
-            "contributor": "Pincus, Robert B"
+            "contributor": "Pincus, Robert B",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Lutz, John T"
+            "contributor": "Lutz, John T",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Zuckerman, Seth"
+            "contributor": "Zuckerman, Seth",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "Jessup, Matthew D"
+            "contributor": "Jessup, Matthew D",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Lutz, John T"
+            "contributor": "Lutz, John T",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Rock, Neil L"
+            "contributor": "Rock, Neil L",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "4/19/2016",
-            "contributor": "Sasso, William R"
+            "contributor": "Sasso, William R",
+            "amount": 1000
         }
     ],
     "90": [
         {
-            "amount": 5000,
             "date": "9/12/2016",
-            "contributor": "American Dental Assn"
+            "contributor": "American Dental Assn",
+            "amount": 5000
         },
         {
-            "amount": 1000,
             "date": "6/7/2016",
-            "contributor": "American Dental Assn"
+            "contributor": "American Dental Assn",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "6/25/2015",
-            "contributor": "American Dental Assn"
+            "contributor": "American Dental Assn",
+            "amount": 2500
         }
     ],
     "91": [
         {
-            "amount": 3000,
             "date": "10/7/2016",
-            "contributor": "American Medical Assn"
+            "contributor": "American Medical Assn",
+            "amount": 3000
         },
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "American College Of Emergency Physicians"
+            "contributor": "American College Of Emergency Physicians",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/21/2015",
-            "contributor": "American Medical Assn"
+            "contributor": "American Medical Assn",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Carey, Christine"
+            "contributor": "Carey, Christine",
+            "amount": 250
         }
     ],
     "92": [
         {
-            "amount": 5000,
             "date": "8/3/2016",
-            "contributor": "National Apartment Assn"
+            "contributor": "National Apartment Assn",
+            "amount": 5000
         },
         {
-            "amount": 2000,
             "date": "3/31/2015",
-            "contributor": "Hovnanian, Edele"
+            "contributor": "Hovnanian, Edele",
+            "amount": 2000
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Hovnanian, Edele"
+            "contributor": "Hovnanian, Edele",
+            "amount": 2700
         }
     ],
     "93": [
         {
-            "amount": 1000,
             "date": "4/23/2015",
-            "contributor": "Humane Society Legislative Fund"
+            "contributor": "Humane Society Legislative Fund",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "10/28/2015",
-            "contributor": "Humane Society Legislative Fund"
+            "contributor": "Humane Society Legislative Fund",
+            "amount": 1500
         }
     ],
     "94": [
         {
-            "amount": 500,
             "date": "3/17/2015",
-            "contributor": "Rite Aid Corp"
+            "contributor": "Rite Aid Corp",
+            "amount": 500
         }
     ],
     "95": [
         {
-            "amount": 5000,
             "date": "6/4/2015",
-            "contributor": "National Republican Congressional Cmte"
+            "contributor": "National Republican Congressional Cmte",
+            "amount": 5000
         }
     ],
     "96": [
         {
-            "amount": 500,
             "date": "9/8/2016",
-            "contributor": "Quest Diagnostics"
+            "contributor": "Quest Diagnostics",
+            "amount": 500
         }
     ],
     "97": [
         {
-            "amount": 1000,
             "date": "6/22/2016",
-            "contributor": "American Sportfishing Assn"
+            "contributor": "American Sportfishing Assn",
+            "amount": 1000
         }
     ],
     "98": [
         {
-            "amount": 1000,
             "date": "11/9/2015",
-            "contributor": "Nuclear Energy Institute"
+            "contributor": "Nuclear Energy Institute",
+            "amount": 1000
         }
     ],
     "99": [
         {
-            "amount": 1000,
             "date": "5/6/2015",
-            "contributor": "Goldman Sachs"
+            "contributor": "Goldman Sachs",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Stack, Dave"
+            "contributor": "Stack, Dave",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Fox, Albert A"
+            "contributor": "Fox, Albert A",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Fox, Nicole R"
+            "contributor": "Fox, Nicole R",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Opczynski, Erik V"
+            "contributor": "Opczynski, Erik V",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/23/2016",
-            "contributor": "Mack, John J"
+            "contributor": "Mack, John J",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "4/7/2016",
-            "contributor": "Crofton, Michael G"
+            "contributor": "Crofton, Michael G",
+            "amount": 2000
         }
     ],
     "100": [
         {
-            "amount": 5000,
             "date": "10/19/2016",
-            "contributor": "International Franchise Assn"
+            "contributor": "International Franchise Assn",
+            "amount": 5000
         }
     ],
     "101": [
         {
-            "amount": 1000,
             "date": "11/4/2015",
-            "contributor": "National Community Action Foundation"
+            "contributor": "National Community Action Foundation",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/2/2016",
-            "contributor": "National Community Action Foundation"
+            "contributor": "National Community Action Foundation",
+            "amount": 1000
         }
     ],
     "102": [
         {
-            "amount": 1000,
             "date": "5/27/2016",
-            "contributor": "National Federation Of Independent Business"
+            "contributor": "National Federation Of Independent Business",
+            "amount": 1000
         }
     ],
     "103": [
         {
-            "amount": 1000,
             "date": "7/15/2016",
-            "contributor": "National Rural Electric Cooperative Assn"
+            "contributor": "National Rural Electric Cooperative Assn",
+            "amount": 1000
         }
     ],
     "104": [
         {
-            "amount": 1000,
             "date": "9/29/2016",
-            "contributor": "Spacex"
+            "contributor": "Spacex",
+            "amount": 1000
         }
     ],
     "105": [
         {
-            "amount": 1000,
             "date": "8/31/2016",
-            "contributor": "Aircraft Owners & Pilots Assn"
+            "contributor": "Aircraft Owners & Pilots Assn",
+            "amount": 1000
         }
     ],
     "106": [
         {
-            "amount": 1000,
             "date": "8/30/2016",
-            "contributor": "Associated Equipment Distributors"
+            "contributor": "Associated Equipment Distributors",
+            "amount": 1000
         }
     ],
     "107": [
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Hovnanian, Hirair"
+            "contributor": "Hovnanian, Hirair",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "Deco 2001"
+            "contributor": "Deco 2001",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "1/25/2016",
-            "contributor": "Silvi, Laurence J"
+            "contributor": "Silvi, Laurence J",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "6/2/2016",
-            "contributor": "Stone, James"
+            "contributor": "Stone, James",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/11/2016",
-            "contributor": "Healey, Robert Sr"
+            "contributor": "Healey, Robert Sr",
+            "amount": 250
         },
         {
-            "amount": 450,
             "date": "12/8/2015",
-            "contributor": "Aneson, Jon"
+            "contributor": "Aneson, Jon",
+            "amount": 450
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, David J"
+            "contributor": "Stavola, David J",
+            "amount": 125
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Papir, Eli"
+            "contributor": "Papir, Eli",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Galimidi, Emanuel"
+            "contributor": "Galimidi, Emanuel",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "7/14/2015",
-            "contributor": "Healey, Robert Sr"
+            "contributor": "Healey, Robert Sr",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Koby, Shaun R"
+            "contributor": "Koby, Shaun R",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Courter, James"
+            "contributor": "Courter, James",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/13/2016",
-            "contributor": "Bongrazic, Frank"
+            "contributor": "Bongrazic, Frank",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Courter, James"
+            "contributor": "Courter, James",
+            "amount": 1000
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, David J"
+            "contributor": "Stavola, David J",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "5/4/2016",
-            "contributor": "Gray, Richard"
+            "contributor": "Gray, Richard",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Singh, Martha J"
+            "contributor": "Singh, Martha J",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Stanzi, John"
+            "contributor": "Stanzi, John",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "12/3/2015",
-            "contributor": "Petrowski, Joseph H"
+            "contributor": "Petrowski, Joseph H",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "11/19/2015",
-            "contributor": "Jones, Christine C"
+            "contributor": "Jones, Christine C",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "7/13/2015",
-            "contributor": "Yin, Xue Yang"
+            "contributor": "Yin, Xue Yang",
+            "amount": 2700
         },
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "Poehling, Kris"
+            "contributor": "Poehling, Kris",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "10/28/2016",
-            "contributor": "Poehling, Timothy J"
+            "contributor": "Poehling, Timothy J",
+            "amount": 2500
         },
         {
-            "amount": 2700,
             "date": "3/24/2016",
-            "contributor": "Slomka, Laura"
+            "contributor": "Slomka, Laura",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Olivo, Joseph"
+            "contributor": "Olivo, Joseph",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "9/24/2015",
-            "contributor": "Schmid, Richard O"
+            "contributor": "Schmid, Richard O",
+            "amount": 200
         },
         {
-            "amount": 100,
             "date": "9/24/2015",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 100
         },
         {
-            "amount": 200,
             "date": "6/23/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "3/4/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Vandyke, Peter J"
+            "contributor": "Vandyke, Peter J",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Schmid, Richard"
+            "contributor": "Schmid, Richard",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/31/2015",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Park, Michael M"
+            "contributor": "Park, Michael M",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/18/2015",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Oflu, Nurettin"
+            "contributor": "Oflu, Nurettin",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Budd, Thomas"
+            "contributor": "Budd, Thomas",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Bowen, Robert"
+            "contributor": "Bowen, Robert",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/12/2015",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Schmid, Maryann"
+            "contributor": "Schmid, Maryann",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Kirazli, Mevlut"
+            "contributor": "Kirazli, Mevlut",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "3/31/2015",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Silcox, Robert C"
+            "contributor": "Silcox, Robert C",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/24/2016",
-            "contributor": "Storino, Pasquale J"
+            "contributor": "Storino, Pasquale J",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/17/2016",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "2/2/2016",
-            "contributor": "Layton, William"
+            "contributor": "Layton, William",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Dupignac, Frank Jr"
+            "contributor": "Dupignac, Frank Jr",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "2/2/2016",
-            "contributor": "Komjathy, Aladar"
+            "contributor": "Komjathy, Aladar",
+            "amount": 1000
         },
         {
-            "amount": 950,
             "date": "3/31/2016",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 950
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Van Dyke, Peter"
+            "contributor": "Van Dyke, Peter",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Gormley, Sean"
+            "contributor": "Gormley, Sean",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Heinel, Elmer W"
+            "contributor": "Heinel, Elmer W",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/18/2015",
-            "contributor": "Koutsouris, Angela"
+            "contributor": "Koutsouris, Angela",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/31/2015",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 250
         },
         {
-            "amount": 275,
             "date": "3/30/2016",
-            "contributor": "Morris, Daniel"
+            "contributor": "Morris, Daniel",
+            "amount": 275
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Delosso, Louis"
+            "contributor": "Delosso, Louis",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Scott, George"
+            "contributor": "Scott, George",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "3/31/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 200
         },
         {
-            "amount": 2700,
             "date": "3/24/2016",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "2/8/2016",
-            "contributor": "Aloi, Eric"
+            "contributor": "Aloi, Eric",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/31/2016",
-            "contributor": "Benson-o&#039;regan, Laura"
+            "contributor": "Benson-o&#039;regan, Laura",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/30/2016",
-            "contributor": "Attanasio, Anthony"
+            "contributor": "Attanasio, Anthony",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Meyer, Robert J"
+            "contributor": "Meyer, Robert J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Earle, Walter R"
+            "contributor": "Earle, Walter R",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Dupignac, Frank Jr"
+            "contributor": "Dupignac, Frank Jr",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/8/2016",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "3/12/2015",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "3/18/2015",
-            "contributor": "Betrix, Burton"
+            "contributor": "Betrix, Burton",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/16/2015",
-            "contributor": "Rodriguez, Alberto"
+            "contributor": "Rodriguez, Alberto",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/23/2015",
-            "contributor": "Borden, Ian M"
+            "contributor": "Borden, Ian M",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Lemire, Mark"
+            "contributor": "Lemire, Mark",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "7/16/2015",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Irons, Timothy C"
+            "contributor": "Irons, Timothy C",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "12/23/2015",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "7/27/2015",
-            "contributor": "Holliday, James"
+            "contributor": "Holliday, James",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/16/2015",
-            "contributor": "Storino, Anthony"
+            "contributor": "Storino, Anthony",
+            "amount": 500
         },
         {
-            "amount": 25,
             "date": "12/29/2015",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 25
         },
         {
-            "amount": 2700,
             "date": "11/30/2015",
-            "contributor": "Cam, Ismail"
+            "contributor": "Cam, Ismail",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Beske, Carol L"
+            "contributor": "Beske, Carol L",
+            "amount": 1000
         },
         {
-            "amount": 1450,
             "date": "9/24/2015",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 1450
         },
         {
-            "amount": 300,
             "date": "7/20/2015",
-            "contributor": "Kearney, Michael C"
+            "contributor": "Kearney, Michael C",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "6/30/2015",
-            "contributor": "Roma, Kenneth"
+            "contributor": "Roma, Kenneth",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Thevanayagam, Dani L"
+            "contributor": "Thevanayagam, Dani L",
+            "amount": 1000
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, Michael J"
+            "contributor": "Stavola, Michael J",
+            "amount": 125
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 200
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Anghelone, Joseph"
+            "contributor": "Anghelone, Joseph",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Powers, William Me Jr"
+            "contributor": "Powers, William Me Jr",
+            "amount": 1000
         },
         {
-            "amount": 25,
             "date": "4/6/2015",
-            "contributor": "Kirazli, Mevlut"
+            "contributor": "Kirazli, Mevlut",
+            "amount": 25
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Breslin, Kevin P"
+            "contributor": "Breslin, Kevin P",
+            "amount": 2000
         },
         {
-            "amount": 150,
             "date": "12/8/2015",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 150
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Nistad, Jon N"
+            "contributor": "Nistad, Jon N",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Floyd, Rudi T"
+            "contributor": "Floyd, Rudi T",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Boyd, Carolann D"
+            "contributor": "Boyd, Carolann D",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/4/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/10/2015",
-            "contributor": "Lee, Young"
+            "contributor": "Lee, Young",
+            "amount": 250
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Keeler, Louis Iii"
+            "contributor": "Keeler, Louis Iii",
+            "amount": 350
         },
         {
-            "amount": 2600,
             "date": "10/19/2015",
-            "contributor": "Layton, William"
+            "contributor": "Layton, William",
+            "amount": 2600
         },
         {
-            "amount": 300,
             "date": "11/16/2015",
-            "contributor": "Banker, Harold J"
+            "contributor": "Banker, Harold J",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Wells, Jeff"
+            "contributor": "Wells, Jeff",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "8/4/2015",
-            "contributor": "Schmid, Richard O"
+            "contributor": "Schmid, Richard O",
+            "amount": 2000
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Gross, Joseph"
+            "contributor": "Gross, Joseph",
+            "amount": 300
         },
         {
-            "amount": 100,
             "date": "6/23/2015",
-            "contributor": "Wark, Kevin"
+            "contributor": "Wark, Kevin",
+            "amount": 100
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, Richard"
+            "contributor": "Stavola, Richard",
+            "amount": 125
         },
         {
-            "amount": 50,
             "date": "12/29/2015",
-            "contributor": "Napoliello, Allen"
+            "contributor": "Napoliello, Allen",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Brady, Edward P"
+            "contributor": "Brady, Edward P",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Baynes, Kerry"
+            "contributor": "Baynes, Kerry",
+            "amount": 300
         },
         {
-            "amount": 250,
             "date": "9/15/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "8/7/2015",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Vaughn, Ronald Jr"
+            "contributor": "Vaughn, Ronald Jr",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Lattimer, Scott"
+            "contributor": "Lattimer, Scott",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Clayton, William"
+            "contributor": "Clayton, William",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Waters, Timothy J"
+            "contributor": "Waters, Timothy J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Ralph Clayton & Sons"
+            "contributor": "Ralph Clayton & Sons",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Delosso, Margaret"
+            "contributor": "Delosso, Margaret",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 1000
         },
         {
-            "amount": 800,
             "date": "3/31/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 800
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Solomon, Steven"
+            "contributor": "Solomon, Steven",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "12/3/2015",
-            "contributor": "Slomka, Laura"
+            "contributor": "Slomka, Laura",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/21/2015",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Shomo, Robert"
+            "contributor": "Shomo, Robert",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/30/2015",
-            "contributor": "Radwell, Brian"
+            "contributor": "Radwell, Brian",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/4/2015",
-            "contributor": "Solomon, Steven"
+            "contributor": "Solomon, Steven",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Lee, Monica"
+            "contributor": "Lee, Monica",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/3/2015",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "4/16/2015",
-            "contributor": "Storino, Anthony"
+            "contributor": "Storino, Anthony",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Vecchio, Gary"
+            "contributor": "Vecchio, Gary",
+            "amount": 250
         },
         {
-            "amount": 2500,
             "date": "10/22/2015",
-            "contributor": "Tilton, Robin"
+            "contributor": "Tilton, Robin",
+            "amount": 2500
         },
         {
-            "amount": 2700,
             "date": "6/29/2015",
-            "contributor": "Gravino, Ronald"
+            "contributor": "Gravino, Ronald",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "12/8/2015",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 300
         },
         {
-            "amount": 300,
             "date": "8/17/2015",
-            "contributor": "Kim, Chung S"
+            "contributor": "Kim, Chung S",
+            "amount": 300
         },
         {
-            "amount": 175,
             "date": "9/28/2015",
-            "contributor": "Lee, Young"
+            "contributor": "Lee, Young",
+            "amount": 175
         },
         {
-            "amount": 1000,
             "date": "6/22/2015",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/23/2015",
-            "contributor": "Roma, Kenneth"
+            "contributor": "Roma, Kenneth",
+            "amount": 500
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 200
         },
         {
-            "amount": 250,
             "date": "12/10/2015",
-            "contributor": "Isola, Christopher"
+            "contributor": "Isola, Christopher",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "10/23/2015",
-            "contributor": "Ivker, Robert"
+            "contributor": "Ivker, Robert",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Battista, Michael"
+            "contributor": "Battista, Michael",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Riccio, Armando V"
+            "contributor": "Riccio, Armando V",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/22/2015",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Halgas, Christopher"
+            "contributor": "Halgas, Christopher",
+            "amount": 250
         },
         {
-            "amount": 800,
             "date": "12/8/2015",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 800
         },
         {
-            "amount": 180,
             "date": "11/30/2015",
-            "contributor": "Kirazli, Mevlut"
+            "contributor": "Kirazli, Mevlut",
+            "amount": 180
         },
         {
-            "amount": 1000,
             "date": "7/24/2015",
-            "contributor": "Dorfner, Tinamarie"
+            "contributor": "Dorfner, Tinamarie",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "8/4/2015",
-            "contributor": "Miller, Hoawrd Jr"
+            "contributor": "Miller, Hoawrd Jr",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "7/16/2015",
-            "contributor": "Hutchinson, Edward P"
+            "contributor": "Hutchinson, Edward P",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Wilson, Leonard C Jr"
+            "contributor": "Wilson, Leonard C Jr",
+            "amount": 200
         },
         {
-            "amount": 250,
             "date": "11/2/2015",
-            "contributor": "Curtin, James"
+            "contributor": "Curtin, James",
+            "amount": 250
         },
         {
-            "amount": 25,
             "date": "10/8/2015",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 25
         },
         {
-            "amount": 500,
             "date": "8/10/2015",
-            "contributor": "Lee, Young"
+            "contributor": "Lee, Young",
+            "amount": 500
         },
         {
-            "amount": 125,
             "date": "9/1/2015",
-            "contributor": "Stavola, Joseph C Iii"
+            "contributor": "Stavola, Joseph C Iii",
+            "amount": 125
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Haaland, John"
+            "contributor": "Haaland, John",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Wilson, Leonard C Jr"
+            "contributor": "Wilson, Leonard C Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Ommundsen, William R Jr"
+            "contributor": "Ommundsen, William R Jr",
+            "amount": 250
         },
         {
-            "amount": 1700,
             "date": "8/4/2015",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 1700
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Van Noord, Richard"
+            "contributor": "Van Noord, Richard",
+            "amount": 250
         },
         {
-            "amount": 83,
             "date": "9/1/2015",
-            "contributor": "Stavola, James Joseph Jr"
+            "contributor": "Stavola, James Joseph Jr",
+            "amount": 83
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Bonfield, Susan D"
+            "contributor": "Bonfield, Susan D",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "11/13/2015",
-            "contributor": "Smith, Timothy"
+            "contributor": "Smith, Timothy",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 200
         },
         {
-            "amount": 100,
             "date": "12/23/2015",
-            "contributor": "Marra, Joseph R"
+            "contributor": "Marra, Joseph R",
+            "amount": 100
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "8/7/2015",
-            "contributor": "Platzer, Robert"
+            "contributor": "Platzer, Robert",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "7/24/2015",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "7/13/2015",
-            "contributor": "Wintrode, David C"
+            "contributor": "Wintrode, David C",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Seddon, Jeffrey M"
+            "contributor": "Seddon, Jeffrey M",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "5/18/2015",
-            "contributor": "Halpern, Cheryl M"
+            "contributor": "Halpern, Cheryl M",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Lee, Youngbin"
+            "contributor": "Lee, Youngbin",
+            "amount": 500
         },
         {
-            "amount": 350,
             "date": "9/30/2016",
-            "contributor": "Budd, Thomas"
+            "contributor": "Budd, Thomas",
+            "amount": 350
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Marshall, Stephen"
+            "contributor": "Marshall, Stephen",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Schneiberg, Dimitri"
+            "contributor": "Schneiberg, Dimitri",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "4/22/2016",
-            "contributor": "Hesse, Lawrence"
+            "contributor": "Hesse, Lawrence",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Tufariello, Vincent"
+            "contributor": "Tufariello, Vincent",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "4/26/2016",
-            "contributor": "Kulin, John"
+            "contributor": "Kulin, John",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Alfieri, Salvatore"
+            "contributor": "Alfieri, Salvatore",
+            "amount": 250
         },
         {
-            "amount": 83,
             "date": "6/7/2016",
-            "contributor": "Willis-fayder, Deneen M"
+            "contributor": "Willis-fayder, Deneen M",
+            "amount": 83
         },
         {
-            "amount": 500,
             "date": "7/26/2016",
-            "contributor": "Halpern, Fred"
+            "contributor": "Halpern, Fred",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Holliday, James"
+            "contributor": "Holliday, James",
+            "amount": 500
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, Joseph C Iii"
+            "contributor": "Stavola, Joseph C Iii",
+            "amount": 125
         },
         {
-            "amount": 2000,
             "date": "9/16/2016",
-            "contributor": "Miller, Charles S"
+            "contributor": "Miller, Charles S",
+            "amount": 2000
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Lipinski, Robert"
+            "contributor": "Lipinski, Robert",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Marra, Joseph R"
+            "contributor": "Marra, Joseph R",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Grunin, Jeremy"
+            "contributor": "Grunin, Jeremy",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "4/22/2016",
-            "contributor": "Thrunk, John N"
+            "contributor": "Thrunk, John N",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "5/9/2016",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Dasti, Elizabeth"
+            "contributor": "Dasti, Elizabeth",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Giacobbe, Matthew"
+            "contributor": "Giacobbe, Matthew",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Ommundsen, William R Jr"
+            "contributor": "Ommundsen, William R Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Semeraro, Mark J"
+            "contributor": "Semeraro, Mark J",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Solomon, Steven"
+            "contributor": "Solomon, Steven",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "8/31/2016",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 1500
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "4/15/2016",
-            "contributor": "Manner, Sharon"
+            "contributor": "Manner, Sharon",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "11/8/2016",
-            "contributor": "Bowen, Robert"
+            "contributor": "Bowen, Robert",
+            "amount": 1000
         },
         {
-            "amount": 50,
             "date": "10/31/2016",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Trebino, Louis A"
+            "contributor": "Trebino, Louis A",
+            "amount": 500
         },
         {
-            "amount": 200,
             "date": "6/30/2016",
-            "contributor": "Van Noord, Richard"
+            "contributor": "Van Noord, Richard",
+            "amount": 200
         },
         {
-            "amount": 2700,
             "date": "9/7/2016",
-            "contributor": "Lavan, William Jr"
+            "contributor": "Lavan, William Jr",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "8/10/2016",
-            "contributor": "Van Dyke, Peter"
+            "contributor": "Van Dyke, Peter",
+            "amount": 1000
         },
         {
-            "amount": 1350,
             "date": "9/13/2016",
-            "contributor": "Omert, Edward"
+            "contributor": "Omert, Edward",
+            "amount": 1350
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Bobadilla, Victor"
+            "contributor": "Bobadilla, Victor",
+            "amount": 500
         },
         {
-            "amount": 75,
             "date": "7/13/2016",
-            "contributor": "Levenson, Jay"
+            "contributor": "Levenson, Jay",
+            "amount": 75
         },
         {
-            "amount": 250,
             "date": "10/28/2016",
-            "contributor": "Stanton, Barbara"
+            "contributor": "Stanton, Barbara",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "10/31/2016",
-            "contributor": "Costabile, John"
+            "contributor": "Costabile, John",
+            "amount": 300
         },
         {
-            "amount": 83,
             "date": "6/7/2016",
-            "contributor": "Stavola, James Joseph Jr"
+            "contributor": "Stavola, James Joseph Jr",
+            "amount": 83
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Marcille, Thomas"
+            "contributor": "Marcille, Thomas",
+            "amount": 1000
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Wellington, Edwin"
+            "contributor": "Wellington, Edwin",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "7/13/2016",
-            "contributor": "O&#039;connor, John"
+            "contributor": "O&#039;connor, John",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/31/2016",
-            "contributor": "Demarco, Anthony A"
+            "contributor": "Demarco, Anthony A",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "10/13/2016",
-            "contributor": "Hesse, Lawrence"
+            "contributor": "Hesse, Lawrence",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Mcquaid, Kathleen A"
+            "contributor": "Mcquaid, Kathleen A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Nelligan, Tj"
+            "contributor": "Nelligan, Tj",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "9/30/2016",
-            "contributor": "Cutts, William"
+            "contributor": "Cutts, William",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "10/13/2016",
-            "contributor": "Dorfner, Scott"
+            "contributor": "Dorfner, Scott",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/11/2016",
-            "contributor": "Little, Frank"
+            "contributor": "Little, Frank",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "O&#039;connor, John"
+            "contributor": "O&#039;connor, John",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Jacobs, Mitchell B"
+            "contributor": "Jacobs, Mitchell B",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Coffey, Gregory"
+            "contributor": "Coffey, Gregory",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Shomo, Robert"
+            "contributor": "Shomo, Robert",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/30/2016",
-            "contributor": "Kulin, John"
+            "contributor": "Kulin, John",
+            "amount": 250
         },
         {
-            "amount": 600,
             "date": "9/30/2016",
-            "contributor": "Gordon, Thomas F"
+            "contributor": "Gordon, Thomas F",
+            "amount": 600
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Winigrad, Jacob S"
+            "contributor": "Winigrad, Jacob S",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Duva, Regina A"
+            "contributor": "Duva, Regina A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/22/2016",
-            "contributor": "Greco, Anthony G"
+            "contributor": "Greco, Anthony G",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "O&#039;connor, John"
+            "contributor": "O&#039;connor, John",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "6/30/2016",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 100
         },
         {
-            "amount": 150,
             "date": "6/30/2016",
-            "contributor": "O&#039;brien, Timothy"
+            "contributor": "O&#039;brien, Timothy",
+            "amount": 150
         },
         {
-            "amount": 2700,
             "date": "9/20/2016",
-            "contributor": "Shandilay, Yogesh"
+            "contributor": "Shandilay, Yogesh",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Forstenhausler, Mark"
+            "contributor": "Forstenhausler, Mark",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Veech, Joanne"
+            "contributor": "Veech, Joanne",
+            "amount": 250
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, Richard"
+            "contributor": "Stavola, Richard",
+            "amount": 125
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Platzer, Robert"
+            "contributor": "Platzer, Robert",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/13/2016",
-            "contributor": "Whitney, Jason R"
+            "contributor": "Whitney, Jason R",
+            "amount": 250
         },
         {
-            "amount": 400,
             "date": "4/28/2016",
-            "contributor": "Clement, Deborah L"
+            "contributor": "Clement, Deborah L",
+            "amount": 400
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Breslin, Kevin P"
+            "contributor": "Breslin, Kevin P",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Dikmak, John"
+            "contributor": "Dikmak, John",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/8/2016",
-            "contributor": "Conley, Gregory"
+            "contributor": "Conley, Gregory",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Prime, Timothy M"
+            "contributor": "Prime, Timothy M",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "5/9/2016",
-            "contributor": "Luby, William"
+            "contributor": "Luby, William",
+            "amount": 1000
         },
         {
-            "amount": 481,
             "date": "5/2/2016",
-            "contributor": "Schmid, Richard"
+            "contributor": "Schmid, Richard",
+            "amount": 481
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Metgud, Babu"
+            "contributor": "Metgud, Babu",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/31/2016",
-            "contributor": "Saxton, James"
+            "contributor": "Saxton, James",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "10/28/2016",
-            "contributor": "Scarpa, John"
+            "contributor": "Scarpa, John",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Schmid, Richard O"
+            "contributor": "Schmid, Richard O",
+            "amount": 2700
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Levenson, Jay"
+            "contributor": "Levenson, Jay",
+            "amount": 50
         },
         {
-            "amount": 300,
             "date": "10/13/2016",
-            "contributor": "Rabenou, Richelle J"
+            "contributor": "Rabenou, Richelle J",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "10/28/2016",
-            "contributor": "Wintrode, David C"
+            "contributor": "Wintrode, David C",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Salvo, Michael C"
+            "contributor": "Salvo, Michael C",
+            "amount": 500
         },
         {
-            "amount": 2400,
             "date": "5/31/2016",
-            "contributor": "Shilling, Elsa"
+            "contributor": "Shilling, Elsa",
+            "amount": 2400
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Grunin, Laura B"
+            "contributor": "Grunin, Laura B",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "9/13/2016",
-            "contributor": "Ravitz, Jason"
+            "contributor": "Ravitz, Jason",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Mccabe, Lynn"
+            "contributor": "Mccabe, Lynn",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Buck, Steven J"
+            "contributor": "Buck, Steven J",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "8/8/2016",
-            "contributor": "Olivo, Joseph"
+            "contributor": "Olivo, Joseph",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Pastore, Vincent"
+            "contributor": "Pastore, Vincent",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Jr, John Zanger"
+            "contributor": "Jr, John Zanger",
+            "amount": 500
         },
         {
-            "amount": 700,
             "date": "10/19/2016",
-            "contributor": "Miller, Charles S"
+            "contributor": "Miller, Charles S",
+            "amount": 700
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Berkowitz, Steven"
+            "contributor": "Berkowitz, Steven",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "6/30/2016",
-            "contributor": "Yates, Edward"
+            "contributor": "Yates, Edward",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "6/21/2016",
-            "contributor": "Fasano, Vincent"
+            "contributor": "Fasano, Vincent",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "8/31/2016",
-            "contributor": "Olivo, Joseph"
+            "contributor": "Olivo, Joseph",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Sickel, Robert"
+            "contributor": "Sickel, Robert",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Smukler, Andrew M"
+            "contributor": "Smukler, Andrew M",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 1500
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Russell, Christopher"
+            "contributor": "Russell, Christopher",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Zuino, Matthew A"
+            "contributor": "Zuino, Matthew A",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Tilton, Robin"
+            "contributor": "Tilton, Robin",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Floyd, Rudi T"
+            "contributor": "Floyd, Rudi T",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Cleary, James J"
+            "contributor": "Cleary, James J",
+            "amount": 250
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Sasso, Michael J"
+            "contributor": "Sasso, Michael J",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Carley, Charles R"
+            "contributor": "Carley, Charles R",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "8/16/2016",
-            "contributor": "Yezzi, Massimo Jr"
+            "contributor": "Yezzi, Massimo Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "4/28/2016",
-            "contributor": "Chowanec, George J"
+            "contributor": "Chowanec, George J",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "11/7/2016",
-            "contributor": "Mcallan, Robert E"
+            "contributor": "Mcallan, Robert E",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Nissen, Jan A"
+            "contributor": "Nissen, Jan A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/8/2016",
-            "contributor": "Ferlise, Peter"
+            "contributor": "Ferlise, Peter",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "10/31/2016",
-            "contributor": "Lemire, Mark"
+            "contributor": "Lemire, Mark",
+            "amount": 50
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Yun, Hyung"
+            "contributor": "Yun, Hyung",
+            "amount": 250
         },
         {
-            "amount": 125,
             "date": "10/31/2016",
-            "contributor": "Buzak, Gail"
+            "contributor": "Buzak, Gail",
+            "amount": 125
         },
         {
-            "amount": 250,
             "date": "11/1/2016",
-            "contributor": "Graber, Gordon"
+            "contributor": "Graber, Gordon",
+            "amount": 250
         },
         {
-            "amount": 150,
             "date": "6/30/2016",
-            "contributor": "Lane, Lucinda"
+            "contributor": "Lane, Lucinda",
+            "amount": 150
         },
         {
-            "amount": 2700,
             "date": "8/16/2016",
-            "contributor": "Paschall, Robert L"
+            "contributor": "Paschall, Robert L",
+            "amount": 2700
         },
         {
-            "amount": 1500,
             "date": "8/31/2016",
-            "contributor": "Baker, Theodore"
+            "contributor": "Baker, Theodore",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Aschoff, Scott"
+            "contributor": "Aschoff, Scott",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/12/2016",
-            "contributor": "Shamie, Joseph"
+            "contributor": "Shamie, Joseph",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/31/2016",
-            "contributor": "Curtin, James"
+            "contributor": "Curtin, James",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "10/31/2016",
-            "contributor": "Levenson, Jay"
+            "contributor": "Levenson, Jay",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "8/16/2016",
-            "contributor": "Yezzi, April J"
+            "contributor": "Yezzi, April J",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 1000
         },
         {
-            "amount": 1500,
             "date": "9/13/2016",
-            "contributor": "Gross, Joseph"
+            "contributor": "Gross, Joseph",
+            "amount": 1500
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Carlino, Tracy L"
+            "contributor": "Carlino, Tracy L",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Unanue, Marie"
+            "contributor": "Unanue, Marie",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "9/30/2016",
-            "contributor": "Shuffler, Eric"
+            "contributor": "Shuffler, Eric",
+            "amount": 250
         },
         {
-            "amount": 2400,
             "date": "5/31/2016",
-            "contributor": "Shilling, Steve"
+            "contributor": "Shilling, Steve",
+            "amount": 2400
         },
         {
-            "amount": 500,
             "date": "6/30/2016",
-            "contributor": "Bennett, Justin"
+            "contributor": "Bennett, Justin",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Larson-panacek, Kristine"
+            "contributor": "Larson-panacek, Kristine",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Sipprelle, Scott"
+            "contributor": "Sipprelle, Scott",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "6/30/2016",
-            "contributor": "Smith, David S"
+            "contributor": "Smith, David S",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "8/8/2016",
-            "contributor": "Ivker, Robert"
+            "contributor": "Ivker, Robert",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Caruso, Domenick"
+            "contributor": "Caruso, Domenick",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Kaunitz, Diane"
+            "contributor": "Kaunitz, Diane",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Cotlov, Jerry"
+            "contributor": "Cotlov, Jerry",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Blecher, Haim"
+            "contributor": "Blecher, Haim",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Halpern, Cheryl M"
+            "contributor": "Halpern, Cheryl M",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "6/13/2016",
-            "contributor": "Post, Lisa"
+            "contributor": "Post, Lisa",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "6/30/2016",
-            "contributor": "Knowlton, Calvin H Dr"
+            "contributor": "Knowlton, Calvin H Dr",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Peterson, Bonnie"
+            "contributor": "Peterson, Bonnie",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "7/12/2016",
-            "contributor": "Floyd, Rudi T"
+            "contributor": "Floyd, Rudi T",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Kearney, Michael C"
+            "contributor": "Kearney, Michael C",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Bross, David"
+            "contributor": "Bross, David",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/11/2016",
-            "contributor": "Malberg, Marc"
+            "contributor": "Malberg, Marc",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Nistad, Jon N"
+            "contributor": "Nistad, Jon N",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Caruso, Joseph"
+            "contributor": "Caruso, Joseph",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Wieliczko, Matthew"
+            "contributor": "Wieliczko, Matthew",
+            "amount": 300
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Caruso, Lisa L"
+            "contributor": "Caruso, Lisa L",
+            "amount": 2700
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Bratun, Joyce"
+            "contributor": "Bratun, Joyce",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "9/16/2016",
-            "contributor": "Mcgraw, Neal C"
+            "contributor": "Mcgraw, Neal C",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "4/12/2016",
-            "contributor": "Demarco, Anthony A"
+            "contributor": "Demarco, Anthony A",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Brady, Edward P"
+            "contributor": "Brady, Edward P",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Straight, Candace"
+            "contributor": "Straight, Candace",
+            "amount": 1000
         },
         {
-            "amount": 25,
             "date": "11/8/2016",
-            "contributor": "Bratun, William"
+            "contributor": "Bratun, William",
+            "amount": 25
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Lattanzi, Joseph"
+            "contributor": "Lattanzi, Joseph",
+            "amount": 500
         },
         {
-            "amount": 125,
             "date": "10/31/2016",
-            "contributor": "Buzak, Edward"
+            "contributor": "Buzak, Edward",
+            "amount": 125
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Lee, Stephen Iii"
+            "contributor": "Lee, Stephen Iii",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "9/30/2016",
-            "contributor": "Madden, Jay"
+            "contributor": "Madden, Jay",
+            "amount": 200
         },
         {
-            "amount": 400,
             "date": "7/13/2016",
-            "contributor": "Lee, Youngbin"
+            "contributor": "Lee, Youngbin",
+            "amount": 400
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Metgud, Babu"
+            "contributor": "Metgud, Babu",
+            "amount": 500
         },
         {
-            "amount": 200,
             "date": "11/30/2015",
-            "contributor": "Wyrsch, David"
+            "contributor": "Wyrsch, David",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Howell, Thomas"
+            "contributor": "Howell, Thomas",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/8/2016",
-            "contributor": "Dorfner, Tinamarie"
+            "contributor": "Dorfner, Tinamarie",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/1/2016",
-            "contributor": "Knowlton, Calvin H Dr"
+            "contributor": "Knowlton, Calvin H Dr",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Madden, Jay"
+            "contributor": "Madden, Jay",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2015",
-            "contributor": "Sahradnik, John"
+            "contributor": "Sahradnik, John",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Gips, Gordon R"
+            "contributor": "Gips, Gordon R",
+            "amount": 1000
         },
         {
-            "amount": 125,
             "date": "6/7/2016",
-            "contributor": "Stavola, Michael J"
+            "contributor": "Stavola, Michael J",
+            "amount": 125
         },
         {
-            "amount": 1350,
             "date": "9/13/2016",
-            "contributor": "Omert, Edward"
+            "contributor": "Omert, Edward",
+            "amount": 1350
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Thevanayagam, Samuel"
+            "contributor": "Thevanayagam, Samuel",
+            "amount": 1500
         },
         {
-            "amount": 100,
             "date": "9/30/2016",
-            "contributor": "Logan, Brian"
+            "contributor": "Logan, Brian",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Ackerman, John"
+            "contributor": "Ackerman, John",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Ozkul, Mustafa"
+            "contributor": "Ozkul, Mustafa",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "11/8/2016",
-            "contributor": "Gravino, Ronald"
+            "contributor": "Gravino, Ronald",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "3/31/2015",
-            "contributor": "Arabian, Gary"
+            "contributor": "Arabian, Gary",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Alexe, Christian"
+            "contributor": "Alexe, Christian",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "6/23/2015",
-            "contributor": "Dinella, Roger W"
+            "contributor": "Dinella, Roger W",
+            "amount": 1000
         },
         {
-            "amount": 100,
             "date": "6/23/2015",
-            "contributor": "Dinella, Roger W"
+            "contributor": "Dinella, Roger W",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "9/30/2015",
-            "contributor": "Nehme, Patrick A"
+            "contributor": "Nehme, Patrick A",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Funke, Jonathan R"
+            "contributor": "Funke, Jonathan R",
+            "amount": 250
         },
         {
-            "amount": 1500,
             "date": "5/13/2016",
-            "contributor": "Hendrickson, Douglas"
+            "contributor": "Hendrickson, Douglas",
+            "amount": 1500
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Goldstein, William F"
+            "contributor": "Goldstein, William F",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Nehme, Patrick A"
+            "contributor": "Nehme, Patrick A",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Volpe, Michael"
+            "contributor": "Volpe, Michael",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "9/20/2016",
-            "contributor": "Mehta, Hemant"
+            "contributor": "Mehta, Hemant",
+            "amount": 2700
         },
         {
-            "amount": 2150,
             "date": "5/11/2016",
-            "contributor": "Hendrickson, Douglas"
+            "contributor": "Hendrickson, Douglas",
+            "amount": 2150
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Ganger, Ira"
+            "contributor": "Ganger, Ira",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Dinella, Roger W"
+            "contributor": "Dinella, Roger W",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/18/2016",
-            "contributor": "Shamie, Sam"
+            "contributor": "Shamie, Sam",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Simoes, Leonardo Bt"
+            "contributor": "Simoes, Leonardo Bt",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/22/2016",
-            "contributor": "Feinberg, David"
+            "contributor": "Feinberg, David",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Cowen, Philip"
+            "contributor": "Cowen, Philip",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "10/23/2015",
-            "contributor": "Calabrese, Salvatore"
+            "contributor": "Calabrese, Salvatore",
+            "amount": 250
         },
         {
-            "amount": 2200,
             "date": "11/20/2015",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 2200
         },
         {
-            "amount": 2700,
             "date": "11/20/2015",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Regensburger, Robert C"
+            "contributor": "Regensburger, Robert C",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Norry, Elliot"
+            "contributor": "Norry, Elliot",
+            "amount": 500
         },
         {
-            "amount": 375,
             "date": "10/13/2016",
-            "contributor": "Braun, Kenneth"
+            "contributor": "Braun, Kenneth",
+            "amount": 375
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Nadeau, Jamie"
+            "contributor": "Nadeau, Jamie",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/11/2016",
-            "contributor": "Horowitz, David"
+            "contributor": "Horowitz, David",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/18/2016",
-            "contributor": "Zingarelli, Anthony"
+            "contributor": "Zingarelli, Anthony",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Debarros, Priscilla"
+            "contributor": "Debarros, Priscilla",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Stone, Laurence"
+            "contributor": "Stone, Laurence",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Bianchi, Marc Douglas"
+            "contributor": "Bianchi, Marc Douglas",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Rosnov, David M"
+            "contributor": "Rosnov, David M",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "9/30/2016",
-            "contributor": "Silvi, John L"
+            "contributor": "Silvi, John L",
+            "amount": 2500
         },
         {
-            "amount": 2500,
             "date": "8/31/2016",
-            "contributor": "Silvi, Laurence J"
+            "contributor": "Silvi, Laurence J",
+            "amount": 2500
         },
         {
-            "amount": 1000,
             "date": "5/9/2016",
-            "contributor": "Hammer, Richard"
+            "contributor": "Hammer, Richard",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "5/12/2015",
-            "contributor": "Zheng, Charlie"
+            "contributor": "Zheng, Charlie",
+            "amount": 2700
         },
         {
-            "amount": 250,
             "date": "7/3/2015",
-            "contributor": "Dell, Eric Wayne"
+            "contributor": "Dell, Eric Wayne",
+            "amount": 250
         },
         {
-            "amount": 2000,
             "date": "6/30/2016",
-            "contributor": "Tyee, Samish"
+            "contributor": "Tyee, Samish",
+            "amount": 2000
         }
     ],
     "108": [
         {
-            "amount": 1700,
             "date": "3/31/2016",
-            "contributor": "Poarch Bank Of Creek Indians"
+            "contributor": "Poarch Bank Of Creek Indians",
+            "amount": 1700
         },
         {
-            "amount": 1000,
             "date": "3/31/2015",
-            "contributor": "Gila River Indian Community"
+            "contributor": "Gila River Indian Community",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "12/23/2015",
-            "contributor": "Tyee, Samish"
+            "contributor": "Tyee, Samish",
+            "amount": 1000
         }
     ],
     "109": [
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Capoferri, Robert"
+            "contributor": "Capoferri, Robert",
+            "amount": 1000
         }
     ],
     "110": [
         {
-            "amount": 500,
             "date": "8/6/2015",
-            "contributor": "Simmons, Carolyn"
+            "contributor": "Simmons, Carolyn",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Campbell, Gary G Mr"
+            "contributor": "Campbell, Gary G Mr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/22/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 1000
         },
         {
-            "amount": 700,
             "date": "12/10/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 700
         },
         {
-            "amount": 300,
             "date": "12/10/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "7/27/2015",
-            "contributor": "Maynard, J Michael"
+            "contributor": "Maynard, J Michael",
+            "amount": 1000
         },
         {
-            "amount": 2500,
             "date": "3/27/2015",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 2500
         },
         {
-            "amount": 250,
             "date": "3/12/2015",
-            "contributor": "D&#039;onofrio, Donato"
+            "contributor": "D&#039;onofrio, Donato",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/9/2015",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "3/8/2016",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 300
         },
         {
-            "amount": 750,
             "date": "9/15/2015",
-            "contributor": "D&#039;onofrio, Donato"
+            "contributor": "D&#039;onofrio, Donato",
+            "amount": 750
         },
         {
-            "amount": 200,
             "date": "6/22/2015",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 200
         },
         {
-            "amount": 350,
             "date": "5/11/2015",
-            "contributor": "Appleby, Judy"
+            "contributor": "Appleby, Judy",
+            "amount": 350
         },
         {
-            "amount": 1200,
             "date": "3/8/2016",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 1200
         },
         {
-            "amount": 500,
             "date": "8/17/2015",
-            "contributor": "Fisher, David"
+            "contributor": "Fisher, David",
+            "amount": 500
         },
         {
-            "amount": 2300,
             "date": "6/22/2015",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 2300
         },
         {
-            "amount": 500,
             "date": "6/22/2015",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "6/30/2016",
-            "contributor": "Haydinger, Michael"
+            "contributor": "Haydinger, Michael",
+            "amount": 1500
         },
         {
-            "amount": 250,
             "date": "5/9/2016",
-            "contributor": "Lopez, Lisa G"
+            "contributor": "Lopez, Lisa G",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/18/2016",
-            "contributor": "Mignatti, Tj Jr"
+            "contributor": "Mignatti, Tj Jr",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/18/2016",
-            "contributor": "Mckenna, Steve"
+            "contributor": "Mckenna, Steve",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/25/2016",
-            "contributor": "Fox, Joseph L"
+            "contributor": "Fox, Joseph L",
+            "amount": 500
         }
     ],
     "111": [
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Whitesell, Deborah K"
+            "contributor": "Whitesell, Deborah K",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Whitesell, Thomas R"
+            "contributor": "Whitesell, Thomas R",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "10/11/2016",
-            "contributor": "Levin, Michael"
+            "contributor": "Levin, Michael",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "6/2/2016",
-            "contributor": "Ganek, Howard"
+            "contributor": "Ganek, Howard",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Zausner, Freeman"
+            "contributor": "Zausner, Freeman",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "4/15/2016",
-            "contributor": "Zausner, Freeman"
+            "contributor": "Zausner, Freeman",
+            "amount": 500
         },
         {
-            "amount": 2500,
             "date": "10/22/2015",
-            "contributor": "Tilton, John T Jr"
+            "contributor": "Tilton, John T Jr",
+            "amount": 2500
         },
         {
-            "amount": 500,
             "date": "3/9/2015",
-            "contributor": "Lee, Eukyung"
+            "contributor": "Lee, Eukyung",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/19/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Celler, Herbert"
+            "contributor": "Celler, Herbert",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "3/18/2015",
-            "contributor": "Collier, Douglas W"
+            "contributor": "Collier, Douglas W",
+            "amount": 2700
         },
         {
-            "amount": 800,
             "date": "12/8/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 800
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Miller, Charles S"
+            "contributor": "Miller, Charles S",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Jones, Tony"
+            "contributor": "Jones, Tony",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "7/30/2015",
-            "contributor": "Cavaco, Isabella"
+            "contributor": "Cavaco, Isabella",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "Nelligan, Timothy"
+            "contributor": "Nelligan, Timothy",
+            "amount": 1000
         },
         {
-            "amount": 300,
             "date": "8/10/2015",
-            "contributor": "Lee, Kee H"
+            "contributor": "Lee, Kee H",
+            "amount": 300
         },
         {
-            "amount": 200,
             "date": "12/8/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 200
         },
         {
-            "amount": 1000,
             "date": "9/1/2015",
-            "contributor": "Lazovitz, Stephen"
+            "contributor": "Lazovitz, Stephen",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/22/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 1000
         },
         {
-            "amount": 200,
             "date": "12/22/2015",
-            "contributor": "Lee, Eukyung"
+            "contributor": "Lee, Eukyung",
+            "amount": 200
         },
         {
-            "amount": 100,
             "date": "8/17/2015",
-            "contributor": "Lee, Eukyung"
+            "contributor": "Lee, Eukyung",
+            "amount": 100
         },
         {
-            "amount": 300,
             "date": "9/15/2015",
-            "contributor": "Larson, Marion"
+            "contributor": "Larson, Marion",
+            "amount": 300
         },
         {
-            "amount": 1000,
             "date": "6/30/2015",
-            "contributor": "Johnson, David"
+            "contributor": "Johnson, David",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2015",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "8/3/2015",
-            "contributor": "Silk, Margot"
+            "contributor": "Silk, Margot",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "6/22/2015",
-            "contributor": "Loveys, Ralph"
+            "contributor": "Loveys, Ralph",
+            "amount": 250
         },
         {
-            "amount": 1500,
             "date": "6/22/2015",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "12/8/2015",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Jones, Tony"
+            "contributor": "Jones, Tony",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "6/21/2016",
-            "contributor": "Hanold, Robert D Sr"
+            "contributor": "Hanold, Robert D Sr",
+            "amount": 200
         },
         {
-            "amount": 250,
             "date": "9/16/2016",
-            "contributor": "Franks, Frances S"
+            "contributor": "Franks, Frances S",
+            "amount": 250
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Tahaney, Thomas G"
+            "contributor": "Tahaney, Thomas G",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "10/31/2016",
-            "contributor": "Saker, Laura A"
+            "contributor": "Saker, Laura A",
+            "amount": 2700
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 1500
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 200,
             "date": "6/21/2016",
-            "contributor": "Hanold, Robert D Sr"
+            "contributor": "Hanold, Robert D Sr",
+            "amount": 200
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Martin, David"
+            "contributor": "Martin, David",
+            "amount": 50
         },
         {
-            "amount": 2000,
             "date": "10/13/2016",
-            "contributor": "Krakauer, Randall S"
+            "contributor": "Krakauer, Randall S",
+            "amount": 2000
         },
         {
-            "amount": 50,
             "date": "11/8/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 25
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Lee, Kee H"
+            "contributor": "Lee, Kee H",
+            "amount": 25
         },
         {
-            "amount": 2300,
             "date": "7/15/2016",
-            "contributor": "Mcfadden, Mary"
+            "contributor": "Mcfadden, Mary",
+            "amount": 2300
         },
         {
-            "amount": 50,
             "date": "9/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 20,
             "date": "11/4/2016",
-            "contributor": "Merklin, Walter"
+            "contributor": "Merklin, Walter",
+            "amount": 20
         },
         {
-            "amount": 500,
             "date": "10/31/2016",
-            "contributor": "Warner, Michael"
+            "contributor": "Warner, Michael",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "6/13/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Johnson, David"
+            "contributor": "Johnson, David",
+            "amount": 500
         },
         {
-            "amount": 50,
             "date": "4/18/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Neely, Susan C"
+            "contributor": "Neely, Susan C",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "5/25/2016",
-            "contributor": "Chalsty, Jennifer A"
+            "contributor": "Chalsty, Jennifer A",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/30/2016",
-            "contributor": "Lee, Mary Ann"
+            "contributor": "Lee, Mary Ann",
+            "amount": 1000
         },
         {
-            "amount": 2700,
             "date": "7/15/2016",
-            "contributor": "Mcfadden, Mary"
+            "contributor": "Mcfadden, Mary",
+            "amount": 2700
         },
         {
-            "amount": 50,
             "date": "9/16/2016",
-            "contributor": "Adams, Judith"
+            "contributor": "Adams, Judith",
+            "amount": 50
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Lee, Kee H"
+            "contributor": "Lee, Kee H",
+            "amount": 25
         },
         {
-            "amount": 1000,
             "date": "10/19/2016",
-            "contributor": "Richter, Irvin"
+            "contributor": "Richter, Irvin",
+            "amount": 1000
         },
         {
-            "amount": 50,
             "date": "5/18/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 50
         },
         {
-            "amount": 1000,
             "date": "11/1/2016",
-            "contributor": "Jones, Tony"
+            "contributor": "Jones, Tony",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Lee, Mary Ann"
+            "contributor": "Lee, Mary Ann",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "8/16/2016",
-            "contributor": "Adesso, William J"
+            "contributor": "Adesso, William J",
+            "amount": 250
         },
         {
-            "amount": 25,
             "date": "6/30/2016",
-            "contributor": "Schmidt, Carl"
+            "contributor": "Schmidt, Carl",
+            "amount": 25
         },
         {
-            "amount": 150,
             "date": "9/30/2016",
-            "contributor": "Guerra, Toni Elise"
+            "contributor": "Guerra, Toni Elise",
+            "amount": 150
         },
         {
-            "amount": 100,
             "date": "4/28/2016",
-            "contributor": "Boakes, James C"
+            "contributor": "Boakes, James C",
+            "amount": 100
         },
         {
-            "amount": 2700,
             "date": "7/30/2015",
-            "contributor": "Cavaco, Manuel"
+            "contributor": "Cavaco, Manuel",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "4/28/2016",
-            "contributor": "Falkenberg, Edward"
+            "contributor": "Falkenberg, Edward",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "4/28/2016",
-            "contributor": "Lawrence, Andrew"
+            "contributor": "Lawrence, Andrew",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Debenedictis, Nicholas"
+            "contributor": "Debenedictis, Nicholas",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Durbin, John T"
+            "contributor": "Durbin, John T",
+            "amount": 250
         }
     ],
     "112": [
         {
-            "amount": 2700,
             "date": "6/10/2016",
-            "contributor": "Singh, Krishna"
+            "contributor": "Singh, Krishna",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Oneid, Pierre P"
+            "contributor": "Oneid, Pierre P",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Mayer, Michele R"
+            "contributor": "Mayer, Michele R",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/2/2016",
-            "contributor": "Sole, Mark"
+            "contributor": "Sole, Mark",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Chaudhary, Pankaj K"
+            "contributor": "Chaudhary, Pankaj K",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Chaudhary, Joy R"
+            "contributor": "Chaudhary, Joy R",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Grandrimo, Erika"
+            "contributor": "Grandrimo, Erika",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Woodward, William"
+            "contributor": "Woodward, William",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Babos, Martin J Jr"
+            "contributor": "Babos, Martin J Jr",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/8/2016",
-            "contributor": "Hickman, Allen K Jr"
+            "contributor": "Hickman, Allen K Jr",
+            "amount": 1000
         }
     ],
     "113": [
         {
-            "amount": 1000,
             "date": "6/24/2016",
-            "contributor": "Udine, Glen R"
+            "contributor": "Udine, Glen R",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "11/19/2015",
-            "contributor": "Chamberlain, Robert C"
+            "contributor": "Chamberlain, Robert C",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/17/2016",
-            "contributor": "Chamberlain, Robert C"
+            "contributor": "Chamberlain, Robert C",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Anderson, Leonard E"
+            "contributor": "Anderson, Leonard E",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/18/2015",
-            "contributor": "Telesh, John"
+            "contributor": "Telesh, John",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Delduca, Joseph A"
+            "contributor": "Delduca, Joseph A",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "3/24/2016",
-            "contributor": "Walters, Edward M Jr"
+            "contributor": "Walters, Edward M Jr",
+            "amount": 250
         },
         {
-            "amount": 200,
             "date": "12/23/2015",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 200
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Cohen, Ira A"
+            "contributor": "Cohen, Ira A",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Mcdaniel, Denis"
+            "contributor": "Mcdaniel, Denis",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "6/23/2015",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 100
         },
         {
-            "amount": 100,
             "date": "12/23/2015",
-            "contributor": "Maguire, David"
+            "contributor": "Maguire, David",
+            "amount": 100
         },
         {
-            "amount": 200,
             "date": "9/30/2016",
-            "contributor": "Barrish, Janet"
+            "contributor": "Barrish, Janet",
+            "amount": 200
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 100
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Breisch, William R"
+            "contributor": "Breisch, William R",
+            "amount": 100
         },
         {
-            "amount": 2000,
             "date": "9/30/2016",
-            "contributor": "Haines, William Jr"
+            "contributor": "Haines, William Jr",
+            "amount": 2000
         },
         {
-            "amount": 100,
             "date": "9/16/2016",
-            "contributor": "Mcdaniel, Denis"
+            "contributor": "Mcdaniel, Denis",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "9/13/2016",
-            "contributor": "Telesh, John"
+            "contributor": "Telesh, John",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "6/17/2016",
-            "contributor": "Anderson, Leonard E"
+            "contributor": "Anderson, Leonard E",
+            "amount": 300
         },
         {
-            "amount": 100,
             "date": "8/16/2016",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 100
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Mino, William"
+            "contributor": "Mino, William",
+            "amount": 500
         },
         {
-            "amount": 100,
             "date": "11/4/2016",
-            "contributor": "Maguire, David"
+            "contributor": "Maguire, David",
+            "amount": 100
         },
         {
-            "amount": 250,
             "date": "6/13/2016",
-            "contributor": "Stahl, Donald"
+            "contributor": "Stahl, Donald",
+            "amount": 250
         },
         {
-            "amount": 25,
             "date": "9/30/2016",
-            "contributor": "Stahl, Donald"
+            "contributor": "Stahl, Donald",
+            "amount": 25
         },
         {
-            "amount": 50,
             "date": "9/16/2016",
-            "contributor": "Bekiarian, Frederick"
+            "contributor": "Bekiarian, Frederick",
+            "amount": 50
         },
         {
-            "amount": 500,
             "date": "5/13/2016",
-            "contributor": "Lynch, Laurence"
+            "contributor": "Lynch, Laurence",
+            "amount": 500
         }
     ],
     "114": [
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Eckstein, Henry"
+            "contributor": "Eckstein, Henry",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "9/30/2016",
-            "contributor": "Eckstein, Henry"
+            "contributor": "Eckstein, Henry",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "7/13/2015",
-            "contributor": "Gong, Yukuan"
+            "contributor": "Gong, Yukuan",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "3/24/2016",
-            "contributor": "Grunin, Laura B"
+            "contributor": "Grunin, Laura B",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "9/21/2015",
-            "contributor": "Larson, Pamela"
+            "contributor": "Larson, Pamela",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "6/30/2015",
-            "contributor": "Mannion, Laura J"
+            "contributor": "Mannion, Laura J",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "11/7/2016",
-            "contributor": "Sarinelli, Dianne"
+            "contributor": "Sarinelli, Dianne",
+            "amount": 250
         },
         {
-            "amount": 1000,
             "date": "10/19/2016",
-            "contributor": "Barlow, Theresa J"
+            "contributor": "Barlow, Theresa J",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Hamilton, M Scott"
+            "contributor": "Hamilton, M Scott",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "11/7/2016",
-            "contributor": "Collins, Carolyn J"
+            "contributor": "Collins, Carolyn J",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Draper, James"
+            "contributor": "Draper, James",
+            "amount": 500
         },
         {
-            "amount": 300,
             "date": "10/13/2016",
-            "contributor": "Parrillo, Lorella"
+            "contributor": "Parrillo, Lorella",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "5/9/2016",
-            "contributor": "Lefkowitz, Frances"
+            "contributor": "Lefkowitz, Frances",
+            "amount": 500
         }
     ],
     "115": [
         {
-            "amount": 2700,
             "date": "6/30/2016",
-            "contributor": "Griffin, Kenneth"
+            "contributor": "Griffin, Kenneth",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "9/30/2016",
-            "contributor": "Leob, Daniel"
+            "contributor": "Leob, Daniel",
+            "amount": 2700
         }
     ],
     "116": [
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Cutler, Theodore H Mr"
+            "contributor": "Cutler, Theodore H Mr",
+            "amount": 1000
         }
     ],
     "117": [
         {
-            "amount": 500,
             "date": "10/28/2016",
-            "contributor": "Griswold, Elizabeth M"
+            "contributor": "Griswold, Elizabeth M",
+            "amount": 500
         }
     ],
     "118": [
         {
-            "amount": 500,
             "date": "6/13/2016",
-            "contributor": "Rossetti, Stephen"
+            "contributor": "Rossetti, Stephen",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/31/2015",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "12/14/2015",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 250
         },
         {
-            "amount": 250,
             "date": "12/8/2015",
-            "contributor": "Mcpherson, Jorge L"
+            "contributor": "Mcpherson, Jorge L",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "5/28/2015",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "6/17/2016",
-            "contributor": "Buckert, Walter J Jr"
+            "contributor": "Buckert, Walter J Jr",
+            "amount": 500
         }
     ],
     "119": [
         {
-            "amount": 500,
             "date": "6/16/2015",
-            "contributor": "Zausner, Freeman"
+            "contributor": "Zausner, Freeman",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/13/2016",
-            "contributor": "Tanenbaum, Steven R"
+            "contributor": "Tanenbaum, Steven R",
+            "amount": 500
         }
     ],
     "120": [
         {
-            "amount": 1000,
             "date": "2/8/2016",
-            "contributor": "Haley, Henry J"
+            "contributor": "Haley, Henry J",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/17/2016",
-            "contributor": "Pierson, Jay F"
+            "contributor": "Pierson, Jay F",
+            "amount": 500
         },
         {
-            "amount": 1000,
             "date": "3/31/2016",
-            "contributor": "Rodgers, Norman K"
+            "contributor": "Rodgers, Norman K",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/18/2016",
-            "contributor": "Hossain, Iftekhar"
+            "contributor": "Hossain, Iftekhar",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "2/16/2016",
-            "contributor": "Fischette, Michael"
+            "contributor": "Fischette, Michael",
+            "amount": 1000
         }
     ],
     "121": [
         {
-            "amount": 1000,
             "date": "11/30/2015",
-            "contributor": "Chowdhury, Sailesh"
+            "contributor": "Chowdhury, Sailesh",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "6/10/2016",
-            "contributor": "Chowdhury, Sailesh"
+            "contributor": "Chowdhury, Sailesh",
+            "amount": 1000
         }
     ],
     "122": [
         {
-            "amount": 500,
             "date": "3/12/2015",
-            "contributor": "Appleby, Judy"
+            "contributor": "Appleby, Judy",
+            "amount": 500
         }
     ],
     "123": [
         {
-            "amount": 2700,
             "date": "3/18/2015",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 2700
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 2000
         },
         {
-            "amount": 2000,
             "date": "9/30/2016",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 2000
         },
         {
-            "amount": 1300,
             "date": "9/30/2016",
-            "contributor": "Reichle, Jeffrey"
+            "contributor": "Reichle, Jeffrey",
+            "amount": 1300
         }
     ],
     "124": [
         {
-            "amount": 2700,
             "date": "3/12/2015",
-            "contributor": "Burris, William Jr"
+            "contributor": "Burris, William Jr",
+            "amount": 2700
         },
         {
-            "amount": 950,
             "date": "3/14/2016",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 950
         },
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Ballerini, Lisa Santaite"
+            "contributor": "Ballerini, Lisa Santaite",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "3/23/2015",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 1000
         },
         {
-            "amount": 500,
             "date": "3/30/2016",
-            "contributor": "Hardell, Tom"
+            "contributor": "Hardell, Tom",
+            "amount": 500
         },
         {
-            "amount": 700,
             "date": "9/24/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 700
         },
         {
-            "amount": 2600,
             "date": "6/30/2015",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2600
         },
         {
-            "amount": 500,
             "date": "9/24/2015",
-            "contributor": "Burris, William G Iii"
+            "contributor": "Burris, William G Iii",
+            "amount": 500
         },
         {
-            "amount": 2000,
             "date": "6/30/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 2000
         },
         {
-            "amount": 1000,
             "date": "7/20/2015",
-            "contributor": "Heitzman, Thomas"
+            "contributor": "Heitzman, Thomas",
+            "amount": 1000
         },
         {
-            "amount": 1300,
             "date": "3/14/2016",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 1300
         },
         {
-            "amount": 250,
             "date": "3/31/2016",
-            "contributor": "Garcia, Dictinio"
+            "contributor": "Garcia, Dictinio",
+            "amount": 250
         },
         {
-            "amount": 2600,
             "date": "2/26/2016",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2600
         },
         {
-            "amount": 2600,
             "date": "2/26/2016",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2600
         },
         {
-            "amount": 300,
             "date": "12/8/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 300
         },
         {
-            "amount": 750,
             "date": "11/30/2015",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 750
         },
         {
-            "amount": 2700,
             "date": "11/30/2015",
-            "contributor": "Yagci, Cengiz"
+            "contributor": "Yagci, Cengiz",
+            "amount": 2700
         },
         {
-            "amount": 300,
             "date": "9/24/2015",
-            "contributor": "Burris, William G Jr"
+            "contributor": "Burris, William G Jr",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "11/4/2016",
-            "contributor": "Dasti, Jerry"
+            "contributor": "Dasti, Jerry",
+            "amount": 500
         },
         {
-            "amount": 1500,
             "date": "9/16/2016",
-            "contributor": "Heitzman, Thomas"
+            "contributor": "Heitzman, Thomas",
+            "amount": 1500
         },
         {
-            "amount": 1000,
             "date": "7/8/2016",
-            "contributor": "Acosta, Rolando E"
+            "contributor": "Acosta, Rolando E",
+            "amount": 1000
         },
         {
-            "amount": 750,
             "date": "3/31/2016",
-            "contributor": "Garcia, Dictinio"
+            "contributor": "Garcia, Dictinio",
+            "amount": 750
         },
         {
-            "amount": 2700,
             "date": "10/13/2016",
-            "contributor": "Ferreira, Nelson"
+            "contributor": "Ferreira, Nelson",
+            "amount": 2700
         }
     ],
     "125": [
         {
-            "amount": 400,
             "date": "3/4/2015",
-            "contributor": "Gerasoulis, Apostolos"
+            "contributor": "Gerasoulis, Apostolos",
+            "amount": 400
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Gerasoulis, Apostolos"
+            "contributor": "Gerasoulis, Apostolos",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "9/21/2015",
-            "contributor": "Gerasoulis, Apostolos"
+            "contributor": "Gerasoulis, Apostolos",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Buckley-blaskovich, Virginia"
+            "contributor": "Buckley-blaskovich, Virginia",
+            "amount": 500
         }
     ],
     "126": [
         {
-            "amount": 500,
             "date": "3/17/2016",
-            "contributor": "White, Noreen P"
+            "contributor": "White, Noreen P",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "3/17/2016",
-            "contributor": "Whelan, Kim M"
+            "contributor": "Whelan, Kim M",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Shirley"
+            "contributor": "Hill, Shirley",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Vernon W Ii"
+            "contributor": "Hill, Vernon W Ii",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Shirley"
+            "contributor": "Hill, Shirley",
+            "amount": 2700
         },
         {
-            "amount": 2700,
             "date": "8/4/2015",
-            "contributor": "Hill, Vernon W Ii"
+            "contributor": "Hill, Vernon W Ii",
+            "amount": 2700
         },
         {
-            "amount": 1000,
             "date": "8/8/2016",
-            "contributor": "Ferrara, Steven A"
+            "contributor": "Ferrara, Steven A",
+            "amount": 1000
         },
         {
-            "amount": 1600,
             "date": "8/10/2016",
-            "contributor": "Trimboli, Anthony"
+            "contributor": "Trimboli, Anthony",
+            "amount": 1600
         },
         {
-            "amount": 500,
             "date": "2/16/2016",
-            "contributor": "Toscano, Kristine H"
+            "contributor": "Toscano, Kristine H",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/15/2015",
-            "contributor": "Fishman, Steven F"
+            "contributor": "Fishman, Steven F",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "10/18/2016",
-            "contributor": "Bernstein, Marc"
+            "contributor": "Bernstein, Marc",
+            "amount": 500
         }
     ],
     "127": [
         {
-            "amount": 2700,
             "date": "3/12/2015",
-            "contributor": "Perna, Adam"
+            "contributor": "Perna, Adam",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "5/12/2016",
-            "contributor": "Shlafmitz, Howard"
+            "contributor": "Shlafmitz, Howard",
+            "amount": 500
         }
     ],
     "128": [
         {
-            "amount": 250,
             "date": "3/30/2016",
-            "contributor": "Weinstein, James"
+            "contributor": "Weinstein, James",
+            "amount": 250
         }
     ],
     "129": [
         {
-            "amount": 250,
             "date": "3/4/2015",
-            "contributor": "Kenny, Peter"
+            "contributor": "Kenny, Peter",
+            "amount": 250
         },
         {
-            "amount": 50,
             "date": "6/8/2015",
-            "contributor": "Kenny, Peter"
+            "contributor": "Kenny, Peter",
+            "amount": 50
         },
         {
-            "amount": 50,
             "date": "11/4/2016",
-            "contributor": "Kenny, Peter"
+            "contributor": "Kenny, Peter",
+            "amount": 50
         }
     ],
     "130": [
         {
-            "amount": 250,
             "date": "3/9/2015",
-            "contributor": "Delvento, Al"
+            "contributor": "Delvento, Al",
+            "amount": 250
         },
         {
-            "amount": 300,
             "date": "7/27/2015",
-            "contributor": "Fernandez, Luis"
+            "contributor": "Fernandez, Luis",
+            "amount": 300
         },
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Brown, William"
+            "contributor": "Brown, William",
+            "amount": 300
         },
         {
-            "amount": 500,
             "date": "9/30/2016",
-            "contributor": "Lee, Stephen V Iv"
+            "contributor": "Lee, Stephen V Iv",
+            "amount": 500
         },
         {
-            "amount": 250,
             "date": "8/16/2016",
-            "contributor": "Comito, Michael"
+            "contributor": "Comito, Michael",
+            "amount": 250
         }
     ],
     "131": [
         {
-            "amount": 500,
             "date": "7/20/2015",
-            "contributor": "Rolf, Stephen"
+            "contributor": "Rolf, Stephen",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "8/3/2015",
-            "contributor": "Holden, William K"
+            "contributor": "Holden, William K",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "9/20/2016",
-            "contributor": "Brennan, Jim Jr"
+            "contributor": "Brennan, Jim Jr",
+            "amount": 2700
         },
         {
-            "amount": 500,
             "date": "8/31/2016",
-            "contributor": "Farber, Robert A"
+            "contributor": "Farber, Robert A",
+            "amount": 500
         },
         {
-            "amount": 2700,
             "date": "7/27/2015",
-            "contributor": "Brennan, Jim Jr"
+            "contributor": "Brennan, Jim Jr",
+            "amount": 2700
         }
     ],
     "132": [
         {
-            "amount": 1000,
             "date": "3/30/2016",
-            "contributor": "Burdi, Gerard L"
+            "contributor": "Burdi, Gerard L",
+            "amount": 1000
         }
     ],
     "133": [
         {
-            "amount": 2500,
             "date": "3/1/2016",
-            "contributor": "Haydinger, Richard J"
+            "contributor": "Haydinger, Richard J",
+            "amount": 2500
         },
         {
-            "amount": 2000,
             "date": "11/8/2016",
-            "contributor": "Middleman, Stanley"
+            "contributor": "Middleman, Stanley",
+            "amount": 2000
         }
     ],
     "134": [
         {
-            "amount": 100,
             "date": "12/23/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 100
         },
         {
-            "amount": 300,
             "date": "7/28/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 300
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Ruggero, Robert"
+            "contributor": "Ruggero, Robert",
+            "amount": 350
         },
         {
-            "amount": 100,
             "date": "9/15/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 100
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Hatala, Alexander"
+            "contributor": "Hatala, Alexander",
+            "amount": 350
         },
         {
-            "amount": 100,
             "date": "9/30/2015",
-            "contributor": "Costabile, Joseph P"
+            "contributor": "Costabile, Joseph P",
+            "amount": 100
         },
         {
-            "amount": 250,
             "date": "10/23/2015",
-            "contributor": "Carter, Joan"
+            "contributor": "Carter, Joan",
+            "amount": 250
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Segin, Bob"
+            "contributor": "Segin, Bob",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/16/2016",
-            "contributor": "Hipp, Frederick Jr"
+            "contributor": "Hipp, Frederick Jr",
+            "amount": 500
         },
         {
-            "amount": 500,
             "date": "9/20/2016",
-            "contributor": "Lowe, Gerry"
+            "contributor": "Lowe, Gerry",
+            "amount": 500
         },
         {
-            "amount": 350,
             "date": "10/23/2015",
-            "contributor": "Hammond, Michael J"
+            "contributor": "Hammond, Michael J",
+            "amount": 350
         },
         {
-            "amount": 1000,
             "date": "9/16/2016",
-            "contributor": "Miller, Richard P"
+            "contributor": "Miller, Richard P",
+            "amount": 1000
         },
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Steffl, Jerome"
+            "contributor": "Steffl, Jerome",
+            "amount": 250
         }
     ],
     "135": [
         {
-            "amount": 250,
             "date": "9/21/2015",
-            "contributor": "Maressa, Joseph A Jr"
+            "contributor": "Maressa, Joseph A Jr",
+            "amount": 250
         }
     ],
     "136": [
         {
-            "amount": 300,
             "date": "8/3/2015",
-            "contributor": "Giordano, Frank"
+            "contributor": "Giordano, Frank",
+            "amount": 300
         },
         {
-            "amount": 1350,
             "date": "10/19/2016",
-            "contributor": "Giordano, Frank"
+            "contributor": "Giordano, Frank",
+            "amount": 1350
         }
     ],
     "137": [
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Schmid, Maryann"
+            "contributor": "Schmid, Maryann",
+            "amount": 500
         },
         {
-            "amount": 481,
             "date": "5/2/2016",
-            "contributor": "Schmid, Maryann"
+            "contributor": "Schmid, Maryann",
+            "amount": 481
         }
     ],
     "138": [
         {
-            "amount": 250,
             "date": "12/23/2015",
-            "contributor": "Zallie, George"
+            "contributor": "Zallie, George",
+            "amount": 250
         },
         {
-            "amount": 2700,
             "date": "10/31/2016",
-            "contributor": "Saker, Richard J"
+            "contributor": "Saker, Richard J",
+            "amount": 2700
         }
     ],
     "139": [
         {
-            "amount": 250,
             "date": "11/20/2015",
-            "contributor": "Alstede, Kurt"
+            "contributor": "Alstede, Kurt",
+            "amount": 250
         }
     ],
     "140": [
         {
-            "amount": 2700,
             "date": "9/30/2016",
-            "contributor": "Langer, Jerrold I"
+            "contributor": "Langer, Jerrold I",
+            "amount": 2700
         }
     ],
     "141": [
         {
-            "amount": 500,
             "date": "11/1/2016",
-            "contributor": "Stockwell, William B"
+            "contributor": "Stockwell, William B",
+            "amount": 500
         }
     ],
     "142": [
         {
-            "amount": 300,
             "date": "10/19/2016",
-            "contributor": "Fox, Harry"
+            "contributor": "Fox, Harry",
+            "amount": 300
         }
     ],
     "143": [
         {
-            "amount": 1000,
             "date": "8/16/2016",
-            "contributor": "Buckelew, Joseph"
+            "contributor": "Buckelew, Joseph",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "4/18/2016",
-            "contributor": "Stamatakis, Manuel"
+            "contributor": "Stamatakis, Manuel",
+            "amount": 1000
         },
         {
-            "amount": 1000,
             "date": "10/18/2016",
-            "contributor": "Stamatakis, Manuel"
+            "contributor": "Stamatakis, Manuel",
+            "amount": 1000
         }
     ],
     "144": [
         {
-            "amount": 2700,
             "date": "6/30/2016",
-            "contributor": "Catsimatidis, John"
+            "contributor": "Catsimatidis, John",
+            "amount": 2700
         }
     ],
     "145": [
         {
-            "amount": 500,
             "date": "10/19/2016",
-            "contributor": "Depaul, Peter"
+            "contributor": "Depaul, Peter",
+            "amount": 500
         }
     ],
     "146": [
         {
-            "amount": 500,
             "date": "12/8/2015",
-            "contributor": "Hagy, Richard E Ii"
+            "contributor": "Hagy, Richard E Ii",
+            "amount": 500
         }
     ]
 };

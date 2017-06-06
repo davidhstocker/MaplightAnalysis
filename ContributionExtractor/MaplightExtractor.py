@@ -17,7 +17,7 @@ Data format is "Date","Amount","Recipient","Party","Office","District","District
 #!/usr/bin/env python3
 
 import os
-import sys
+import argparse
 import codecs
 import json
 
@@ -30,7 +30,11 @@ detailData = {0 : []}
 aMasterData = []
 aDetailData = []
 
+class MultipleRecipientError(ValueError):
+    pass
 
+class MissingContributionFileError(ValueError):
+    pass
     
 if __name__ == "__main__":
     insertStatements = []
@@ -38,7 +42,17 @@ if __name__ == "__main__":
         #When the user elects to download the contributions of a single legislator, then it will be contained in a 
         #    comma separated values file, called contribuions.csv
         #Read it!
-        sorceFileName = sys.argv[1]
+        
+        parser = argparse.ArgumentParser(description="Maplight Contribution Extractor")
+        parser.add_argument("-f", "--filename", type=str, help="|String| Filename containing the maplight legislator contribution CSV.  http://maplight.org/data/passthrough/#legacyurl=http://classic.maplight.org/us-congress/legislator  \n ")
+        args = parser.parse_args()
+    
+        if args.filename:
+            sorceFileName = args.filename
+        else:
+            errorMsg = "No filename given for extraction!  The Maplight Extractor is expecting a legislator csv file downloaded from Maplight.org.  http://maplight.org/data/passthrough/#legacyurl=http://classic.maplight.org/us-congress/legislator"
+            raise MissingContributionFileError(errorMsg)
+            
         filePath = os.path.realpath(__file__)
         selfDir = os.path.dirname(filePath)
         dataLocation = os.path.join(selfDir, sorceFileName)
@@ -57,6 +71,9 @@ if __name__ == "__main__":
         fileStringParty = 'headerText_Party = "%s";\n' %party
         fileStringDistrict = 'headerText_District = "%s";\n' %district
         
+        startYear = 9999  #Give a start year well outside the possible ranges.  We'll be looking through the file for the lowest start year
+        endYear = 0  #Likewise, we'll be searching for the highest possible year value for endYear
+        
         nthLine = 0
         for eachReadLine in allLines:
             try:
@@ -66,6 +83,18 @@ if __name__ == "__main__":
                     eachReadLine = eachReadLine[1:-1]
                     parsedDataRow = eachReadLine.split("\",\"")
                     
+                    if parsedDataRow[2] != recipient:
+                        errorMsg = "Multiple recipients detected %s, %s.  Current Version of Maplight Extractor can only handle a single recipient." %(recipient, parsedDataRow[0])
+                        raise MultipleRecipientError(errorMsg)
+                        
+                    #Find the year
+                    parsedDate = parsedDataRow[0].split("/")
+                    currYear = int(parsedDate[2])
+                    if startYear > currYear:
+                        startYear = currYear
+                    if endYear < currYear:
+                        endYear = currYear
+                        
                     #Dollar amounts carry a dollar sign and comma thousand separators.  Strip them and convert the string to an int
                     amount = parsedDataRow[1]
                     amount = amount.replace(',', '')
@@ -118,8 +147,10 @@ if __name__ == "__main__":
                     aigDetailEntry.append(newDetailLineItem)
                     detailData[0] = aigDetailEntry 
                                   
-                nthLine = nthLine + 1    
-            except Exception:
+                nthLine = nthLine + 1   
+            except MultipleRecipientError as e:
+                raise e 
+            except Exception as e:
                 pass
         
         #Format the master and detail data in a UI5 friendly JSON format
@@ -128,56 +159,23 @@ if __name__ == "__main__":
         fileStringMasterDataJSON = 'masterData = %s;\n' %masterDataJSON
         fileStringDetailDataJSON = 'detailDataAll = %s;\n' %detailDataJSON
         
+        fileStartYear = 'headerText_StartYear = "%s";\n' %startYear
+        fileEndYear = 'headerText_EndYear = "%s";\n' %endYear
+        
         #write the data
         dataLocation = os.path.join(selfDir, "contribdata.js")
         writeLoc = codecs.open(dataLocation, "w", "utf-8")
-        writeLoc.writelines([fileStringRecipient, fileStringParty, fileStringDistrict, fileStringMasterDataJSON, fileStringDetailDataJSON])
+        writeLoc.writelines([fileStringRecipient, fileStringParty, fileStringDistrict, fileStartYear, fileEndYear, fileStringMasterDataJSON, fileStringDetailDataJSON])
         writeLoc.close
+        
+        finishMessage = "Contribution data for %s, %s, %s in years %s - %s exported to contribdata.js" %(recipient, party, district, startYear, endYear)
+        print(finishMessage)
 
+    except MissingContributionFileError as e:
+        print(e)
+    except MultipleRecipientError as e:
+        print(e)
     except Exception as e:
         raise e
-    
-    
-    
-    
-    print("Done")
-    
-    
-    """
-                readRow(eachReadLine)        
-        
-        #For managing the type of upload
-        loadFlag = "all"
-        try:
-            if sys.argv[4] == "metadata":
-                loadFlag = "metadata"
-                print("... loading metadata (including stations) only")
-            elif sys.argv[4] == "data":
-                loadFlag = "data"
-                print("... loading fact table data only")
-            else:
-                print("... loading metadata (including stations) and fact table data")
-        except:
-            print("... loading metadata (including stations) and fact table data")
 
-        #Read the files
-        if (loadFlag == "all") or (loadFlag == "metadata"):
-            flagData = WeatherData.getLoadFlags()
-            stationData = WeatherData.getStations()
-            insertStatements.extend(flagData)
-            insertStatements.extend(stationData)
-        if (loadFlag == "all") or (loadFlag == "data"):    
-            factTableData = WeatherData.getDailyFiles()  
-            insertStatements.extend(factTableData)  
-            
-        filePath = os.path.realpath(__file__)
-        selfDir = os.path.dirname(filePath)
-        dataLocation = os.path.join(selfDir, targetFileName)
-        
-        f = codecs.open( dataLocation, 'w', 'utf-8' )
-        for l in insertStatements:
-            f.write("%s;\n" % l)
-        f.close
-    
-    """
 
