@@ -36,7 +36,7 @@
 			//We are using the master/detail UI pattern, so we'll use masterX and detailX naming conventions
 			var screenWidth = $( window ).width();
 			var screenHeight = $( window ).height();
-			var row2Height = screenHeight - 150;  
+			var row2Height = screenHeight - 120;  
 			var baseColMasterWidth = 400;
 			var colMasterWidth = '' + baseColMasterWidth + 'px';
 			var baseColDetailWidth = screenWidth - baseColMasterWidth - 60;
@@ -187,6 +187,7 @@
 				}
 			});
 
+			var didUKnow = 'Did you know that the average member of Congress spends 30 hours per week begging for money from donors?';
 			var textHeaderInfo = 'Contributions to ' + headerText_Recipient +', ' + headerText_Party + ', ' + headerText_District + ' (' + headerText_StartYear + ' to ' + headerText_EndYear + ')';
 			document.title = textHeaderInfo;
 			
@@ -271,7 +272,7 @@
 			///////////////////
 			var rowFooter = new sap.ui.commons.layout.MatrixLayoutRow({
 				id : 'Row_Footer',
-				height: '75px' });
+				height: '40px' });
 			oLayout.addRow(rowFooter);	
 
 			// Left Margin Padding
@@ -287,11 +288,25 @@
 				backgroundDesign : sap.ui.commons.layout.BackgroundDesign.Transparent,
 				colSpan : 4 });
 
+			// The Data on Maplight.org is originally from OpenSecrets.org
+			var oLink1 = new sap.ui.commons.Link({
+				text: "Source: OpenSecrets.org",
+				tooltip: "Original Data provided by OpenSecrets.org",
+				uri: 'https://www.opensecrets.org/' });
+			
+			// Don't forget Maplight.org
+			var oLink2 = new sap.ui.commons.Link({
+				text: "Source: Maplight.org",
+				tooltip: "Collected Legislator data assembled by Maplight.org",
+				uri: 'http://maplight.org/data/passthrough/#legacyurl=http://classic.maplight.org/us-congress/legislator' });
+			
+			//Empty.  Just used as a spacer
 			var footerLabelCellTextView = new sap.ui.commons.TextView({
-				text : 'Did you know that the average member of Congress spends 30 hours per week begging for money from donors?',
-				design : sap.ui.commons.TextViewDesign.H2 });
+				width : '20px'});
 
+			footerLabelCell.addContent(oLink1);
 			footerLabelCell.addContent(footerLabelCellTextView);
+			footerLabelCell.addContent(oLink2);
 			rowFooter.addCell(footerLabelCell);		
 			
 			
@@ -326,7 +341,7 @@
 			
 			// A $( document ).ready() block.
 			$( document ).ready(function() {
-				//alert( "ready!" );
+				alert( didUKnow );
 			});
 		</script>
 	</body>
